@@ -1,5 +1,5 @@
 id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_state_name,place_country_name,species_guess
-362148,2013-08-10,39.008258,-78.332503,5.0,Shenandoah,Virginia,United States,tree of heaven
+362148,2013-08-10,39.008258,-78.332503,5.0,Shenandoah,Virginia,United States,tree-of-heaven
 369807,2013-08-17,37.274783,-80.043192,5.0,Salem,Virginia,United States,tree-of-heaven
 824955,2014-08-08,38.686746,-77.786604,32.0,Fauquier,Virginia,United States,tree-of-heaven
 851020,2014-08-27,37.414653,-78.452661,75.0,Buckingham,Virginia,United States,tree-of-heaven
@@ -16,15 +16,14 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 3280571,2016-05-20,38.9047456964,-77.0926945657,1032.0,Arlington,Virginia,United States,tree-of-heaven
 3312410,2016-05-21,38.9651588668,-77.1555125981,234.0,Fairfax,Virginia,United States,tree-of-heaven
 3887470,2016-08-14,38.4077852453,-78.8594680746,5.0,Rockingham,Virginia,United States,tree-of-heaven
-4129760,2016-09-17,37.5741922763,-77.2915715632,5.0,Hanover,Virginia,United States,Tree of heaven
+4129760,2016-09-17,37.5741922763,-77.2915715632,5.0,Hanover,Virginia,United States,tree-of-heaven
 4244723,2016-10-01,37.6599186939,-77.3471263983,5.0,Hanover,Virginia,United States,tree-of-heaven
 4252916,2016-10-01,37.6595734754,-77.3476016521,8.0,Hanover,Virginia,United States,tree-of-heaven
 4457834,2016-10-29,38.77098454,-78.81411787,7.0,Shenandoah,Virginia,United States,tree-of-heaven
-4936704,2017-01-12,37.5300454209,-77.4538619724,10.0,Richmond city,Virginia,United States,Tree of heaven
-5426490,2017-03-22,37.4485493755,-77.6403710101,65.0,Chesterfield,Virginia,United States,Tree of Heaven
-5766953,2017-04-16,38.923191363,-78.0025819224,5.0,Fauquier,Virginia,United States,Tree of heaven
-5820526,2017-04-18,39.0604058421,-78.0540637393,5.0,Clarke,Virginia,United States,
-5986312,2017-04-27,37.8449548642,-78.8224100043,5.0,Nelson,Virginia,United States,tree of heaven
+4936704,2017-01-12,37.5300454209,-77.4538619724,10.0,Richmond city,Virginia,United States,tree-of-heaven
+5426490,2017-03-22,37.4485493755,-77.6403710101,65.0,Chesterfield,Virginia,United States,tree-of-heaven
+5766953,2017-04-16,38.923191363,-78.0025819224,5.0,Fauquier,Virginia,United States,tree-of-heaven
+5986312,2017-04-27,37.8449548642,-78.8224100043,5.0,Nelson,Virginia,United States,tree-of-heaven
 6090863,2017-05-04,37.4485681994,-77.6404012519,65.0,Chesterfield,Virginia,United States,tree-of-heaven
 6287911,2017-05-20,38.8487643795,-77.1047532745,10.0,Arlington,Virginia,United States,tree-of-heaven
 6295778,2017-05-20,38.8637922231,-77.0404234531,15.0,Arlington,Virginia,United States,tree-of-heaven
@@ -33,15 +32,15 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 6606158,2017-06-12,38.6078620042,-77.28428932,64.0,Prince William,Virginia,United States,tree-of-heaven
 6703504,2017-06-16,37.5414785883,-77.4457984139,5.0,Richmond city,Virginia,United States,tree-of-heaven
 6706029,2017-06-16,37.5405827724,-77.4445034099,10.0,Richmond city,Virginia,United States,tree-of-heaven
-6954428,2017-07-07,37.2772808327,-80.110978419,5.0,Roanoke,Virginia,United States,Tree of heaven
-7005777,2017-07-09,37.6294228155,-77.5246743857,4.0,Henrico,Virginia,United States,Tree of heaven
+6954428,2017-07-07,37.2772808327,-80.110978419,5.0,Roanoke,Virginia,United States,tree-of-heaven
+7005777,2017-07-09,37.6294228155,-77.5246743857,4.0,Henrico,Virginia,United States,tree-of-heaven
 7534964,2017-08-17,38.9259849492,-77.382370925,65.0,Fairfax,Virginia,United States,tree-of-heaven
-8041811,2017-09-22,37.232784913,-77.3955350742,5.0,Petersburg,Virginia,United States,Tree of heaven
+8041811,2017-09-22,37.232784913,-77.3955350742,5.0,Petersburg,Virginia,United States,tree-of-heaven
 8312674,2017-10-08,36.7969317315,-78.526925454,10.0,Mecklenburg,Virginia,United States,tree-of-heaven
 8618234,2017-10-30,38.308863,-77.467072,26.0,Fredericksburg,Virginia,United States,tree-of-heaven
 8665385,2017-11-03,37.5445123343,-77.4522325304,5.0,Richmond city,Virginia,United States,tree-of-heaven
 9047271,2017-06-25,36.88233,-81.364425,5.0,Smyth,Virginia,United States,tree-of-heaven
-9936019,2018-02-20,38.7824089593,-77.8024331388,5.0,Fauquier,Virginia,United States,Tree of heaven
+9936019,2018-02-20,38.7824089593,-77.8024331388,5.0,Fauquier,Virginia,United States,tree-of-heaven
 11368445,2018-04-21,37.309034199,-78.4028631449,8.0,Prince Edward,Virginia,United States,tree-of-heaven
 11520410,2018-04-27,38.7834883333,-77.0706555,5.0,Fairfax,Virginia,United States,tree-of-heaven
 11520872,2018-04-27,38.6060611345,-77.2799218074,5.0,Prince William,Virginia,United States,tree-of-heaven
@@ -59,7 +58,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 12806202,2018-05-25,38.86612338,-77.06292398,4.0,Arlington,Virginia,United States,tree-of-heaven
 12813741,2018-05-20,38.782925,-77.0657055,5.0,Fairfax,Virginia,United States,tree-of-heaven
 12938099,2018-05-29,37.6366123511,-77.4759078027,10.0,Henrico,Virginia,United States,tree-of-heaven
-12949970,2018-05-29,37.3030910714,-78.2298804447,86.0,Amelia,Virginia,United States,Tree of heaven
+12949970,2018-05-29,37.3030910714,-78.2298804447,86.0,Amelia,Virginia,United States,tree-of-heaven
 12959069,2017-06-20,37.5455932942,-77.5112164021,72.0,Richmond city,Virginia,United States,tree-of-heaven
 13052505,2018-06-02,38.9728434524,-77.34107567,5.0,Fairfax,Virginia,United States,tree-of-heaven
 13053939,2018-06-02,38.9395633154,-77.3421227374,5.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -87,7 +86,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 14229563,2018-07-09,37.174593237,-78.2751610562,16.0,Prince Edward,Virginia,United States,tree-of-heaven
 14269370,2018-07-11,38.80663242,-77.061137,7.0,Alexandria,Virginia,United States,tree-of-heaven
 14273083,2018-07-11,38.79192351,-77.07591846,4.0,Fairfax,Virginia,United States,tree-of-heaven
-14502231,2018-07-18,37.8733240944,-78.5264325715,10.0,Albemarle,Virginia,United States,Tree of heaven
+14502231,2018-07-18,37.8733240944,-78.5264325715,10.0,Albemarle,Virginia,United States,tree-of-heaven
 14518887,2018-07-19,37.5246881893,-77.4129272866,12.0,Richmond city,Virginia,United States,tree-of-heaven
 14520374,2018-07-19,38.95592875,-77.37173689,4.0,Fairfax,Virginia,United States,tree-of-heaven
 14526965,2018-07-19,38.8696166667,-77.1212833333,5.0,Arlington,Virginia,United States,tree-of-heaven
@@ -116,24 +115,23 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 15987987,2018-08-25,38.3004545534,-78.7663124658,8.0,Rockingham,Virginia,United States,tree-of-heaven
 16397457,2018-09-10,37.6150352325,-77.4297093278,901.0,Henrico,Virginia,United States,tree-of-heaven
 16397979,2018-09-10,37.62037,-77.3951333333,5.0,Hanover,Virginia,United States,tree-of-heaven
-16552621,2018-09-15,38.862900124,-77.117616227,10.0,Arlington,Virginia,United States,Tree of heaven
+16552621,2018-09-15,38.862900124,-77.117616227,10.0,Arlington,Virginia,United States,tree-of-heaven
 16558143,2018-09-15,38.8661771128,-77.1235585772,10.0,Arlington,Virginia,United States,tree-of-heaven
 16574745,2018-09-15,38.8051647367,-77.0757140034,10.0,Alexandria,Virginia,United States,tree-of-heaven
 16706628,2018-09-16,38.7841033333,-77.0543666667,30.0,Fairfax,Virginia,United States,tree-of-heaven
 17006108,2018-09-28,38.79523615,-77.07878603,9.0,Fairfax,Virginia,United States,tree-of-heaven
 17006365,2018-09-28,38.79364435,-77.08231181,9.0,Fairfax,Virginia,United States,tree-of-heaven
 17024440,2018-09-29,37.99977904,-76.81812044,9.0,Richmond,Virginia,United States,tree-of-heaven
-17024973,2018-09-29,37.5274598133,-77.4574834575,5.0,Richmond city,Virginia,United States,
 17066161,2018-09-30,36.7360416667,-79.47638,5.0,Pittsylvania,Virginia,United States,tree-of-heaven
 17128956,2018-10-02,38.88529819,-77.08339681,15.0,Arlington,Virginia,United States,tree-of-heaven
 17212643,2018-10-05,38.8759232546,-77.2926242464,5.0,Fairfax,Virginia,United States,tree-of-heaven
-17349666,2018-10-09,37.5366715843,-77.4772038122,180.0,Richmond city,Virginia,United States,tree of heaven
+17349666,2018-10-09,37.5366715843,-77.4772038122,180.0,Richmond city,Virginia,United States,tree-of-heaven
 17476874,2018-10-13,37.2601999808,-80.3546071519,10.0,Montgomery,Virginia,United States,tree-of-heaven
 17654778,2018-10-19,37.560301738,-77.5464218961,12.0,Richmond city,Virginia,United States,tree-of-heaven
 17910546,2018-10-28,38.89094038,-78.19544191,13.0,Warren,Virginia,United States,tree-of-heaven
 17912837,2018-10-28,38.86006773,-78.2006789,6.0,Warren,Virginia,United States,tree-of-heaven
 17913074,2018-10-28,38.85620447,-78.20029416,16.0,Warren,Virginia,United States,tree-of-heaven
-18006868,2018-10-29,36.79808215,-76.3082617521,88.0,Portsmouth,Virginia,United States,Tree of heaven
+18006868,2018-10-29,36.79808215,-76.3082617521,88.0,Portsmouth,Virginia,United States,tree-of-heaven
 18097887,2018-11-04,39.13675741,-77.71381547,4.0,Loudoun,Virginia,United States,tree-of-heaven
 18433894,2018-11-16,37.5298429979,-77.4520037045,5.0,Richmond city,Virginia,United States,tree-of-heaven
 18444076,2018-11-16,37.5297966667,-77.4520033333,10.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -141,28 +139,28 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 18536026,2018-07-04,37.3535580877,-79.8256421571,395.0,Botetourt,Virginia,United States,tree-of-heaven
 19603313,2019-01-12,38.8756096,-77.2925519,114.0,Fairfax,Virginia,United States,tree-of-heaven
 19913016,2019-01-27,36.9698844363,-80.7475885749,352.0,Pulaski,Virginia,United States,tree-of-heaven
-20886344,2019-03-02,37.52159614,-77.14557013,6.0,New Kent,Virginia,United States,Tree of heaven
-22334909,2019-04-11,37.53882728,-77.46574471,8.0,Richmond city,Virginia,United States,Tree of heaven
+20886344,2019-03-02,37.52159614,-77.14557013,6.0,New Kent,Virginia,United States,tree-of-heaven
+22334909,2019-04-11,37.53882728,-77.46574471,8.0,Richmond city,Virginia,United States,tree-of-heaven
 22516354,2019-04-15,38.8394583333,-77.2807833333,10.0,Fairfax,Virginia,United States,tree-of-heaven
 22544578,2019-04-15,38.5914511,-77.2581071,818.0,Prince William,Virginia,United States,tree-of-heaven
-23057660,2019-04-25,38.8492289884,-77.0935961232,5.0,Arlington,Virginia,United States,Tree of heaven
-23129259,2019-04-26,38.8405593345,-77.0495537483,5.0,Alexandria,Virginia,United States,Tree of heaven
-23186140,2018-06-25,37.4758175249,-77.876165472,5.0,Powhatan,Virginia,United States,Tree of heaven
+23057660,2019-04-25,38.8492289884,-77.0935961232,5.0,Arlington,Virginia,United States,tree-of-heaven
+23129259,2019-04-26,38.8405593345,-77.0495537483,5.0,Alexandria,Virginia,United States,tree-of-heaven
+23186140,2018-06-25,37.4758175249,-77.876165472,5.0,Powhatan,Virginia,United States,tree-of-heaven
 23342355,2019-04-26,38.8792133333,-77.0939333333,8.0,Arlington,Virginia,United States,tree-of-heaven
 23346118,2019-04-27,38.7643860234,-77.1352756397,10.0,Fairfax,Virginia,United States,tree-of-heaven
-23381444,2019-04-27,37.52178615,-77.41482227,9.0,Richmond city,Virginia,United States,Tree of heaven
+23381444,2019-04-27,37.52178615,-77.41482227,9.0,Richmond city,Virginia,United States,tree-of-heaven
 23386852,2019-04-27,38.8576819282,-77.4384777435,5.0,Fairfax,Virginia,United States,tree-of-heaven
-23390923,2019-04-27,39.02722297,-77.6024214,3.0,Loudoun,Virginia,United States,Tree of heaven
+23390923,2019-04-27,39.02722297,-77.6024214,3.0,Loudoun,Virginia,United States,tree-of-heaven
 23393266,2019-04-27,39.02716952,-77.60256576,7.0,Loudoun,Virginia,United States,tree-of-heaven
-23424581,2019-04-27,38.9955664184,-77.5581043046,172.0,Loudoun,Virginia,United States,Tree of heaven
-23459065,2019-04-27,38.7599266833,-77.1371790861,5.0,Fairfax,Virginia,United States,Tree of heaven
+23424581,2019-04-27,38.9955664184,-77.5581043046,172.0,Loudoun,Virginia,United States,tree-of-heaven
+23459065,2019-04-27,38.7599266833,-77.1371790861,5.0,Fairfax,Virginia,United States,tree-of-heaven
 23627051,2019-04-28,38.8048675144,-77.1407070291,10.0,Alexandria,Virginia,United States,tree-of-heaven
 23637834,2019-04-28,38.7907031458,-77.1320891754,5.0,Fairfax,Virginia,United States,tree-of-heaven
-23652965,2019-04-28,38.7981237704,-77.1015948058,10.0,Fairfax,Virginia,United States,Tree of heaven
-23669364,2019-04-28,38.8411759791,-77.0594442865,177.0,Alexandria,Virginia,United States,Tree of heaven
-23687852,2019-04-27,39.0365798,-77.5923143,191.0,Loudoun,Virginia,United States,Tree of heaven
+23652965,2019-04-28,38.7981237704,-77.1015948058,10.0,Fairfax,Virginia,United States,tree-of-heaven
+23669364,2019-04-28,38.8411759791,-77.0594442865,177.0,Alexandria,Virginia,United States,tree-of-heaven
+23687852,2019-04-27,39.0365798,-77.5923143,191.0,Loudoun,Virginia,United States,tree-of-heaven
 23714589,2019-04-28,38.8441116667,-77.0643166667,10.0,Alexandria,Virginia,United States,tree-of-heaven
-23994670,2019-04-29,39.20180977,-78.25120697,9.0,Frederick,Virginia,United States,Tree of heaven
+23994670,2019-04-29,39.20180977,-78.25120697,9.0,Frederick,Virginia,United States,tree-of-heaven
 24017457,2019-04-29,38.87231451,-77.1382165142,10.0,Arlington,Virginia,United States,tree-of-heaven
 24074828,2019-04-29,38.7908554869,-77.1318441723,5.0,Fairfax,Virginia,United States,tree-of-heaven
 24150837,2019-04-29,38.8783083333,-77.0941916667,24.0,Arlington,Virginia,United States,tree-of-heaven
@@ -171,14 +169,14 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 24455846,2019-05-03,37.5377485,-77.5618729,100.0,Richmond city,Virginia,United States,tree-of-heaven
 24468513,2018-06-25,37.4496808648,-79.1796403472,5.0,Lynchburg,Virginia,United States,tree-of-heaven
 24468531,2018-06-25,37.4496193836,-79.1796036345,5.0,Lynchburg,Virginia,United States,tree-of-heaven
-24689367,2019-05-06,37.1325192461,-80.5663640332,5.0,Radford,Virginia,United States,Tree of heaven
-24695602,2019-05-06,39.0270118506,-77.4998252671,488.0,Loudoun,Virginia,United States,Tree of heaven
+24689367,2019-05-06,37.1325192461,-80.5663640332,5.0,Radford,Virginia,United States,tree-of-heaven
+24695602,2019-05-06,39.0270118506,-77.4998252671,488.0,Loudoun,Virginia,United States,tree-of-heaven
 24784886,2019-05-06,37.783171,-79.572924,50.0,Rockbridge,Virginia,United States,tree-of-heaven
 24823282,2019-05-08,37.6523083333,-79.8340133333,20.0,Botetourt,Virginia,United States,tree-of-heaven
 24870917,2019-05-08,37.897665,-79.053665,30.0,Nelson,Virginia,United States,tree-of-heaven
 24937409,2019-05-11,38.79189744,-77.07852539,7.0,Fairfax,Virginia,United States,tree-of-heaven
 24976199,2019-05-07,37.783037,-79.414018,10.0,Rockbridge,Virginia,United States,tree-of-heaven
-25071992,2019-05-13,37.763701533,-77.4750234281,5.0,Hanover,Virginia,United States,Tree of heaven
+25071992,2019-05-13,37.763701533,-77.4750234281,5.0,Hanover,Virginia,United States,tree-of-heaven
 25075342,2019-05-13,39.1563185839,-77.9780458012,8.0,Clarke,Virginia,United States,tree-of-heaven
 25153219,2019-05-14,37.0354872066,-80.0972314389,500.0,"Franklin County, US, VA",Virginia,United States,tree-of-heaven
 25181191,2019-05-15,37.5398549,-77.5590578,21.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -188,58 +186,58 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 25350198,2019-05-18,38.721063,-77.3334587,190.0,Fairfax,Virginia,United States,tree-of-heaven
 25376823,2019-05-19,38.7258715136,-77.5446787198,5.0,Prince William,Virginia,United States,tree-of-heaven
 25413498,2019-05-19,38.91897627,-77.22910788,4.0,Fairfax,Virginia,United States,tree-of-heaven
-25527999,2019-05-17,38.2511784619,-78.7283347544,42.0,Rockingham,Virginia,United States,Tree of heaven
-25529830,2019-05-21,38.92747488,-77.23155815,10.0,Fairfax,Virginia,United States,Tree of heaven
-25530190,2019-05-21,38.93360494,-77.23292606,9.0,Fairfax,Virginia,United States,Tree of heaven
-25643827,2019-05-17,38.8653866667,-77.0378278333,10.0,Arlington,Virginia,United States,Tree of heaven
-25690826,2019-05-24,38.8567811,-77.3633443,20.0,Fairfax,Virginia,United States,Tree of heaven
+25527999,2019-05-17,38.2511784619,-78.7283347544,42.0,Rockingham,Virginia,United States,tree-of-heaven
+25529830,2019-05-21,38.92747488,-77.23155815,10.0,Fairfax,Virginia,United States,tree-of-heaven
+25530190,2019-05-21,38.93360494,-77.23292606,9.0,Fairfax,Virginia,United States,tree-of-heaven
+25643827,2019-05-17,38.8653866667,-77.0378278333,10.0,Arlington,Virginia,United States,tree-of-heaven
+25690826,2019-05-24,38.8567811,-77.3633443,20.0,Fairfax,Virginia,United States,tree-of-heaven
 25691116,2019-05-24,38.795175,-77.1060945,5.0,Fairfax,Virginia,United States,tree-of-heaven
-25773573,2019-05-25,38.21748651,-79.13069276,28.0,Augusta,Virginia,United States,Tree of heaven
-25773779,2019-05-25,38.2187462,-79.1290161,149.0,Augusta,Virginia,United States,Tree of heaven
-26016106,2019-05-29,37.211372545,-80.3967418895,5.0,Montgomery,Virginia,United States,Tree of heaven
+25773573,2019-05-25,38.21748651,-79.13069276,28.0,Augusta,Virginia,United States,tree-of-heaven
+25773779,2019-05-25,38.2187462,-79.1290161,149.0,Augusta,Virginia,United States,tree-of-heaven
+26016106,2019-05-29,37.211372545,-80.3967418895,5.0,Montgomery,Virginia,United States,tree-of-heaven
 26145326,2019-05-31,39.181452361,-77.7260632701,12.0,Loudoun,Virginia,United States,tree-of-heaven
 26229569,2019-05-31,38.8700276328,-77.1306909263,7.0,Arlington,Virginia,United States,tree-of-heaven
 26337501,2019-06-03,37.2387556,-76.5096731,618.0,York,Virginia,United States,tree-of-heaven
-26490477,2019-06-06,37.5395159,-77.5590681,75.0,Richmond city,Virginia,United States,Tree of heaven
+26490477,2019-06-06,37.5395159,-77.5590681,75.0,Richmond city,Virginia,United States,tree-of-heaven
 26490511,2019-06-06,37.53988719,-77.55851503,10.0,Richmond city,Virginia,United States,tree-of-heaven
 26528915,2019-06-06,38.9124,-77.4586866667,5.0,Fairfax,Virginia,United States,tree-of-heaven
-26605539,2019-06-08,38.39791568,-77.8986191657,5.0,Culpeper,Virginia,United States,Tree of heaven
-26634143,2019-06-08,39.0269963507,-77.4997834053,14.0,Loudoun,Virginia,United States,Tree of heaven
+26605539,2019-06-08,38.39791568,-77.8986191657,5.0,Culpeper,Virginia,United States,tree-of-heaven
+26634143,2019-06-08,39.0269963507,-77.4997834053,14.0,Loudoun,Virginia,United States,tree-of-heaven
 26636367,2019-06-08,37.26686393,-76.79514008,8.0,James City,Virginia,United States,tree-of-heaven
-26683713,2019-06-09,38.9735322429,-78.2450356715,32.0,Warren,Virginia,United States,Tree of heaven
+26683713,2019-06-09,38.9735322429,-78.2450356715,32.0,Warren,Virginia,United States,tree-of-heaven
 26866610,2019-06-12,37.5529856,-77.46705751,12.0,Richmond city,Virginia,United States,tree-of-heaven
 26866744,2019-06-12,37.5530138,-77.46713233,9.0,Richmond city,Virginia,United States,tree-of-heaven
 26871112,2019-06-12,37.53967855,-77.5608895,7.0,Richmond city,Virginia,United States,tree-of-heaven
 26872307,2019-06-12,37.53893515,-77.55998127,16.0,Richmond city,Virginia,United States,tree-of-heaven
-26932022,2019-06-13,38.9683133333,-77.54538,16.0,Loudoun,Virginia,United States,Tree of heaven
-26963855,2019-06-14,37.53823757,-77.56142769,7.0,Richmond city,Virginia,United States,Tree of heaven
-26980235,2019-06-03,39.0205083333,-77.2507466667,64.0,Fairfax,Virginia,United States,Tree of heaven
-27001886,2017-07-03,38.7849216667,-77.0542611667,5.0,Fairfax,Virginia,United States,Tree of heaven
-27019637,2019-06-15,39.0243095483,-77.4965822489,83.0,Loudoun,Virginia,United States,Tree of heaven
-27024899,2019-06-15,38.76850639,-77.08821039,7.0,Fairfax,Virginia,United States,Tree of heaven
-27048150,2019-06-15,37.53952787,-77.56348138,9.0,Richmond city,Virginia,United States,Tree of heaven
-27048961,2019-06-15,37.53935656,-77.56334317,15.0,Richmond city,Virginia,United States,Tree of heaven
-27056371,2019-06-15,38.8396130596,-77.1037155949,5.0,Alexandria,Virginia,United States,Tree of heaven
-27064577,2019-06-02,38.741175954,-77.5519403387,244.0,Prince William,Virginia,United States,Tree of heaven
-27096057,2019-06-16,37.58627,-77.3330783333,6.0,Hanover,Virginia,United States,Tree of heaven
-27097452,2016-07-04,39.0337777778,-77.9551916667,5.0,Clarke,Virginia,United States,Tree of heaven
-27118492,2019-06-16,38.4243416,-78.8419803,800.0,Harrisonburg,Virginia,United States,Tree of heaven
+26932022,2019-06-13,38.9683133333,-77.54538,16.0,Loudoun,Virginia,United States,tree-of-heaven
+26963855,2019-06-14,37.53823757,-77.56142769,7.0,Richmond city,Virginia,United States,tree-of-heaven
+26980235,2019-06-03,39.0205083333,-77.2507466667,64.0,Fairfax,Virginia,United States,tree-of-heaven
+27001886,2017-07-03,38.7849216667,-77.0542611667,5.0,Fairfax,Virginia,United States,tree-of-heaven
+27019637,2019-06-15,39.0243095483,-77.4965822489,83.0,Loudoun,Virginia,United States,tree-of-heaven
+27024899,2019-06-15,38.76850639,-77.08821039,7.0,Fairfax,Virginia,United States,tree-of-heaven
+27048150,2019-06-15,37.53952787,-77.56348138,9.0,Richmond city,Virginia,United States,tree-of-heaven
+27048961,2019-06-15,37.53935656,-77.56334317,15.0,Richmond city,Virginia,United States,tree-of-heaven
+27056371,2019-06-15,38.8396130596,-77.1037155949,5.0,Alexandria,Virginia,United States,tree-of-heaven
+27064577,2019-06-02,38.741175954,-77.5519403387,244.0,Prince William,Virginia,United States,tree-of-heaven
+27096057,2019-06-16,37.58627,-77.3330783333,6.0,Hanover,Virginia,United States,tree-of-heaven
+27097452,2016-07-04,39.0337777778,-77.9551916667,5.0,Clarke,Virginia,United States,tree-of-heaven
+27118492,2019-06-16,38.4243416,-78.8419803,800.0,Harrisonburg,Virginia,United States,tree-of-heaven
 27167156,2019-06-13,38.7653384591,-78.2944803593,5.0,Page,Virginia,United States,tree-of-heaven
-27205884,2019-06-18,38.9814046445,-78.3627659642,5.0,Shenandoah,Virginia,United States,Tree of heaven
-27322536,2019-06-20,37.54658117,-77.55245461,9.0,Richmond city,Virginia,United States,Tree of heaven
-27322583,2019-06-20,37.54653878,-77.55248482,19.0,Richmond city,Virginia,United States,Tree of heaven
-27460947,2019-06-22,38.96151924,-78.0040499,5.0,Fauquier,Virginia,United States,Tree of heaven
-27471909,2019-06-22,38.78051796,-77.3876297661,5.0,Fairfax,Virginia,United States,Tree of heaven
-27665780,2019-06-25,38.9730157424,-77.3375007883,30.0,Fairfax,Virginia,United States,Albero del paradiso
+27205884,2019-06-18,38.9814046445,-78.3627659642,5.0,Shenandoah,Virginia,United States,tree-of-heaven
+27322536,2019-06-20,37.54658117,-77.55245461,9.0,Richmond city,Virginia,United States,tree-of-heaven
+27322583,2019-06-20,37.54653878,-77.55248482,19.0,Richmond city,Virginia,United States,tree-of-heaven
+27460947,2019-06-22,38.96151924,-78.0040499,5.0,Fauquier,Virginia,United States,tree-of-heaven
+27471909,2019-06-22,38.78051796,-77.3876297661,5.0,Fairfax,Virginia,United States,tree-of-heaven
+27665780,2019-06-25,38.9730157424,-77.3375007883,30.0,Fairfax,Virginia,United States,albero del paradiso
 27666420,2019-06-25,38.9788202523,-77.3359878548,10.0,Fairfax,Virginia,United States,tree-of-heaven
 27718302,2019-06-26,37.5321596997,-77.4058162066,41.0,Richmond city,Virginia,United States,tree-of-heaven
-27815161,2019-06-28,36.6197583333,-78.5529783333,5.0,Mecklenburg,Virginia,United States,Tree of heaven
+27815161,2019-06-28,36.6197583333,-78.5529783333,5.0,Mecklenburg,Virginia,United States,tree-of-heaven
 27862624,2019-06-29,36.7545921447,-82.9401426933,5.0,Lee,Virginia,United States,tree-of-heaven
 27893213,2019-06-29,39.034064728,-77.5241341274,269.0,Loudoun,Virginia,United States,tree-of-heaven
 27936850,2019-06-30,38.80450633,-77.10758951,3.0,Alexandria,Virginia,United States,tree-of-heaven
-27941280,2019-06-30,38.9897276126,-77.454709787,42.0,Loudoun,Virginia,United States,Tree of heaven
+27941280,2019-06-30,38.9897276126,-77.454709787,42.0,Loudoun,Virginia,United States,tree-of-heaven
 27961054,2019-06-30,39.06190428,-78.05180488,4.0,Clarke,Virginia,United States,tree-of-heaven
-27961087,2019-06-30,39.0617647,-78.05188522,4.0,Clarke,Virginia,United States,Tree of heaven
+27961087,2019-06-30,39.0617647,-78.05188522,4.0,Clarke,Virginia,United States,tree-of-heaven
 28020714,2019-07-01,39.01495013,-77.97180413,12.0,Clarke,Virginia,United States,tree-of-heaven
 28020928,2019-07-01,39.0145537,-77.9717837,6.0,Clarke,Virginia,United States,tree-of-heaven
 28021542,2019-07-01,39.01412582,-77.97201302,5.0,Clarke,Virginia,United States,tree-of-heaven
@@ -249,7 +247,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 28147887,2019-07-03,38.3086096677,-77.472730484,69.0,Fredericksburg,Virginia,United States,tree-of-heaven
 28290824,2019-07-06,36.7810873301,-76.2724866293,65.0,Chesapeake,Virginia,United States,tree-of-heaven
 28453369,2019-07-08,36.5838671416,-80.335771914,24.0,Patrick,Virginia,United States,tree-of-heaven
-28526357,2019-07-09,38.0522872668,-77.8411596919,6.0,Louisa,Virginia,United States,Albero del paradiso
+28526357,2019-07-09,38.0522872668,-77.8411596919,6.0,Louisa,Virginia,United States,albero del paradiso
 28557678,2019-07-10,38.7901827,-77.07176922,5.0,Fairfax,Virginia,United States,tree-of-heaven
 28572596,2019-07-10,37.5344359037,-77.4427216687,30.0,Richmond city,Virginia,United States,tree-of-heaven
 28682664,2019-07-12,37.54689122,-77.55284165,9.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -269,31 +267,31 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 29060516,2019-07-18,37.52059241,-77.44366918,7.0,Richmond city,Virginia,United States,tree-of-heaven
 29063496,2019-07-13,38.8508904,-77.05407189,9.0,Arlington,Virginia,United States,tree-of-heaven
 29143418,2019-07-19,37.42085374,-77.63191578,19.0,Chesterfield,Virginia,United States,tree-of-heaven
-29166153,2019-06-04,36.657362013,-77.6140690595,263.0,Greensville,Virginia,United States,Albero del paradiso
+29166153,2019-06-04,36.657362013,-77.6140690595,263.0,Greensville,Virginia,United States,albero del paradiso
 29171825,2019-07-20,38.8521794184,-77.32093337,5.0,Fairfax city,Virginia,United States,tree-of-heaven
 29256926,2019-07-21,38.131875756,-78.7576133365,100.0,Albemarle,Virginia,United States,tree-of-heaven
 29325348,2019-07-22,36.8182690209,-76.2725751413,65.0,Chesapeake,Virginia,United States,tree-of-heaven
 29455860,2019-07-23,38.257605,-77.4205033333,5.0,Spotsylvania,Virginia,United States,tree-of-heaven
-29572153,2019-07-26,37.5468445808,-77.5523316488,33.0,Richmond city,Virginia,United States,Tree of heaven
-29633326,2019-07-27,38.861255,-77.4180666667,6.0,Fairfax,Virginia,United States,Tree of heaven
-29644456,2019-07-27,39.01856427,-77.96841949,4.0,Clarke,Virginia,United States,Tree of heaven
-29852766,2019-07-30,39.02974658,-77.59911531,7.0,Loudoun,Virginia,United States,Tree of heaven
-29861504,2019-07-30,38.8524055556,-77.6554333333,16.0,Prince William,Virginia,United States,Tree of Heaven
+29572153,2019-07-26,37.5468445808,-77.5523316488,33.0,Richmond city,Virginia,United States,tree-of-heaven
+29633326,2019-07-27,38.861255,-77.4180666667,6.0,Fairfax,Virginia,United States,tree-of-heaven
+29644456,2019-07-27,39.01856427,-77.96841949,4.0,Clarke,Virginia,United States,tree-of-heaven
+29852766,2019-07-30,39.02974658,-77.59911531,7.0,Loudoun,Virginia,United States,tree-of-heaven
+29861504,2019-07-30,38.8524055556,-77.6554333333,16.0,Prince William,Virginia,United States,tree-of-heaven
 30179603,2019-08-04,38.7500489338,-77.5627663488,11.0,Prince William,Virginia,United States,tree-of-heaven
 30253084,2019-08-05,38.2563833333,-77.4218883333,5.0,Spotsylvania,Virginia,United States,tree-of-heaven
-30361398,2019-08-07,37.4583982,-77.64056097,7.0,Chesterfield,Virginia,United States,Tree of heaven
-30365474,2019-08-07,37.55308013,-77.46716703,13.0,Richmond city,Virginia,United States,Tree of heaven
-30701329,2019-08-12,36.619245,-78.553305,5.0,Mecklenburg,Virginia,United States,Tree of heaven
-30730562,2019-08-09,38.8429633333,-77.29068,5.0,Fairfax city,Virginia,United States,Tree of heaven
-30744461,2019-08-13,36.7431739,-80.7683776,2900.0,Carroll,Virginia,United States,Tree of heaven
+30361398,2019-08-07,37.4583982,-77.64056097,7.0,Chesterfield,Virginia,United States,tree-of-heaven
+30365474,2019-08-07,37.55308013,-77.46716703,13.0,Richmond city,Virginia,United States,tree-of-heaven
+30701329,2019-08-12,36.619245,-78.553305,5.0,Mecklenburg,Virginia,United States,tree-of-heaven
+30730562,2019-08-09,38.8429633333,-77.29068,5.0,Fairfax city,Virginia,United States,tree-of-heaven
+30744461,2019-08-13,36.7431739,-80.7683776,2900.0,Carroll,Virginia,United States,tree-of-heaven
 30801312,2019-08-13,37.0187707432,-80.1462807321,5.0,Floyd,Virginia,United States,tree-of-heaven
 30839012,2019-08-14,38.77391013,-77.11795282,8.0,Fairfax,Virginia,United States,tree-of-heaven
-30955406,2019-08-16,37.53992604,-77.55815151,10.0,Richmond city,Virginia,United States,Tree of heaven
-30955466,2019-08-16,37.53998652,-77.55809628,15.0,Richmond city,Virginia,United States,Tree of heaven
-30958733,2019-08-16,37.50339605,-77.61144823,4.0,Chesterfield,Virginia,United States,Tree of heaven
-30992347,2019-08-17,39.0405829529,-77.5040349559,8.0,Loudoun,Virginia,United States,Tree of heaven
-31469670,2019-08-25,37.25891971,-77.39969011,9.0,Colonial Heights,Virginia,United States,Tree of heaven
-31585920,2019-08-24,38.7732716667,-77.0636055,5.0,Fairfax,Virginia,United States,Tree of heaven
+30955406,2019-08-16,37.53992604,-77.55815151,10.0,Richmond city,Virginia,United States,tree-of-heaven
+30955466,2019-08-16,37.53998652,-77.55809628,15.0,Richmond city,Virginia,United States,tree-of-heaven
+30958733,2019-08-16,37.50339605,-77.61144823,4.0,Chesterfield,Virginia,United States,tree-of-heaven
+30992347,2019-08-17,39.0405829529,-77.5040349559,8.0,Loudoun,Virginia,United States,tree-of-heaven
+31469670,2019-08-25,37.25891971,-77.39969011,9.0,Colonial Heights,Virginia,United States,tree-of-heaven
+31585920,2019-08-24,38.7732716667,-77.0636055,5.0,Fairfax,Virginia,United States,tree-of-heaven
 31918492,2019-09-01,37.388412254,-79.4147128333,5.0,Bedford,Virginia,United States,tree-of-heaven
 32283700,2019-09-07,37.28613713,-79.4554199652,5.0,Bedford,Virginia,United States,tree-of-heaven
 32305363,2019-09-07,37.5294279184,-77.4460745776,7.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -371,12 +369,11 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 35496855,2019-11-09,37.5344495102,-77.4495330773,48.0,Richmond city,Virginia,United States,tree-of-heaven
 35711797,2019-11-03,37.0224305,-76.34845,10.0,Hampton,Virginia,United States,tree-of-heaven
 35818796,2019-11-07,39.0181860282,-77.2487594002,5.0,Fairfax,Virginia,United States,tree-of-heaven
-35818812,2019-11-07,39.0197359259,-77.255204497,5.0,Fairfax,Virginia,United States,
 35818821,2019-11-07,39.0183076077,-77.2480731738,10.0,Fairfax,Virginia,United States,tree-of-heaven
 36956647,2019-12-25,38.894953,-77.081258,6.0,Arlington,Virginia,United States,tree-of-heaven
 37303180,2019-11-07,39.0183018241,-77.2480580025,10.0,Fairfax,Virginia,United States,tree-of-heaven
 37752373,2019-09-08,37.3931125319,-79.4083881006,5.0,Bedford,Virginia,United States,tree-of-heaven
-38118580,2020-01-30,38.2130368142,-78.9750360857,500.0,Rockingham,Virginia,United States,Айлант высочайший
+38118580,2020-01-30,38.2130368142,-78.9750360857,500.0,Rockingham,Virginia,United States,айлант высочайший
 39538260,2020-03-04,39.02727783,-77.59985333,4.0,Loudoun,Virginia,United States,tree-of-heaven
 40541658,2020-03-22,37.59184339,-77.47374055,9.0,Richmond city,Virginia,United States,tree-of-heaven
 41070336,2020-03-30,37.5593303657,-77.4281366543,5.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -388,7 +385,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 41402960,2020-04-04,37.59687833,-79.39109167,6.0,Amherst,Virginia,United States,tree-of-heaven
 41446452,2020-04-05,37.5594026177,-77.5259947871,5.0,Richmond city,Virginia,United States,tree-of-heaven
 41582009,2020-04-05,37.6831287188,-77.4508063757,50.0,Hanover,Virginia,United States,tree-of-heaven
-41679561,2020-04-05,37.6802737071,-77.4563033795,21.0,Hanover,Virginia,United States,Ailanthus altissima
+41679561,2020-04-05,37.6802737071,-77.4563033795,21.0,Hanover,Virginia,United States,tree-of-heaven
 41684183,2020-04-08,36.8360796199,-76.575815538,10.0,Suffolk,Virginia,United States,tree-of-heaven
 41794352,2020-04-09,38.0175732295,-78.5162374314,65.0,Charlottesville City,Virginia,United States,tree-of-heaven
 42024980,2020-04-12,38.8806976503,-77.0960071609,24.0,Arlington,Virginia,United States,tree-of-heaven
@@ -413,7 +410,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 42617762,2020-04-19,38.1706836261,-78.4264105932,30.0,Albemarle,Virginia,United States,tree-of-heaven
 42667158,2020-04-18,38.887581732,-77.1316871939,54.0,Arlington,Virginia,United States,tree-of-heaven
 42730567,2020-04-20,38.63953,-77.23889167,4.0,Prince William,Virginia,United States,tree-of-heaven
-42791251,2020-04-21,38.794030905,-77.1361291278,96.0,Fairfax,Virginia,United States,Árbol del cielo
+42791251,2020-04-21,38.794030905,-77.1361291278,96.0,Fairfax,Virginia,United States,árbol del cielo
 42848601,2020-04-22,38.8831758713,-77.1537230042,21.0,Arlington,Virginia,United States,tree-of-heaven
 42892745,2020-04-22,38.8544330434,-77.6489066909,65.0,Prince William,Virginia,United States,tree-of-heaven
 43108101,2020-04-24,38.7906368028,-77.1320694774,16.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -430,8 +427,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 43636844,2020-04-26,37.5585553994,-77.4237596244,66.0,Richmond city,Virginia,United States,tree-of-heaven
 43642961,2020-04-26,38.8154822728,-77.6735431888,50.0,Prince William,Virginia,United States,tree-of-heaven
 43670235,2020-04-26,38.8146671327,-77.6721244679,5.0,Prince William,Virginia,United States,tree-of-heaven
-43671717,2020-04-26,38.813972734,-77.6732894686,5.0,Prince William,Virginia,United States,
-43741212,2020-04-26,38.3159337803,-77.5059080085,2.0,Fredericksburg,Virginia,United States,Ailanthus altissima
+43741212,2020-04-26,38.3159337803,-77.5059080085,2.0,Fredericksburg,Virginia,United States,tree-of-heaven
 43744411,2020-04-26,38.79753942,-77.09913915,5.0,Fairfax,Virginia,United States,tree-of-heaven
 43814672,2020-04-26,38.84356333,-77.0620195,10.0,Alexandria,Virginia,United States,tree-of-heaven
 43814946,2020-04-26,38.84315833,-77.06163883,10.0,Alexandria,Virginia,United States,tree-of-heaven
@@ -455,7 +451,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 44722160,2020-05-03,36.8748670125,-80.2984278478,4.0,Floyd,Virginia,United States,tree-of-heaven
 44799093,2020-05-03,36.83531667,-81.509505,4.0,Smyth,Virginia,United States,tree-of-heaven
 44832860,2020-05-02,37.79754667,-79.44856333,5.0,Rockbridge,Virginia,United States,tree-of-heaven
-44847360,2020-05-03,38.77343,-77.06462783,19.0,Fairfax,Virginia,United States,Ailante glanduleux
+44847360,2020-05-03,38.77343,-77.06462783,19.0,Fairfax,Virginia,United States,tree-of-heaven
 44885733,2020-05-03,38.77327833,-77.0646055,5.0,Fairfax,Virginia,United States,tree-of-heaven
 44988528,2020-05-03,38.77326667,-77.06342217,5.0,Fairfax,Virginia,United States,tree-of-heaven
 44994938,2020-05-03,38.77388833,-77.06252217,9.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -471,7 +467,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 45388333,2020-05-09,37.27184033,-80.08168152,7.0,Roanoke,Virginia,United States,tree-of-heaven
 45471936,2020-05-10,37.2543771492,-80.1770202187,4.0,Roanoke,Virginia,United States,tree-of-heaven
 45505502,2020-05-10,38.6369090647,-78.6424552972,25.0,Shenandoah,Virginia,United States,tree-of-heaven
-45515234,2020-05-10,38.0049527937,-78.4885913479,134.0,Albemarle,Virginia,United States,Tree-of-Heaven
+45515234,2020-05-10,38.0049527937,-78.4885913479,134.0,Albemarle,Virginia,United States,tree-of-heaven
 45528934,2020-05-10,38.7787144259,-77.5327485894,5.0,Prince William,Virginia,United States,tree-of-heaven
 45547680,2020-05-10,38.6368844992,-78.6426639361,15.0,Shenandoah,Virginia,United States,tree-of-heaven
 45685630,2020-05-12,38.758205299,-77.5957233717,65.0,Prince William,Virginia,United States,tree-of-heaven
@@ -505,7 +501,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 47276112,2020-05-25,38.8708238501,-77.0637588194,28.0,Arlington,Virginia,United States,tree-of-heaven
 47283656,2020-05-14,37.9692169,-76.7584716,191.0,Richmond,Virginia,United States,tree-of-heaven
 47301600,2020-05-25,38.9415614157,-77.326444254,60.0,Fairfax,Virginia,United States,tree-of-heaven
-47339853,2020-05-25,37.0985261514,-76.4465471619,65.0,York,Virginia,United States,
 47349809,2020-05-24,38.844364092,-77.2353297866,31.0,Fairfax,Virginia,United States,tree-of-heaven
 47419846,2020-05-26,38.7212693392,-77.3345130573,16.0,Fairfax,Virginia,United States,tree-of-heaven
 47559392,2020-05-27,38.1472331597,-78.2574786505,5.0,Albemarle,Virginia,United States,tree-of-heaven
@@ -513,7 +508,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 47670708,2020-05-28,38.0320457682,-78.506394851,84.0,Charlottesville City,Virginia,United States,tree-of-heaven
 47685962,2020-05-28,36.9976257161,-79.6556608659,5.0,"Franklin County, US, VA",Virginia,United States,tree-of-heaven
 47759875,2020-05-29,38.8145964314,-77.6733950806,10.0,Prince William,Virginia,United States,tree-of-heaven
-47760367,2020-05-29,38.8147634408,-77.6732475591,5.0,Prince William,Virginia,United States,
 47761660,2020-05-29,38.8144906098,-77.6724479255,10.0,Prince William,Virginia,United States,tree-of-heaven
 47842175,2020-05-30,38.8987064313,-77.6765603183,405.0,Prince William,Virginia,United States,tree-of-heaven
 47936428,2020-05-30,37.5289457574,-77.446872259,109.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -547,7 +541,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 49804191,2020-06-14,38.844364092,-77.2353297866,31.0,Fairfax,Virginia,United States,tree-of-heaven
 49843579,2020-06-16,38.9117374418,-78.0710285636,4.0,Fauquier,Virginia,United States,tree-of-heaven
 49880201,2020-06-16,39.0550988337,-77.7472023286,38.0,Loudoun,Virginia,United States,tree-of-heaven
-49897507,2020-06-16,38.314757,-77.505693,2.0,Fredericksburg,Virginia,United States,Ailanthus altissima
+49897507,2020-06-16,38.314757,-77.505693,2.0,Fredericksburg,Virginia,United States,tree-of-heaven
 49912655,2020-06-15,38.76349167,-77.0598,30.0,Fairfax,Virginia,United States,tree-of-heaven
 49945012,2020-06-17,38.7582847566,-77.5964686795,24.0,Prince William,Virginia,United States,tree-of-heaven
 49993486,2020-06-14,38.9572811,-77.9887264,189.0,Fauquier,Virginia,United States,tree-of-heaven
@@ -569,8 +563,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 50842029,2020-06-24,38.8762089153,-77.2272682314,305.0,Fairfax,Virginia,United States,tree-of-heaven
 50906670,2020-06-25,38.8403821911,-77.0547472095,98.0,Alexandria,Virginia,United States,tree-of-heaven
 50936147,2020-06-25,37.5916987,-77.4385985,33.0,Richmond city,Virginia,United States,tree-of-heaven
-51033701,2020-06-26,38.315189,-77.504589,3.0,Fredericksburg,Virginia,United States,Ailanthus altissima
-51038438,2020-06-26,38.7363493955,-77.5890123659,30.0,Prince William,Virginia,United States,
+51033701,2020-06-26,38.315189,-77.504589,3.0,Fredericksburg,Virginia,United States,tree-of-heaven
 51168984,2020-06-27,37.2408903746,-79.8714759807,80.0,Roanoke,Virginia,United States,tree-of-heaven
 51233526,2020-06-28,38.8471969637,-77.0799469483,10.0,Arlington,Virginia,United States,tree-of-heaven
 51237024,2020-06-28,38.47893,-77.945495,5.0,Culpeper,Virginia,United States,tree-of-heaven
@@ -587,7 +580,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 51754978,2020-07-02,37.0411555,-78.27467167,8.0,Lunenburg,Virginia,United States,tree-of-heaven
 51756896,2020-07-02,38.6653564778,-78.4617099725,5.0,Page,Virginia,United States,tree-of-heaven
 51960862,2020-07-04,38.2349896292,-78.7178813015,5.0,Albemarle,Virginia,United States,tree-of-heaven
-52018940,2020-07-05,37.2699606652,-77.5837317669,5.0,Chesterfield,Virginia,United States,
 52079536,2020-07-05,38.3172687376,-78.3674252127,10.0,Madison,Virginia,United States,tree-of-heaven
 52112298,2020-07-05,38.765175,-77.06289717,51.0,Fairfax,Virginia,United States,tree-of-heaven
 52149156,2020-07-06,38.390098298,-78.2442273293,10.0,Madison,Virginia,United States,tree-of-heaven
@@ -627,7 +619,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 53721421,2020-07-20,38.8403587556,-77.0554128662,10.0,Alexandria,Virginia,United States,tree-of-heaven
 53726566,2020-07-20,38.0331219,-79.0746366,77.0,Augusta,Virginia,United States,tree-of-heaven
 53909963,2020-06-26,38.58776333,-77.36763833,17.0,Prince William,Virginia,United States,tree-of-heaven
-54049824,2020-07-23,38.8335430681,-77.1730097012,4.0,Fairfax,Virginia,United States,
 54071019,2020-07-23,37.2329209093,-80.4121447261,11.0,Montgomery,Virginia,United States,tree-of-heaven
 54071316,2020-07-23,37.2321112175,-80.4134672228,9.0,Montgomery,Virginia,United States,tree-of-heaven
 54083194,2020-07-23,39.0077011893,-77.5174931903,5.0,Loudoun,Virginia,United States,tree-of-heaven
@@ -742,7 +733,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 60820817,2020-09-26,36.7032986962,-81.9921794192,5.0,Washington,Virginia,United States,tree-of-heaven
 60824787,2020-09-26,38.2783732403,-77.3589785514,14.0,Stafford,Virginia,United States,tree-of-heaven
 60836296,2020-09-26,38.1682720688,-77.5753391349,5.0,Spotsylvania,Virginia,United States,tree-of-heaven
-60841486,2020-09-26,37.0416822917,-79.6923517191,4.0,"Franklin County, US, VA",Virginia,United States,
 60841618,2020-09-26,37.53099316,-77.45099887,5.0,Richmond city,Virginia,United States,tree-of-heaven
 60845679,2020-09-26,37.61952166,-77.76369726,6.0,Goochland,Virginia,United States,tree-of-heaven
 60845698,2020-09-26,37.5314813666,-77.4505429902,10.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -768,7 +758,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 62672834,2020-10-15,38.491935,-77.985436,540.0,Culpeper,Virginia,United States,tree-of-heaven
 62830210,2020-10-17,37.28072833,-80.468705,666.0,Montgomery,Virginia,United States,tree-of-heaven
 62985900,2020-10-17,37.2805416667,-80.4689466667,4.0,Montgomery,Virginia,United States,tree-of-heaven
-63041316,2020-10-19,38.790635375,-77.1320108365,6.0,Fairfax,Virginia,United States,
 63182156,2020-10-21,38.8432083931,-77.0901767258,10.0,Arlington,Virginia,United States,tree-of-heaven
 63196658,2020-10-21,38.8576717471,-77.0990088131,64.0,Arlington,Virginia,United States,tree-of-heaven
 63209659,2020-10-19,38.57088833,-78.293245,98.0,Madison,Virginia,United States,tree-of-heaven
@@ -781,7 +770,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 63607504,2020-10-26,38.9461772953,-77.7550189188,131.0,Prince William,Virginia,United States,tree-of-heaven
 63668020,2020-10-27,38.9284283333,-77.2821716667,64.0,Fairfax,Virginia,United States,tree-of-heaven
 63939653,2020-10-30,37.3088621954,-78.3148769695,115.0,Prince Edward,Virginia,United States,tree-of-heaven
-63970092,2019-04-21,37.3733111,-76.77648055,6.0,James City,Virginia,United States,Tree-of-Heaven
+63970092,2019-04-21,37.3733111,-76.77648055,6.0,James City,Virginia,United States,tree-of-heaven
 63970093,2019-05-22,37.3567861,-76.7635583333,4.0,James City,Virginia,United States,tree-of-heaven
 63970094,2019-05-22,37.3731888833,-76.7716611,4.0,James City,Virginia,United States,tree-of-heaven
 63991419,2020-11-01,38.9637220485,-77.1570658776,96.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -790,47 +779,22 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 64328050,2020-07-08,37.1222216772,-79.6473083983,21.0,Bedford,Virginia,United States,tree-of-heaven
 64464576,2020-11-08,38.62112651,-77.25658273,7.0,Prince William,Virginia,United States,tree-of-heaven
 64551654,2020-11-09,37.3044244322,-78.610217797,65.0,Prince Edward,Virginia,United States,tree-of-heaven
-64665575,2020-11-08,38.0064237453,-78.4890526914,89.0,Albemarle,Virginia,United States,Tree-of-Heaven
+64665575,2020-11-08,38.0064237453,-78.4890526914,89.0,Albemarle,Virginia,United States,tree-of-heaven
 64669109,2020-11-11,38.7679373432,-77.1200336075,65.0,Fairfax,Virginia,United States,tree-of-heaven
 64714478,2020-11-09,38.9543083333,-78.0199361667,4.0,Fauquier,Virginia,United States,tree-of-heaven
 64740479,2020-11-09,38.95422,-78.0202555,20.0,Fauquier,Virginia,United States,tree-of-heaven
 64752745,2020-11-12,38.8401104564,-77.0529350351,65.0,Alexandria,Virginia,United States,tree-of-heaven
 64862414,2020-11-14,38.8609830547,-77.071834566,64.0,Arlington,Virginia,United States,tree-of-heaven
 64963253,2020-11-14,38.8745584059,-77.1359107405,24.0,Arlington,Virginia,United States,tree-of-heaven
-65015690,2020-09-08,37.5890087338,-78.9666049865,1140.0,Appomattox,Virginia,United States,
 65220416,2020-11-06,37.7666547476,-79.4917372082,24.0,Rockbridge,Virginia,United States,tree-of-heaven
-66178680,2020-12-06,37.386124654,-79.9035906718,86.0,Botetourt,Virginia,United States,
 66345179,2020-12-09,38.70445873,-77.24341918,8.0,Fairfax,Virginia,United States,tree-of-heaven
 66345332,2020-12-09,38.70444417,-77.24331227,7.0,Fairfax,Virginia,United States,tree-of-heaven
 66537576,2020-12-13,39.09605068,-78.19605403,7.0,Frederick,Virginia,United States,tree-of-heaven
 67301911,2020-12-29,38.4724831169,-78.8819210976,99.0,Harrisonburg,Virginia,United States,tree-of-heaven
-67578605,2021-01-04,38.7098925439,-77.2395459692,65.0,Fairfax,Virginia,United States,
 67579286,2021-01-04,38.71002336,-77.24141365,7.0,Fairfax,Virginia,United States,tree-of-heaven
-67602808,2021-01-04,38.7098384634,-77.2402339729,24.0,Fairfax,Virginia,United States,
-67602827,2021-01-04,38.7098879972,-77.2402402633,16.0,Fairfax,Virginia,United States,
-67602906,2021-01-04,38.7097850143,-77.2403098749,24.0,Fairfax,Virginia,United States,
-67602952,2021-01-04,38.7098473061,-77.2403343178,32.0,Fairfax,Virginia,United States,
-67602960,2021-01-04,38.7098503085,-77.2402710167,24.0,Fairfax,Virginia,United States,
-67602963,2021-01-04,38.7096938163,-77.2404726081,24.0,Fairfax,Virginia,United States,
-67617492,2021-01-04,38.7096776478,-77.2413826748,16.0,Fairfax,Virginia,United States,
-67617930,2021-01-04,38.7097666198,-77.2412333412,24.0,Fairfax,Virginia,United States,
-67617946,2021-01-04,38.7100941307,-77.2403386888,65.0,Fairfax,Virginia,United States,
-67618877,2021-01-04,38.7097472588,-77.2413168936,8.0,Fairfax,Virginia,United States,
-67618902,2021-01-04,38.7105191203,-77.2401827389,65.0,Fairfax,Virginia,United States,
-67618908,2021-01-04,38.710641311,-77.2397066395,65.0,Fairfax,Virginia,United States,
-67618939,2021-01-04,38.7103140868,-77.2400185864,65.0,Fairfax,Virginia,United States,
-67618952,2021-01-04,38.7097151595,-77.2410548116,24.0,Fairfax,Virginia,United States,
-67618980,2021-01-04,38.7097809152,-77.2414184223,12.0,Fairfax,Virginia,United States,
-67619009,2021-01-04,38.7101436899,-77.2416615683,24.0,Fairfax,Virginia,United States,
-67619018,2021-01-04,38.7103539393,-77.2398735581,65.0,Fairfax,Virginia,United States,
-67619027,2021-01-04,38.7103573962,-77.240532421,65.0,Fairfax,Virginia,United States,
-67619032,2021-01-04,38.7102143301,-77.2407603122,65.0,Fairfax,Virginia,United States,
 67768461,2020-03-27,37.5557472222,-79.3652277778,11.0,Amherst,Virginia,United States,tree-of-heaven
 68019744,2021-01-13,38.7834896776,-77.0706858219,22.0,Fairfax,Virginia,United States,tree-of-heaven
-68168259,2021-01-11,38.80508,-77.1287083333,4.0,Alexandria,Virginia,United States,
-68607678,2021-01-25,37.7917012482,-79.4387437196,65.0,Lexington,Virginia,United States,
 68651550,2021-01-25,37.793955,-79.440195,56.0,Rockbridge,Virginia,United States,tree-of-heaven
-68654515,2021-01-25,37.7957578054,-79.4396908909,328.0,Rockbridge,Virginia,United States,
 68763331,2020-06-19,37.3909222222,-79.4106527778,4.0,Bedford,Virginia,United States,tree-of-heaven
 68777742,2020-06-23,37.3703638889,-79.4198,4.0,Bedford,Virginia,United States,tree-of-heaven
 68904518,2020-09-18,37.700286239,-78.2277045408,2969.0,Fluvanna,Virginia,United States,tree-of-heaven
@@ -909,7 +873,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 78500497,2021-05-12,38.30068777,-77.4723606,9.0,Fredericksburg,Virginia,United States,tree-of-heaven
 78502048,2021-05-12,39.0387757621,-77.4945844715,15.0,Loudoun,Virginia,United States,tree-of-heaven
 78520025,2021-05-12,37.3867616667,-77.41153,10.0,Chesterfield,Virginia,United States,tree-of-heaven
-78712199,2021-05-14,36.7317589603,-76.586581716,65.0,Suffolk,Virginia,United States,
 78734612,2021-05-14,38.8146247864,-77.1101303101,65.0,Alexandria,Virginia,United States,tree-of-heaven
 78746046,2021-05-14,38.8467429,-77.0936784,1299.0,Arlington,Virginia,United States,tree-of-heaven
 78896575,2021-05-15,37.7223968506,-77.7519760132,30.0,Hanover,Virginia,United States,tree-of-heaven
@@ -949,7 +912,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 83678101,2021-06-19,37.5272331238,-77.407875061,22.0,Richmond city,Virginia,United States,tree-of-heaven
 83720362,2021-06-19,38.744215,-78.06542279,3.0,Rappahannock,Virginia,United States,tree-of-heaven
 83777132,2021-06-19,39.0160728329,-77.4098915928,1794.0,Loudoun,Virginia,United States,tree-of-heaven
-83786953,2021-06-20,37.1877956599,-80.4282298326,26.0,Montgomery,Virginia,United States,
 83814404,2021-06-20,36.8974155209,-77.7859299602,4.0,Brunswick,Virginia,United States,tree-of-heaven
 83816154,2021-06-20,36.8974,-77.78593,4.0,Brunswick,Virginia,United States,tree-of-heaven
 83855159,2021-06-20,38.728926885,-77.8226278257,3.0,Fauquier,Virginia,United States,tree-of-heaven
@@ -991,8 +953,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 87036302,2021-07-09,37.6696730481,-78.2646853697,268.0,Buckingham,Virginia,United States,tree-of-heaven
 87148001,2021-07-15,38.3659168431,-77.5012536964,9.0,Stafford,Virginia,United States,tree-of-heaven
 87158256,2021-07-15,37.3030897116,-76.5487605659,65.0,Gloucester,Virginia,United States,tree-of-heaven
-87283700,2021-07-16,37.6126523987,-79.1794970089,8.0,Amherst,Virginia,United States,
-87283784,2021-07-16,36.8671552631,-76.4433864658,35.0,Suffolk,Virginia,United States,
 87289725,2021-07-16,37.3398571589,-76.7562301368,65.0,James City,Virginia,United States,tree-of-heaven
 87295677,2021-07-16,37.0187166272,-76.352824308,7.0,Hampton,Virginia,United States,tree-of-heaven
 87347739,2021-07-16,39.0398209515,-78.0017927662,367.0,Clarke,Virginia,United States,tree-of-heaven
@@ -1075,7 +1035,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 95184134,2021-09-17,38.9431966423,-77.2655260563,14.0,Fairfax,Virginia,United States,tree-of-heaven
 95300639,2021-09-05,38.4475416667,-78.8784166667,5.0,Harrisonburg,Virginia,United States,tree-of-heaven
 95531714,2021-09-20,37.5180053711,-77.4606246948,61.0,Richmond city,Virginia,United States,tree-of-heaven
-95671174,2021-09-21,36.9013353216,-76.1787694604,1019.0,Virginia Beach City,Virginia,United States,
 95706563,2021-09-21,38.299155,-78.1280583333,14.0,Madison,Virginia,United States,tree-of-heaven
 95748791,2021-09-22,38.8030895451,-77.1929518507,5.0,Fairfax,Virginia,United States,tree-of-heaven
 96150030,2021-09-25,38.70393835,-77.2413618,6.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -1111,7 +1070,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 98528300,2021-10-17,38.8034286499,-77.4300765991,31.0,Fairfax,Virginia,United States,tree-of-heaven
 98596081,2021-10-18,38.8840370178,-77.1820907593,5.0,Falls Church,Virginia,United States,tree-of-heaven
 98908857,2021-10-21,39.1989319844,-77.7198470497,65.0,Loudoun,Virginia,United States,tree-of-heaven
-98908862,2021-10-21,39.1988836516,-77.7198566776,65.0,Loudoun,Virginia,United States,
 99023460,2021-10-21,38.1122079742,-76.7067990241,65.0,Westmoreland,Virginia,United States,tree-of-heaven
 99167215,2021-06-17,38.1350358061,-79.0442413719,23.0,Staunton,Virginia,United States,tree-of-heaven
 99590034,2021-10-27,36.55496796,-78.1789876647,4.0,Mecklenburg,Virginia,United States,tree-of-heaven
@@ -1119,30 +1077,29 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 99933869,2021-10-31,38.514105815,-77.8679867739,1693.0,Culpeper,Virginia,United States,tree-of-heaven
 100747837,2021-10-03,38.7745805556,-77.6662361111,9.0,Prince William,Virginia,United States,tree-of-heaven
 100935183,2021-11-12,38.7567498163,-77.1830483806,5.0,Fairfax,Virginia,United States,tree-of-heaven
-102804665,2021-05-29,38.6165916667,-78.7066033333,8.0,Rockingham,Virginia,United States,Götterbaum
+102804665,2021-05-29,38.6165916667,-78.7066033333,8.0,Rockingham,Virginia,United States,tree-of-heaven
 102846188,2021-05-30,37.29577,-80.0974583333,4.0,Roanoke,Virginia,United States,tree-of-heaven
 103304721,2021-12-15,38.8983724986,-77.0683415576,102.0,Arlington,Virginia,United States,tree-of-heaven
-105034607,2022-01-15,36.6823488215,-80.8726511093,10.0,Grayson,Virginia,United States,Götterbaum
-106759253,2022-02-14,38.8078707504,-77.2712793109,8.0,Fairfax,Virginia,United States,Götterbaum
+105034607,2022-01-15,36.6823488215,-80.8726511093,10.0,Grayson,Virginia,United States,tree-of-heaven
+106759253,2022-02-14,38.8078707504,-77.2712793109,8.0,Fairfax,Virginia,United States,tree-of-heaven
 107201034,2022-02-21,36.87078,-80.8674616667,5.0,Wythe,Virginia,United States,tree-of-heaven
-107775314,2022-03-02,36.6071366667,-79.83085,4.0,Henry,Virginia,United States,Götterbaum
-108301585,2022-03-09,37.7595703,-77.79320637,9.0,Louisa,Virginia,United States,Götterbaum
-109465693,2022-03-25,39.1227453702,-77.484585043,8.0,Loudoun,Virginia,United States,Götterbaum
-111351581,2022-04-13,37.2980325099,-80.0818692948,98.0,Salem,Virginia,United States,Götterbaum
-111508237,2022-04-15,38.8477792126,-77.0593937673,4.0,Arlington,Virginia,United States,Götterbaum
+107775314,2022-03-02,36.6071366667,-79.83085,4.0,Henry,Virginia,United States,tree-of-heaven
+108301585,2022-03-09,37.7595703,-77.79320637,9.0,Louisa,Virginia,United States,tree-of-heaven
+109465693,2022-03-25,39.1227453702,-77.484585043,8.0,Loudoun,Virginia,United States,tree-of-heaven
+111351581,2022-04-13,37.2980325099,-80.0818692948,98.0,Salem,Virginia,United States,tree-of-heaven
+111508237,2022-04-15,38.8477792126,-77.0593937673,4.0,Arlington,Virginia,United States,tree-of-heaven
 111591327,2022-04-15,38.2869484311,-77.4537041411,190.0,Fredericksburg,Virginia,United States,tree-of-heaven
-112078311,2022-04-19,37.3738641199,-77.5050001313,3.0,Chesterfield,Virginia,United States,Айлант высочайший
-112098325,2022-04-19,37.0192483642,-76.3373996952,15.0,Hampton,Virginia,United States,Götterbaum
-112538862,2022-04-23,37.219855,-76.64747,5.0,James City,Virginia,United States,Götterbaum
+112078311,2022-04-19,37.3738641199,-77.5050001313,3.0,Chesterfield,Virginia,United States,айлант высочайший
+112098325,2022-04-19,37.0192483642,-76.3373996952,15.0,Hampton,Virginia,United States,tree-of-heaven
+112538862,2022-04-23,37.219855,-76.64747,5.0,James City,Virginia,United States,tree-of-heaven
 112582897,2022-04-23,37.530875,-77.505975,5.0,Richmond city,Virginia,United States,tree-of-heaven
-112731349,2022-04-23,37.3162033333,-80.6792366667,4.0,Giles,Virginia,United States,Albero del paradiso
+112731349,2022-04-23,37.3162033333,-80.6792366667,4.0,Giles,Virginia,United States,albero del paradiso
 113404140,2022-04-29,36.6072116667,-79.8308033333,4.0,Henry,Virginia,United States,tree-of-heaven
 113417000,2022-04-29,37.2926551924,-80.0999955283,44.0,Salem,Virginia,United States,tree-of-heaven
 113462223,2022-04-29,38.7932434082,-77.063949585,56.0,Fairfax,Virginia,United States,tree-of-heaven
 113521124,2022-04-29,38.7663147,-77.1198593345,12.0,Fairfax,Virginia,United States,tree-of-heaven
 113538586,2022-04-29,36.6072833333,-79.8329383333,4.0,Henry,Virginia,United States,tree-of-heaven
 113582527,2022-04-29,37.53525397,-77.40970203,7.0,Richmond city,Virginia,United States,tree-of-heaven
-113584355,2022-04-29,38.0764255246,-78.7102454487,24.0,Albemarle,Virginia,United States,
 113585274,2022-04-29,38.0763185509,-78.7106340738,49.0,Albemarle,Virginia,United States,tree-of-heaven
 113599911,2022-04-29,38.0796850201,-78.7173280248,20.0,Albemarle,Virginia,United States,tree-of-heaven
 113607762,2022-04-29,38.6599016933,-77.4951693462,4.0,Prince William,Virginia,United States,tree-of-heaven
@@ -1171,7 +1128,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 114913941,2022-05-02,37.7931400602,-79.452107889,32.0,Rockbridge,Virginia,United States,tree-of-heaven
 114981574,2022-05-02,38.8857283333,-77.1201778333,5.0,Arlington,Virginia,United States,tree-of-heaven
 115055688,2022-05-02,38.8637916667,-77.0405195,19.0,Arlington,Virginia,United States,tree-of-heaven
-115109126,2022-05-03,37.2209208319,-80.392949665,8.0,Montgomery,Virginia,United States,
 115216913,2022-04-29,38.8739133333,-77.1365055,4.0,Arlington,Virginia,United States,tree-of-heaven
 115370042,2022-05-01,38.8713283333,-77.493575,267.0,Fairfax,Virginia,United States,tree-of-heaven
 115957710,2022-05-04,37.1402778333,-80.54287,5.0,Radford,Virginia,United States,tree-of-heaven
@@ -1186,7 +1142,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 116684745,2022-05-12,38.0146796862,-77.9221470841,5.0,Louisa,Virginia,United States,tree-of-heaven
 116685738,2022-05-12,38.0147152205,-77.9221736584,9.0,Louisa,Virginia,United States,tree-of-heaven
 116719130,2022-05-12,37.4687475288,-77.9093212634,239.0,Amelia,Virginia,United States,tree-of-heaven
-116981270,2022-05-14,38.252975,-78.3047783333,10.0,Orange,Virginia,United States,Götterbaum
+116981270,2022-05-14,38.252975,-78.3047783333,10.0,Orange,Virginia,United States,tree-of-heaven
 117019646,2022-05-14,37.5978703759,-77.4861329708,9.0,Henrico,Virginia,United States,tree-of-heaven
 117144206,2022-05-15,37.3164024353,-76.7069625854,4.0,York,Virginia,United States,tree-of-heaven
 117303282,2022-05-16,38.0148735501,-77.922181978,9.0,Louisa,Virginia,United States,tree-of-heaven
@@ -1222,434 +1178,426 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 119721455,2022-06-01,37.7332733412,-77.1094142339,39.0,King William,Virginia,United States,tree-of-heaven
 119782270,2022-06-01,37.142118227,-79.6836643149,105.0,"Franklin County, US, VA",Virginia,United States,tree-of-heaven
 119866282,2022-06-02,38.4326951014,-78.9113846608,20.0,Rockingham,Virginia,United States,tree-of-heaven
-119900063,2022-06-02,37.588848114,-77.4943084717,4.0,Henrico,Virginia,United States,Götterbaum
-119910057,2022-06-02,37.52251591,-79.680232,9.0,Botetourt,Virginia,United States,Götterbaum
-119911050,2022-06-02,38.1362438109,-78.6527720188,5.0,Albemarle,Virginia,United States,Götterbaum
+119900063,2022-06-02,37.588848114,-77.4943084717,4.0,Henrico,Virginia,United States,tree-of-heaven
+119910057,2022-06-02,37.52251591,-79.680232,9.0,Botetourt,Virginia,United States,tree-of-heaven
+119911050,2022-06-02,38.1362438109,-78.6527720188,5.0,Albemarle,Virginia,United States,tree-of-heaven
 120033080,2022-06-03,38.9952958134,-77.2539789462,9.0,Fairfax,Virginia,United States,tree-of-heaven
-120071574,2022-06-03,39.18452181,-78.13937665,5.0,Winchester,Virginia,United States,Götterbaum
-120071732,2022-06-03,39.18448749,-78.13962748,4.0,Winchester,Virginia,United States,Götterbaum
-120073285,2022-06-03,39.18450072,-78.13927883,3.0,Winchester,Virginia,United States,Götterbaum
-120092335,2022-06-03,37.5556655626,-77.5553561602,8.0,Richmond city,Virginia,United States,Götterbaum
-120181699,2022-06-04,38.0024223328,-78.0068817139,5.0,Louisa,Virginia,United States,Götterbaum
+120071574,2022-06-03,39.18452181,-78.13937665,5.0,Winchester,Virginia,United States,tree-of-heaven
+120071732,2022-06-03,39.18448749,-78.13962748,4.0,Winchester,Virginia,United States,tree-of-heaven
+120073285,2022-06-03,39.18450072,-78.13927883,3.0,Winchester,Virginia,United States,tree-of-heaven
+120092335,2022-06-03,37.5556655626,-77.5553561602,8.0,Richmond city,Virginia,United States,tree-of-heaven
+120181699,2022-06-04,38.0024223328,-78.0068817139,5.0,Louisa,Virginia,United States,tree-of-heaven
 120371845,2022-06-05,37.7879137036,-78.2316805525,28.0,Fluvanna,Virginia,United States,tree-of-heaven
 120388275,2022-06-05,37.3498031783,-80.373262167,49.0,Craig,Virginia,United States,tree-of-heaven
 120399348,2022-06-05,38.8946463,-78.11747526,8.0,Warren,Virginia,United States,tree-of-heaven
 120414390,2022-06-05,38.8957443237,-77.0841293335,15.0,Arlington,Virginia,United States,tree-of-heaven
 120415622,2022-06-05,38.8957443237,-77.0841293335,15.0,Arlington,Virginia,United States,tree-of-heaven
-120415781,2022-06-05,38.8957443237,-77.0841293335,15.0,Arlington,Virginia,United States,Götterbaum
+120415781,2022-06-05,38.8957443237,-77.0841293335,15.0,Arlington,Virginia,United States,tree-of-heaven
 120559363,2022-06-06,39.15962568,-78.17597657,4.0,Winchester,Virginia,United States,tree-of-heaven
-120671302,2022-06-07,37.4361568646,-79.9135733688,7.0,Botetourt,Virginia,United States,Götterbaum
-120676529,2022-06-07,39.0818061829,-78.1890563965,77.0,Frederick,Virginia,United States,Götterbaum
-120818974,2022-06-08,37.5367507935,-77.4575195313,14.0,Richmond city,Virginia,United States,Götterbaum
-120833905,2020-06-21,38.3841083333,-78.2282416667,10.0,Madison,Virginia,United States,Götterbaum
+120671302,2022-06-07,37.4361568646,-79.9135733688,7.0,Botetourt,Virginia,United States,tree-of-heaven
+120676529,2022-06-07,39.0818061829,-78.1890563965,77.0,Frederick,Virginia,United States,tree-of-heaven
+120818974,2022-06-08,37.5367507935,-77.4575195313,14.0,Richmond city,Virginia,United States,tree-of-heaven
+120833905,2020-06-21,38.3841083333,-78.2282416667,10.0,Madison,Virginia,United States,tree-of-heaven
 120847459,2022-06-08,36.88238876,-78.70294093,8.0,Halifax,Virginia,United States,tree-of-heaven
-120966704,2022-06-09,38.0903282166,-78.9882965088,35.0,Augusta,Virginia,United States,Götterbaum
-120994469,2022-06-09,37.818425,-76.5254283333,4.0,Lancaster,Virginia,United States,Götterbaum
-121020505,2022-06-09,37.5284488767,-77.4365384765,17.0,Richmond city,Virginia,United States,Götterbaum
-121026575,2022-06-09,37.2432250977,-80.0222244263,2000.0,Roanoke,Virginia,United States,Götterbaum
-121040673,2022-06-09,38.0673639031,-78.434996268,8.0,Charlottesville City,Virginia,United States,Götterbaum
+120966704,2022-06-09,38.0903282166,-78.9882965088,35.0,Augusta,Virginia,United States,tree-of-heaven
+120994469,2022-06-09,37.818425,-76.5254283333,4.0,Lancaster,Virginia,United States,tree-of-heaven
+121020505,2022-06-09,37.5284488767,-77.4365384765,17.0,Richmond city,Virginia,United States,tree-of-heaven
+121026575,2022-06-09,37.2432250977,-80.0222244263,2000.0,Roanoke,Virginia,United States,tree-of-heaven
+121040673,2022-06-09,38.0673639031,-78.434996268,8.0,Charlottesville City,Virginia,United States,tree-of-heaven
 121280715,2022-06-11,38.90862552,-78.1681768515,35.0,Warren,Virginia,United States,tree-of-heaven
 121302337,2022-06-11,38.9649079515,-78.0500262603,6.0,Warren,Virginia,United States,tree-of-heaven
 121312217,2022-06-11,39.1788978577,-78.197807312,4.0,Winchester,Virginia,United States,tree-of-heaven
 121750433,2022-06-14,38.243645,-77.4166416667,4.0,Spotsylvania,Virginia,United States,tree-of-heaven
 121888876,2022-06-15,38.06470993,-78.46997165,17.0,Charlottesville City,Virginia,United States,tree-of-heaven
-121908840,2022-06-15,38.89894104,-77.1837615967,75.0,Fairfax,Virginia,United States,Götterbaum
+121908840,2022-06-15,38.89894104,-77.1837615967,75.0,Fairfax,Virginia,United States,tree-of-heaven
 122030337,2022-06-16,38.8404655457,-77.3964538574,77.0,Fairfax,Virginia,United States,tree-of-heaven
 122365337,2022-06-18,39.11410477,-77.56434854,4.0,Loudoun,Virginia,United States,tree-of-heaven
 122459788,2022-06-19,37.3866572712,-80.0738592875,11.0,Roanoke,Virginia,United States,tree-of-heaven
 122564535,2022-06-19,38.7739264316,-77.1532837876,10.0,Fairfax,Virginia,United States,tree-of-heaven
-122592745,2022-06-19,37.7486848692,-78.1623638121,50.0,Cumberland,Virginia,United States,Götterbaum
-122699845,2022-06-20,37.1135101318,-80.6889648438,3.0,Pulaski,Virginia,United States,Götterbaum
+122592745,2022-06-19,37.7486848692,-78.1623638121,50.0,Cumberland,Virginia,United States,tree-of-heaven
+122699845,2022-06-20,37.1135101318,-80.6889648438,3.0,Pulaski,Virginia,United States,tree-of-heaven
 122710855,2022-06-20,37.327778698,-77.2062346526,5.0,Charles City,Virginia,United States,tree-of-heaven
-122726007,2022-06-20,39.1758003235,-78.1887130737,4.0,Winchester,Virginia,United States,Götterbaum
-122814854,2022-06-21,37.3273058756,-77.2059455439,15.0,Charles City,Virginia,United States,Götterbaum
-122834424,2022-06-19,38.5412725239,-77.3274409115,10.0,Prince William,Virginia,United States,Götterbaum
+122726007,2022-06-20,39.1758003235,-78.1887130737,4.0,Winchester,Virginia,United States,tree-of-heaven
+122814854,2022-06-21,37.3273058756,-77.2059455439,15.0,Charles City,Virginia,United States,tree-of-heaven
+122834424,2022-06-19,38.5412725239,-77.3274409115,10.0,Prince William,Virginia,United States,tree-of-heaven
 122973817,2022-06-20,37.3277991375,-77.2062021612,17.0,Charles City,Virginia,United States,tree-of-heaven
-123046953,2022-06-06,38.8776033333,-78.2048633333,4.0,Warren,Virginia,United States,Götterbaum
-123073505,2022-06-22,38.7828,-77.3844833333,4.0,Fairfax,Virginia,United States,Götterbaum
+123046953,2022-06-06,38.8776033333,-78.2048633333,4.0,Warren,Virginia,United States,tree-of-heaven
+123073505,2022-06-22,38.7828,-77.3844833333,4.0,Fairfax,Virginia,United States,tree-of-heaven
 123102137,2022-06-07,38.9616050982,-77.1565025223,8.0,Fairfax,Virginia,United States,tree-of-heaven
 123292994,2022-06-24,37.2915641824,-79.994826112,5.0,Roanoke city,Virginia,United States,tree-of-heaven
-123296113,2022-06-23,37.3819263459,-80.1013079658,13.0,Roanoke,Virginia,United States,Götterbaum
-123310923,2022-06-24,37.1979234231,-80.3949924166,1.0,Montgomery,Virginia,United States,Götterbaum
-123380050,2022-06-25,38.16704069,-77.1864183556,2.0,Caroline,Virginia,United States,Götterbaum
-123389583,2022-06-25,39.0013504028,-77.5367050171,49.0,Loudoun,Virginia,United States,Götterbaum
-123396013,2022-06-25,38.7988442355,-77.3401188235,6.0,Fairfax,Virginia,United States,Götterbaum
-123427432,2022-06-25,36.8280970003,-80.8518012817,321.0,Carroll,Virginia,United States,
-123564499,2022-06-26,37.944705,-76.8928533333,4.0,Essex,Virginia,United States,Götterbaum
+123296113,2022-06-23,37.3819263459,-80.1013079658,13.0,Roanoke,Virginia,United States,tree-of-heaven
+123310923,2022-06-24,37.1979234231,-80.3949924166,1.0,Montgomery,Virginia,United States,tree-of-heaven
+123380050,2022-06-25,38.16704069,-77.1864183556,2.0,Caroline,Virginia,United States,tree-of-heaven
+123389583,2022-06-25,39.0013504028,-77.5367050171,49.0,Loudoun,Virginia,United States,tree-of-heaven
+123396013,2022-06-25,38.7988442355,-77.3401188235,6.0,Fairfax,Virginia,United States,tree-of-heaven
+123564499,2022-06-26,37.944705,-76.8928533333,4.0,Essex,Virginia,United States,tree-of-heaven
 123771942,2022-06-27,38.7210083333,-77.1413055,35.0,Fairfax,Virginia,United States,tree-of-heaven
 123823227,2022-06-28,37.4895183323,-77.4156565034,30.0,Henrico,Virginia,United States,tree-of-heaven
-123835293,2022-06-28,38.4260356344,-78.8595123418,15.0,Harrisonburg,Virginia,United States,Götterbaum
+123835293,2022-06-28,38.4260356344,-78.8595123418,15.0,Harrisonburg,Virginia,United States,tree-of-heaven
 123876881,2022-06-28,38.7251373008,-77.2478988302,3.0,Fairfax,Virginia,United States,tree-of-heaven
 123894947,2022-06-28,37.7800898,-79.4546303,17.0,Lexington,Virginia,United States,tree-of-heaven
 123921605,2022-06-28,37.2988569452,-75.9289618582,196.0,Northampton,Virginia,United States,tree-of-heaven
-123958986,2022-06-29,38.4324771585,-78.8644930255,4.0,Harrisonburg,Virginia,United States,Götterbaum
-123975831,2022-06-29,38.4322562116,-78.8646649384,6.0,Harrisonburg,Virginia,United States,Götterbaum
-124045017,2022-06-28,37.35119937,-79.96197744,4.0,Roanoke,Virginia,United States,Götterbaum
-124126418,2022-06-30,39.0663083333,-78.061875,17.0,Clarke,Virginia,United States,Götterbaum
-124157233,2022-06-30,36.8464282207,-81.4912541967,4.0,Smyth,Virginia,United States,Götterbaum
+123958986,2022-06-29,38.4324771585,-78.8644930255,4.0,Harrisonburg,Virginia,United States,tree-of-heaven
+123975831,2022-06-29,38.4322562116,-78.8646649384,6.0,Harrisonburg,Virginia,United States,tree-of-heaven
+124045017,2022-06-28,37.35119937,-79.96197744,4.0,Roanoke,Virginia,United States,tree-of-heaven
+124126418,2022-06-30,39.0663083333,-78.061875,17.0,Clarke,Virginia,United States,tree-of-heaven
+124157233,2022-06-30,36.8464282207,-81.4912541967,4.0,Smyth,Virginia,United States,tree-of-heaven
 124165637,2022-06-30,37.7602767944,-78.083404541,230.0,Goochland,Virginia,United States,tree-of-heaven
-124272730,2022-07-01,38.7987319075,-77.2294351012,9.0,Fairfax,Virginia,United States,Götterbaum
-124285708,2022-07-01,38.290425,-77.4483333333,4.0,Stafford,Virginia,United States,Götterbaum
-124442860,2022-07-02,39.0324058533,-77.7334518433,68.0,Loudoun,Virginia,United States,Götterbaum
-124541781,2022-07-03,38.6350588,-77.826662,15.0,Fauquier,Virginia,United States,Götterbaum
-124584158,2022-06-11,36.9652325063,-76.561177409,1110.0,Isle of Wight,Virginia,United States,Götterbaum
+124272730,2022-07-01,38.7987319075,-77.2294351012,9.0,Fairfax,Virginia,United States,tree-of-heaven
+124285708,2022-07-01,38.290425,-77.4483333333,4.0,Stafford,Virginia,United States,tree-of-heaven
+124442860,2022-07-02,39.0324058533,-77.7334518433,68.0,Loudoun,Virginia,United States,tree-of-heaven
+124541781,2022-07-03,38.6350588,-77.826662,15.0,Fauquier,Virginia,United States,tree-of-heaven
+124584158,2022-06-11,36.9652325063,-76.561177409,1110.0,Isle of Wight,Virginia,United States,tree-of-heaven
 124623742,2022-07-03,36.8544921875,-78.1990661621,20.0,Lunenburg,Virginia,United States,tree-of-heaven
 124632476,2022-07-03,36.7622935284,-80.733006215,24.0,Carroll,Virginia,United States,tree-of-heaven
 124728085,2022-07-04,38.4439196,-78.87631368,9.0,Harrisonburg,Virginia,United States,tree-of-heaven
-124746210,2022-07-04,38.4613341873,-78.1913491301,5.0,Culpeper,Virginia,United States,Götterbaum
-124777764,2022-07-04,38.7016525269,-78.0498733521,49.0,Rappahannock,Virginia,United States,Götterbaum
+124746210,2022-07-04,38.4613341873,-78.1913491301,5.0,Culpeper,Virginia,United States,tree-of-heaven
+124777764,2022-07-04,38.7016525269,-78.0498733521,49.0,Rappahannock,Virginia,United States,tree-of-heaven
 124794877,2022-07-04,39.1376388333,-77.6416383333,4.0,Loudoun,Virginia,United States,tree-of-heaven
-124808303,2022-07-04,39.1917336112,-77.6815605829,9.0,Loudoun,Virginia,United States,Götterbaum
-124943036,2022-07-05,39.01514063,-77.40401519,3.0,Loudoun,Virginia,United States,Götterbaum
-125011870,2022-07-06,37.29514284,-80.41885734,3.0,Montgomery,Virginia,United States,Götterbaum
-125041653,2022-07-06,38.98259641,-77.35868022,3.0,Fairfax,Virginia,United States,Götterbaum
-125041967,2022-07-06,38.98243991,-77.35874198,3.0,Fairfax,Virginia,United States,Götterbaum
+124808303,2022-07-04,39.1917336112,-77.6815605829,9.0,Loudoun,Virginia,United States,tree-of-heaven
+124943036,2022-07-05,39.01514063,-77.40401519,3.0,Loudoun,Virginia,United States,tree-of-heaven
+125011870,2022-07-06,37.29514284,-80.41885734,3.0,Montgomery,Virginia,United States,tree-of-heaven
+125041653,2022-07-06,38.98259641,-77.35868022,3.0,Fairfax,Virginia,United States,tree-of-heaven
+125041967,2022-07-06,38.98243991,-77.35874198,3.0,Fairfax,Virginia,United States,tree-of-heaven
 125237300,2022-07-07,39.0444544465,-77.4181101959,4.0,Loudoun,Virginia,United States,tree-of-heaven
-125303754,2022-07-08,38.8359130886,-77.1546428084,9.0,Fairfax,Virginia,United States,Götterbaum
+125303754,2022-07-08,38.8359130886,-77.1546428084,9.0,Fairfax,Virginia,United States,tree-of-heaven
 125614823,2022-07-10,36.7462466667,-76.319825,3.0,Chesapeake,Virginia,United States,tree-of-heaven
-125630422,2022-07-10,38.8842887878,-77.1201171875,35.0,Arlington,Virginia,United States,Götterbaum
-125650079,2022-07-10,38.8406608813,-77.0569853951,3.0,Alexandria,Virginia,United States,Götterbaum
-125677964,2022-07-10,38.2440033333,-77.434625,4.0,Spotsylvania,Virginia,United States,Götterbaum
+125630422,2022-07-10,38.8842887878,-77.1201171875,35.0,Arlington,Virginia,United States,tree-of-heaven
+125650079,2022-07-10,38.8406608813,-77.0569853951,3.0,Alexandria,Virginia,United States,tree-of-heaven
+125677964,2022-07-10,38.2440033333,-77.434625,4.0,Spotsylvania,Virginia,United States,tree-of-heaven
 125871982,2022-07-11,38.78408,-77.0615221667,3.0,Fairfax,Virginia,United States,tree-of-heaven
-125872157,2022-07-11,38.7831283333,-77.0636445,19.0,Fairfax,Virginia,United States,Götterbaum
+125872157,2022-07-11,38.7831283333,-77.0636445,19.0,Fairfax,Virginia,United States,tree-of-heaven
 125953325,2022-06-25,38.9114970919,-77.2763150349,52.0,Fairfax,Virginia,United States,tree-of-heaven
-125976081,2022-07-12,39.0198396519,-77.4061013014,8.0,Loudoun,Virginia,United States,Götterbaum
-126094095,2022-07-13,38.6973142189,-77.2439225771,18.0,Fairfax,Virginia,United States,Götterbaum
-126176000,2022-07-10,37.7462981859,-79.6324484423,512.0,Rockbridge,Virginia,United States,Götterbaum
-126204087,2022-07-14,38.79001667,-77.063125,5.0,Fairfax,Virginia,United States,Götterbaum
-126209627,2022-07-14,37.7343488983,-77.105479559,1249.0,King William,Virginia,United States,Götterbaum
-126404418,2022-07-15,38.0123345545,-78.5020629689,5.0,Charlottesville City,Virginia,United States,Götterbaum
-126475040,2022-07-16,38.7541656494,-77.2536239624,53.0,Fairfax,Virginia,United States,Götterbaum
-126535844,2022-07-16,39.2901776252,-77.7376682626,11.0,Loudoun,Virginia,United States,Götterbaum
-126544413,2022-07-16,37.2484883333,-80.0260778333,6.0,Roanoke city,Virginia,United States,Götterbaum
-126574117,2022-07-16,38.1639861667,-76.86512,4.0,Westmoreland,Virginia,United States,Götterbaum
-126646286,2022-07-17,38.98653583,-77.34288442,6.0,Fairfax,Virginia,United States,Götterbaum
-126647131,2022-07-17,38.98392772,-77.34604291,5.0,Fairfax,Virginia,United States,Götterbaum
-126648081,2022-07-17,38.98384724,-77.34604245,3.0,Fairfax,Virginia,United States,Götterbaum
+125976081,2022-07-12,39.0198396519,-77.4061013014,8.0,Loudoun,Virginia,United States,tree-of-heaven
+126094095,2022-07-13,38.6973142189,-77.2439225771,18.0,Fairfax,Virginia,United States,tree-of-heaven
+126176000,2022-07-10,37.7462981859,-79.6324484423,512.0,Rockbridge,Virginia,United States,tree-of-heaven
+126204087,2022-07-14,38.79001667,-77.063125,5.0,Fairfax,Virginia,United States,tree-of-heaven
+126209627,2022-07-14,37.7343488983,-77.105479559,1249.0,King William,Virginia,United States,tree-of-heaven
+126404418,2022-07-15,38.0123345545,-78.5020629689,5.0,Charlottesville City,Virginia,United States,tree-of-heaven
+126475040,2022-07-16,38.7541656494,-77.2536239624,53.0,Fairfax,Virginia,United States,tree-of-heaven
+126535844,2022-07-16,39.2901776252,-77.7376682626,11.0,Loudoun,Virginia,United States,tree-of-heaven
+126544413,2022-07-16,37.2484883333,-80.0260778333,6.0,Roanoke city,Virginia,United States,tree-of-heaven
+126574117,2022-07-16,38.1639861667,-76.86512,4.0,Westmoreland,Virginia,United States,tree-of-heaven
+126646286,2022-07-17,38.98653583,-77.34288442,6.0,Fairfax,Virginia,United States,tree-of-heaven
+126647131,2022-07-17,38.98392772,-77.34604291,5.0,Fairfax,Virginia,United States,tree-of-heaven
+126648081,2022-07-17,38.98384724,-77.34604245,3.0,Fairfax,Virginia,United States,tree-of-heaven
 126649664,2022-07-17,38.98121326,-77.35382806,4.0,Fairfax,Virginia,United States,tree-of-heaven
 126649780,2022-07-17,38.98118234,-77.35400733,3.0,Fairfax,Virginia,United States,tree-of-heaven
-126686517,2022-07-17,37.2028583333,-76.7382583333,22.0,James City,Virginia,United States,Götterbaum
+126686517,2022-07-17,37.2028583333,-76.7382583333,22.0,James City,Virginia,United States,tree-of-heaven
 126720449,2022-07-17,38.9535333333,-77.2798783333,5.0,Fairfax,Virginia,United States,tree-of-heaven
-126948254,2022-07-19,37.7320423723,-77.1165725962,5.0,King William,Virginia,United States,Götterbaum
-126989857,2022-07-19,38.9182883333,-78.1490945,9.0,Warren,Virginia,United States,Götterbaum
+126948254,2022-07-19,37.7320423723,-77.1165725962,5.0,King William,Virginia,United States,tree-of-heaven
+126989857,2022-07-19,38.9182883333,-78.1490945,9.0,Warren,Virginia,United States,tree-of-heaven
 127025747,2022-07-10,38.8395589,-77.0550187,30.0,Alexandria,Virginia,United States,tree-of-heaven
-127039175,2022-07-19,38.7870033333,-77.0633166667,4.0,Fairfax,Virginia,United States,Götterbaum
-127244454,2022-07-21,39.0112915039,-77.2517089844,4.0,Fairfax,Virginia,United States,Götterbaum
+127039175,2022-07-19,38.7870033333,-77.0633166667,4.0,Fairfax,Virginia,United States,tree-of-heaven
+127244454,2022-07-21,39.0112915039,-77.2517089844,4.0,Fairfax,Virginia,United States,tree-of-heaven
 127391946,2022-07-11,38.3575389196,-79.0812385724,349.0,Augusta,Virginia,United States,tree-of-heaven
 127410563,2022-07-22,37.2637500232,-80.4646076154,4.0,Montgomery,Virginia,United States,tree-of-heaven
 127411977,2022-07-22,37.2706305469,-80.4578286131,7.0,Montgomery,Virginia,United States,tree-of-heaven
 127433393,2022-07-20,38.9483265113,-77.2917344236,5.0,Fairfax,Virginia,United States,tree-of-heaven
 127677739,2022-07-22,37.26378366,-80.46440075,4.0,Montgomery,Virginia,United States,tree-of-heaven
-127710463,2022-07-24,37.5408097897,-77.4511171519,4.0,Richmond city,Virginia,United States,Götterbaum
+127710463,2022-07-24,37.5408097897,-77.4511171519,4.0,Richmond city,Virginia,United States,tree-of-heaven
 127791448,2022-07-24,38.8589612601,-77.0460677147,93.0,Arlington,Virginia,United States,tree-of-heaven
-127993111,2022-07-26,39.04579116,-77.30927821,3.0,Fairfax,Virginia,United States,Götterbaum
-127996346,2022-07-26,37.6623679279,-77.6726508518,94.0,Goochland,Virginia,United States,Götterbaum
-128125124,2022-07-27,39.041175,-78.1602945,4.0,Frederick,Virginia,United States,Götterbaum
-128132536,2022-07-27,38.7101515057,-77.4225142413,3.0,Prince William,Virginia,United States,Götterbaum
-128505858,2022-07-27,38.5986011573,-77.2747049108,5.0,Prince William,Virginia,United States,Götterbaum
+127993111,2022-07-26,39.04579116,-77.30927821,3.0,Fairfax,Virginia,United States,tree-of-heaven
+127996346,2022-07-26,37.6623679279,-77.6726508518,94.0,Goochland,Virginia,United States,tree-of-heaven
+128125124,2022-07-27,39.041175,-78.1602945,4.0,Frederick,Virginia,United States,tree-of-heaven
+128132536,2022-07-27,38.7101515057,-77.4225142413,3.0,Prince William,Virginia,United States,tree-of-heaven
+128505858,2022-07-27,38.5986011573,-77.2747049108,5.0,Prince William,Virginia,United States,tree-of-heaven
 128535353,2022-07-25,37.8377581405,-79.3704546678,244.0,Rockbridge,Virginia,United States,tree-of-heaven
-128619568,2022-07-30,38.0612522643,-78.475443218,5.0,Charlottesville City,Virginia,United States,Götterbaum
-128648825,2022-07-30,37.2720947266,-76.6934432983,45.0,Williamsburg,Virginia,United States,Götterbaum
+128619568,2022-07-30,38.0612522643,-78.475443218,5.0,Charlottesville City,Virginia,United States,tree-of-heaven
+128648825,2022-07-30,37.2720947266,-76.6934432983,45.0,Williamsburg,Virginia,United States,tree-of-heaven
 128709080,2022-07-30,38.8372113802,-77.0144410802,17.0,Alexandria,Virginia,United States,staghorn sumac
-128821536,2022-07-31,38.8756966667,-77.32792,4.0,Fairfax,Virginia,United States,Götterbaum
-129291991,2022-08-03,39.0512156301,-77.4174691737,6.0,Loudoun,Virginia,United States,Götterbaum
-129424755,2022-08-04,38.0535943481,-78.4777303879,5.0,Charlottesville City,Virginia,United States,Götterbaum
+128821536,2022-07-31,38.8756966667,-77.32792,4.0,Fairfax,Virginia,United States,tree-of-heaven
+129291991,2022-08-03,39.0512156301,-77.4174691737,6.0,Loudoun,Virginia,United States,tree-of-heaven
+129424755,2022-08-04,38.0535943481,-78.4777303879,5.0,Charlottesville City,Virginia,United States,tree-of-heaven
 129468922,2022-08-04,39.1084289551,-77.5650558472,48.0,Loudoun,Virginia,United States,tree-of-heaven
-129535724,2022-08-05,38.67592199,-77.25017243,9.0,Fairfax,Virginia,United States,Götterbaum
-129677528,2022-08-06,38.8004864198,-78.7936972159,4.0,Shenandoah,Virginia,United States,Götterbaum
-129747716,2022-08-06,38.2529033333,-76.96357,9.0,Westmoreland,Virginia,United States,Götterbaum
-129772908,2022-07-30,38.7917966667,-77.0426416667,6.0,Alexandria,Virginia,United States,Götterbaum
-129773000,2022-07-30,38.7916716667,-77.0425861667,4.0,Alexandria,Virginia,United States,Götterbaum
-129773037,2022-07-30,38.7945366667,-77.0436695,1414.0,Alexandria,Virginia,United States,Götterbaum
-129804693,2022-08-06,39.0986778577,-77.4970323404,8.0,Loudoun,Virginia,United States,Götterbaum
-129869408,2022-08-06,38.612161565,-77.872692643,186.0,Fauquier,Virginia,United States,Götterbaum
-129901808,2022-08-07,37.5467533333,-77.4645216667,14.0,Richmond city,Virginia,United States,Götterbaum
-130018744,2022-08-08,38.7168102,-77.1343148,1100.0,Fairfax,Virginia,United States,Götterbaum
-130134084,2022-08-09,38.9601869462,-77.2857416142,8.0,Fairfax,Virginia,United States,Götterbaum
+129535724,2022-08-05,38.67592199,-77.25017243,9.0,Fairfax,Virginia,United States,tree-of-heaven
+129677528,2022-08-06,38.8004864198,-78.7936972159,4.0,Shenandoah,Virginia,United States,tree-of-heaven
+129747716,2022-08-06,38.2529033333,-76.96357,9.0,Westmoreland,Virginia,United States,tree-of-heaven
+129772908,2022-07-30,38.7917966667,-77.0426416667,6.0,Alexandria,Virginia,United States,tree-of-heaven
+129773000,2022-07-30,38.7916716667,-77.0425861667,4.0,Alexandria,Virginia,United States,tree-of-heaven
+129773037,2022-07-30,38.7945366667,-77.0436695,1414.0,Alexandria,Virginia,United States,tree-of-heaven
+129804693,2022-08-06,39.0986778577,-77.4970323404,8.0,Loudoun,Virginia,United States,tree-of-heaven
+129869408,2022-08-06,38.612161565,-77.872692643,186.0,Fauquier,Virginia,United States,tree-of-heaven
+129901808,2022-08-07,37.5467533333,-77.4645216667,14.0,Richmond city,Virginia,United States,tree-of-heaven
+130018744,2022-08-08,38.7168102,-77.1343148,1100.0,Fairfax,Virginia,United States,tree-of-heaven
+130134084,2022-08-09,38.9601869462,-77.2857416142,8.0,Fairfax,Virginia,United States,tree-of-heaven
 130314524,2022-08-06,38.734255,-77.881155,4.0,Fauquier,Virginia,United States,tree-of-heaven
-130383469,2022-08-11,37.3685684204,-80.0941467285,78.0,Roanoke,Virginia,United States,Götterbaum
-130572177,2022-08-12,38.7837260756,-77.0716277993,34.0,Fairfax,Virginia,United States,Götterbaum
+130383469,2022-08-11,37.3685684204,-80.0941467285,78.0,Roanoke,Virginia,United States,tree-of-heaven
+130572177,2022-08-12,38.7837260756,-77.0716277993,34.0,Fairfax,Virginia,United States,tree-of-heaven
 130625187,2022-08-13,36.7013418906,-78.6429935649,4.0,Mecklenburg,Virginia,United States,tree-of-heaven
 130631500,2022-08-13,38.28229808,-77.46356604,3.0,Fredericksburg,Virginia,United States,tree-of-heaven
-130980553,2022-08-15,37.638073505,-77.5602139052,32.0,Henrico,Virginia,United States,Götterbaum
-131076044,2022-08-16,37.6131591797,-79.4878616333,9.0,Rockbridge,Virginia,United States,Götterbaum
-131092292,2022-08-16,37.2218322754,-80.4247512817,55.0,Montgomery,Virginia,United States,Götterbaum
+130980553,2022-08-15,37.638073505,-77.5602139052,32.0,Henrico,Virginia,United States,tree-of-heaven
+131076044,2022-08-16,37.6131591797,-79.4878616333,9.0,Rockbridge,Virginia,United States,tree-of-heaven
+131092292,2022-08-16,37.2218322754,-80.4247512817,55.0,Montgomery,Virginia,United States,tree-of-heaven
 131110334,2022-08-16,36.8352406564,-81.5160787644,35.0,Smyth,Virginia,United States,tree-of-heaven
-131111412,2022-08-15,38.7322583333,-77.4772033333,4.0,Manassas,Virginia,United States,Götterbaum
-131166330,2022-08-16,38.7810083333,-77.0626221667,3.0,Fairfax,Virginia,United States,Götterbaum
+131111412,2022-08-15,38.7322583333,-77.4772033333,4.0,Manassas,Virginia,United States,tree-of-heaven
+131166330,2022-08-16,38.7810083333,-77.0626221667,3.0,Fairfax,Virginia,United States,tree-of-heaven
 131185398,2022-08-17,38.1967873033,-78.5131476168,6.0,Albemarle,Virginia,United States,tree-of-heaven
 131215969,2022-08-16,38.7835383333,-77.0709,9.0,Fairfax,Virginia,United States,tree-of-heaven
 131267714,2022-08-17,38.8240181934,-77.136430163,5.0,Alexandria,Virginia,United States,tree-of-heaven
-131268024,2022-08-17,38.78255,-77.0665195,4.0,Fairfax,Virginia,United States,Götterbaum
-131270411,2022-08-17,38.7831000026,-77.0664971667,20.0,Fairfax,Virginia,United States,Götterbaum
-131270686,2022-08-17,38.7829950026,-77.0658028333,20.0,Fairfax,Virginia,United States,Götterbaum
+131268024,2022-08-17,38.78255,-77.0665195,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131270411,2022-08-17,38.7831000026,-77.0664971667,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131270686,2022-08-17,38.7829950026,-77.0658028333,20.0,Fairfax,Virginia,United States,tree-of-heaven
 131270794,2022-08-17,38.7829783333,-77.0657888333,4.0,Fairfax,Virginia,United States,tree-of-heaven
-131270853,2022-08-17,38.782955,-77.06575,4.0,Fairfax,Virginia,United States,Götterbaum
-131270953,2022-08-17,38.7829333333,-77.06575,4.0,Fairfax,Virginia,United States,Götterbaum
-131271326,2022-08-17,38.7829033333,-77.0657361667,4.0,Fairfax,Virginia,United States,Götterbaum
-131271458,2022-08-17,38.7829083333,-77.0657361667,4.0,Fairfax,Virginia,United States,Götterbaum
-131272957,2022-08-17,38.7828833426,-77.0656888333,20.0,Fairfax,Virginia,United States,Götterbaum
-131273002,2022-08-17,38.782875,-77.0657195,4.0,Fairfax,Virginia,United States,Götterbaum
+131270853,2022-08-17,38.782955,-77.06575,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131270953,2022-08-17,38.7829333333,-77.06575,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131271326,2022-08-17,38.7829033333,-77.0657361667,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131271458,2022-08-17,38.7829083333,-77.0657361667,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131272957,2022-08-17,38.7828833426,-77.0656888333,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131273002,2022-08-17,38.782875,-77.0657195,4.0,Fairfax,Virginia,United States,tree-of-heaven
 131273069,2022-08-17,38.7828466667,-77.0657278333,4.0,Fairfax,Virginia,United States,tree-of-heaven
 131273419,2022-08-17,38.7828216667,-77.0657666667,6.0,Fairfax,Virginia,United States,tree-of-heaven
 131274620,2022-08-17,38.7812225994,-77.0636373194,23.0,Fairfax,Virginia,United States,tree-of-heaven
-131274821,2022-08-17,38.7809833426,-77.0626305,20.0,Fairfax,Virginia,United States,Götterbaum
-131275276,2022-08-17,38.7809833333,-77.0625083333,4.0,Fairfax,Virginia,United States,Götterbaum
-131275840,2022-08-17,38.7807783333,-77.0625528333,4.0,Fairfax,Virginia,United States,Götterbaum
+131274821,2022-08-17,38.7809833426,-77.0626305,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131275276,2022-08-17,38.7809833333,-77.0625083333,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131275840,2022-08-17,38.7807783333,-77.0625528333,4.0,Fairfax,Virginia,United States,tree-of-heaven
 131275912,2022-08-17,38.7807910478,-77.0625649566,23.0,Fairfax,Virginia,United States,tree-of-heaven
 131275970,2022-08-17,38.7807283333,-77.0625221667,4.0,Fairfax,Virginia,United States,tree-of-heaven
 131276038,2022-08-17,38.7807533333,-77.0625695,4.0,Fairfax,Virginia,United States,tree-of-heaven
 131276063,2022-08-17,38.7807583333,-77.0625695,4.0,Fairfax,Virginia,United States,tree-of-heaven
-131276296,2022-08-17,38.7808300026,-77.0625305,20.0,Fairfax,Virginia,United States,Götterbaum
-131276473,2022-08-17,38.7809193775,-77.0625037601,23.0,Fairfax,Virginia,United States,Götterbaum
-131276633,2022-08-17,38.7809033426,-77.0624916667,20.0,Fairfax,Virginia,United States,Götterbaum
-131276899,2022-08-17,38.7808950026,-77.0625,20.0,Fairfax,Virginia,United States,Götterbaum
-131277261,2022-08-17,38.7809666667,-77.0625221667,4.0,Fairfax,Virginia,United States,Götterbaum
-131277335,2022-08-17,38.7809833333,-77.0625445,4.0,Fairfax,Virginia,United States,Götterbaum
-131277472,2022-08-17,38.7810184079,-77.0627819885,23.0,Fairfax,Virginia,United States,Götterbaum
-131278035,2022-08-17,38.7826116726,-77.07225,20.0,Fairfax,Virginia,United States,Götterbaum
-131278198,2022-08-17,38.7825966667,-77.0721971667,3.0,Fairfax,Virginia,United States,Götterbaum
-131278327,2022-08-17,38.78173,-77.0723945,11.0,Fairfax,Virginia,United States,Götterbaum
-131278711,2022-08-17,38.7833133333,-77.0720361667,5.0,Fairfax,Virginia,United States,Götterbaum
-131278856,2022-08-17,38.7837416667,-77.0715111667,7.0,Fairfax,Virginia,United States,Götterbaum
-131334211,2022-08-14,38.4549133333,-77.3996866667,19.0,Stafford,Virginia,United States,Götterbaum
-131404307,2022-08-18,38.7860666667,-77.0642305,3.0,Fairfax,Virginia,United States,Götterbaum
-131404536,2022-08-18,38.78537,-77.0633166667,7.0,Fairfax,Virginia,United States,Götterbaum
-131404631,2022-08-18,38.7853083333,-77.0622638333,8.0,Fairfax,Virginia,United States,Götterbaum
-131404886,2022-08-18,38.784974091,-77.0611035054,23.0,Fairfax,Virginia,United States,Götterbaum
-131405072,2022-08-18,38.7849862464,-77.061312483,23.0,Fairfax,Virginia,United States,Götterbaum
-131406391,2022-08-18,38.7836726844,-77.070129887,34.0,Fairfax,Virginia,United States,Götterbaum
-131406602,2022-08-18,38.7827116667,-77.0630278333,21.0,Fairfax,Virginia,United States,Götterbaum
-131406659,2022-08-18,38.7827916726,-77.0633916667,20.0,Fairfax,Virginia,United States,Götterbaum
-131406951,2022-08-18,38.7830250026,-77.0635833333,20.0,Fairfax,Virginia,United States,Götterbaum
-131407079,2022-08-18,38.7830583333,-77.0636138333,4.0,Fairfax,Virginia,United States,Götterbaum
-131407261,2022-08-18,38.7831940559,-77.0636205636,23.0,Fairfax,Virginia,United States,Götterbaum
-131407321,2022-08-18,38.7830866667,-77.0635916667,4.0,Fairfax,Virginia,United States,Götterbaum
-131407372,2022-08-18,38.7831950026,-77.0636833333,20.0,Fairfax,Virginia,United States,Götterbaum
-131408773,2022-08-13,38.783695988,-77.0716324732,23.0,Fairfax,Virginia,United States,Götterbaum
-131408900,2022-08-13,38.7834633333,-77.0715861667,17.0,Fairfax,Virginia,United States,Götterbaum
+131276296,2022-08-17,38.7808300026,-77.0625305,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131276473,2022-08-17,38.7809193775,-77.0625037601,23.0,Fairfax,Virginia,United States,tree-of-heaven
+131276633,2022-08-17,38.7809033426,-77.0624916667,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131276899,2022-08-17,38.7808950026,-77.0625,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131277261,2022-08-17,38.7809666667,-77.0625221667,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131277335,2022-08-17,38.7809833333,-77.0625445,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131277472,2022-08-17,38.7810184079,-77.0627819885,23.0,Fairfax,Virginia,United States,tree-of-heaven
+131278035,2022-08-17,38.7826116726,-77.07225,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131278198,2022-08-17,38.7825966667,-77.0721971667,3.0,Fairfax,Virginia,United States,tree-of-heaven
+131278327,2022-08-17,38.78173,-77.0723945,11.0,Fairfax,Virginia,United States,tree-of-heaven
+131278711,2022-08-17,38.7833133333,-77.0720361667,5.0,Fairfax,Virginia,United States,tree-of-heaven
+131278856,2022-08-17,38.7837416667,-77.0715111667,7.0,Fairfax,Virginia,United States,tree-of-heaven
+131334211,2022-08-14,38.4549133333,-77.3996866667,19.0,Stafford,Virginia,United States,tree-of-heaven
+131404307,2022-08-18,38.7860666667,-77.0642305,3.0,Fairfax,Virginia,United States,tree-of-heaven
+131404536,2022-08-18,38.78537,-77.0633166667,7.0,Fairfax,Virginia,United States,tree-of-heaven
+131404631,2022-08-18,38.7853083333,-77.0622638333,8.0,Fairfax,Virginia,United States,tree-of-heaven
+131404886,2022-08-18,38.784974091,-77.0611035054,23.0,Fairfax,Virginia,United States,tree-of-heaven
+131405072,2022-08-18,38.7849862464,-77.061312483,23.0,Fairfax,Virginia,United States,tree-of-heaven
+131406391,2022-08-18,38.7836726844,-77.070129887,34.0,Fairfax,Virginia,United States,tree-of-heaven
+131406602,2022-08-18,38.7827116667,-77.0630278333,21.0,Fairfax,Virginia,United States,tree-of-heaven
+131406659,2022-08-18,38.7827916726,-77.0633916667,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131406951,2022-08-18,38.7830250026,-77.0635833333,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131407079,2022-08-18,38.7830583333,-77.0636138333,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131407261,2022-08-18,38.7831940559,-77.0636205636,23.0,Fairfax,Virginia,United States,tree-of-heaven
+131407321,2022-08-18,38.7830866667,-77.0635916667,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131407372,2022-08-18,38.7831950026,-77.0636833333,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131408773,2022-08-13,38.783695988,-77.0716324732,23.0,Fairfax,Virginia,United States,tree-of-heaven
+131408900,2022-08-13,38.7834633333,-77.0715861667,17.0,Fairfax,Virginia,United States,tree-of-heaven
 131440673,2022-08-19,38.8770029694,-77.1068809368,10.0,Arlington,Virginia,United States,tree-of-heaven
-131470324,2022-08-16,38.8917106949,-77.4101507664,3.0,Fairfax,Virginia,United States,Götterbaum
-131476298,2022-08-10,38.853305,-77.354645,4.0,Fairfax,Virginia,United States,Götterbaum
-131485678,2022-08-19,38.2844761144,-78.6586977744,118.0,Greene,Virginia,United States,Götterbaum
-131543997,2022-08-19,38.9506625478,-77.428945005,7.0,Fairfax,Virginia,United States,Götterbaum
-131677946,2022-08-20,38.783463925,-77.070613071,37.0,Fairfax,Virginia,United States,Götterbaum
-131678120,2022-08-20,38.7832783732,-77.0720358466,34.0,Fairfax,Virginia,United States,Götterbaum
-131678315,2022-08-20,38.7833599765,-77.0719504939,23.0,Fairfax,Virginia,United States,Götterbaum
-131678659,2022-08-20,38.7138166726,-77.0851221667,20.0,Fairfax,Virginia,United States,Götterbaum
-131678865,2022-08-20,38.71442,-77.0849833333,5.0,Fairfax,Virginia,United States,Götterbaum
-131679062,2022-08-20,38.714455,-77.0850221667,4.0,Fairfax,Virginia,United States,Götterbaum
-131679369,2022-08-20,38.7145383426,-77.0849611667,20.0,Fairfax,Virginia,United States,Götterbaum
-131679449,2022-08-20,38.7145616667,-77.0849916667,4.0,Fairfax,Virginia,United States,Götterbaum
-131682966,2022-08-20,37.2690416667,-77.5810611111,30.0,Chesterfield,Virginia,United States,Götterbaum
-131683217,2022-08-20,37.2687333333,-77.5816416667,5.0,Chesterfield,Virginia,United States,Götterbaum
-131782635,2022-08-21,38.7742227921,-77.06868766,23.0,Fairfax,Virginia,United States,Götterbaum
+131470324,2022-08-16,38.8917106949,-77.4101507664,3.0,Fairfax,Virginia,United States,tree-of-heaven
+131476298,2022-08-10,38.853305,-77.354645,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131485678,2022-08-19,38.2844761144,-78.6586977744,118.0,Greene,Virginia,United States,tree-of-heaven
+131543997,2022-08-19,38.9506625478,-77.428945005,7.0,Fairfax,Virginia,United States,tree-of-heaven
+131677946,2022-08-20,38.783463925,-77.070613071,37.0,Fairfax,Virginia,United States,tree-of-heaven
+131678120,2022-08-20,38.7832783732,-77.0720358466,34.0,Fairfax,Virginia,United States,tree-of-heaven
+131678315,2022-08-20,38.7833599765,-77.0719504939,23.0,Fairfax,Virginia,United States,tree-of-heaven
+131678659,2022-08-20,38.7138166726,-77.0851221667,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131678865,2022-08-20,38.71442,-77.0849833333,5.0,Fairfax,Virginia,United States,tree-of-heaven
+131679062,2022-08-20,38.714455,-77.0850221667,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131679369,2022-08-20,38.7145383426,-77.0849611667,20.0,Fairfax,Virginia,United States,tree-of-heaven
+131679449,2022-08-20,38.7145616667,-77.0849916667,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131682966,2022-08-20,37.2690416667,-77.5810611111,30.0,Chesterfield,Virginia,United States,tree-of-heaven
+131683217,2022-08-20,37.2687333333,-77.5816416667,5.0,Chesterfield,Virginia,United States,tree-of-heaven
+131782635,2022-08-21,38.7742227921,-77.06868766,23.0,Fairfax,Virginia,United States,tree-of-heaven
 131782710,2022-08-21,38.7742667603,-77.0686977828,23.0,Fairfax,Virginia,United States,tree-of-heaven
-131782965,2022-08-21,38.7836033333,-77.0714861667,8.0,Fairfax,Virginia,United States,Götterbaum
-131798109,2022-08-18,37.3045583333,-78.6101616667,24.0,Prince Edward,Virginia,United States,Götterbaum
+131782965,2022-08-21,38.7836033333,-77.0714861667,8.0,Fairfax,Virginia,United States,tree-of-heaven
+131798109,2022-08-18,37.3045583333,-78.6101616667,24.0,Prince Edward,Virginia,United States,tree-of-heaven
 131885052,2022-08-22,38.8112716667,-77.1208888333,22.0,Alexandria,Virginia,United States,tree-of-heaven
-131958517,2022-08-20,38.711375,-77.0735388333,5.0,Fairfax,Virginia,United States,Götterbaum
-131968041,2022-08-20,38.714175,-77.0761028333,4.0,Fairfax,Virginia,United States,Götterbaum
-131968063,2022-08-20,38.714255,-77.0761945,3.0,Fairfax,Virginia,United States,Götterbaum
-131968179,2022-08-20,38.714395,-77.0762861667,10.0,Fairfax,Virginia,United States,Götterbaum
+131958517,2022-08-20,38.711375,-77.0735388333,5.0,Fairfax,Virginia,United States,tree-of-heaven
+131968041,2022-08-20,38.714175,-77.0761028333,4.0,Fairfax,Virginia,United States,tree-of-heaven
+131968063,2022-08-20,38.714255,-77.0761945,3.0,Fairfax,Virginia,United States,tree-of-heaven
+131968179,2022-08-20,38.714395,-77.0762861667,10.0,Fairfax,Virginia,United States,tree-of-heaven
 132037590,2022-08-23,37.5168108976,-77.4966232809,1431.0,Richmond city,Virginia,United States,tree-of-heaven
-132293526,2022-08-25,38.4427131806,-78.9109602851,3.0,Harrisonburg,Virginia,United States,Götterbaum
-132294201,2022-08-25,38.4419338341,-78.9102172875,43.0,Harrisonburg,Virginia,United States,
+132293526,2022-08-25,38.4427131806,-78.9109602851,3.0,Harrisonburg,Virginia,United States,tree-of-heaven
 132294667,2022-08-25,38.4217717807,-78.8915259155,2579.0,Harrisonburg,Virginia,United States,tree-of-heaven
 132326266,2022-08-25,38.6118783333,-78.5815883333,4.0,Page,Virginia,United States,tree-of-heaven
-132370445,2022-08-24,38.78367,-77.0701666667,6.0,Fairfax,Virginia,United States,Götterbaum
-132419210,2022-08-26,36.607525,-79.830345,4.0,Henry,Virginia,United States,Götterbaum
+132370445,2022-08-24,38.78367,-77.0701666667,6.0,Fairfax,Virginia,United States,tree-of-heaven
+132419210,2022-08-26,36.607525,-79.830345,4.0,Henry,Virginia,United States,tree-of-heaven
 132494558,2022-08-26,38.7744666667,-77.0677721667,7.0,Fairfax,Virginia,United States,tree-of-heaven
 132495558,2022-08-26,38.77252,-77.0667721667,21.0,Fairfax,Virginia,United States,tree-of-heaven
-132495805,2022-08-26,38.7728883333,-77.0660695,4.0,Fairfax,Virginia,United States,Götterbaum
-132495852,2022-08-26,38.7728583333,-77.0660028333,4.0,Fairfax,Virginia,United States,Götterbaum
+132495805,2022-08-26,38.7728883333,-77.0660695,4.0,Fairfax,Virginia,United States,tree-of-heaven
+132495852,2022-08-26,38.7728583333,-77.0660028333,4.0,Fairfax,Virginia,United States,tree-of-heaven
 133274388,2022-09-01,38.0274361667,-78.4860616667,5.0,Charlottesville City,Virginia,United States,tree-of-heaven
 133341767,2022-09-02,36.61307222,-78.49537887,6.0,Mecklenburg,Virginia,United States,tree-of-heaven
 133493556,2022-09-03,38.3863830566,-79.0926437378,211.0,Augusta,Virginia,United States,tree-of-heaven
 133650165,2022-09-04,38.0392740341,-77.6996433456,20.0,Spotsylvania,Virginia,United States,tree-of-heaven
 133699837,2022-09-04,38.058625,-78.288095,4.0,Albemarle,Virginia,United States,tree-of-heaven
 133704731,2022-08-24,38.8786967032,-78.2024990953,217.0,Warren,Virginia,United States,tree-of-heaven
-133748247,2022-09-05,38.789905,-77.0717471667,4.0,Fairfax,Virginia,United States,Götterbaum
+133748247,2022-09-05,38.789905,-77.0717471667,4.0,Fairfax,Virginia,United States,tree-of-heaven
 133749906,2022-09-05,38.481622017,-77.7607448214,9.0,Fauquier,Virginia,United States,tree-of-heaven
-133771309,2022-09-05,36.669291517,-78.3865319246,9.0,Mecklenburg,Virginia,United States,Götterbaum
+133771309,2022-09-05,36.669291517,-78.3865319246,9.0,Mecklenburg,Virginia,United States,tree-of-heaven
 133917443,2022-09-06,38.4436274923,-78.9108040034,9.0,Harrisonburg,Virginia,United States,tree-of-heaven
 133981546,2022-09-06,39.01916972,-77.40698253,3.0,Loudoun,Virginia,United States,tree-of-heaven
 134162119,2022-09-08,38.7542051431,-77.0559879721,4.0,Fairfax,Virginia,United States,tree-of-heaven
 134162409,2022-09-08,38.754441021,-77.0561453608,4.0,Fairfax,Virginia,United States,tree-of-heaven
-134223730,2022-09-08,37.2606697083,-80.4279556274,2799.0,Montgomery,Virginia,United States,Götterbaum
-134321121,2022-09-09,38.3107040304,-77.4943952177,29.0,Fredericksburg,Virginia,United States,Götterbaum
-134328111,2022-09-09,38.892722301,-77.3028635141,4.0,Fairfax,Virginia,United States,Götterbaum
+134223730,2022-09-08,37.2606697083,-80.4279556274,2799.0,Montgomery,Virginia,United States,tree-of-heaven
+134321121,2022-09-09,38.3107040304,-77.4943952177,29.0,Fredericksburg,Virginia,United States,tree-of-heaven
+134328111,2022-09-09,38.892722301,-77.3028635141,4.0,Fairfax,Virginia,United States,tree-of-heaven
 134421505,2022-07-13,37.2151166285,-80.4093917933,32.0,Montgomery,Virginia,United States,tree-of-heaven
-134423357,2022-09-10,37.26800127,-80.46153081,9.0,Montgomery,Virginia,United States,Götterbaum
-134425287,2022-09-10,37.26782362,-80.46109879,10.0,Montgomery,Virginia,United States,Götterbaum
-134425469,2022-09-10,37.26770988,-80.46114576,11.0,Montgomery,Virginia,United States,Götterbaum
-134430519,2022-09-10,37.2705339432,-80.4578597766,1029.0,Montgomery,Virginia,United States,Götterbaum
-134431946,2022-09-10,38.8524604217,-77.2410087381,4.0,Fairfax,Virginia,United States,Götterbaum
-134445689,2022-09-10,38.8524610503,-77.2410364822,4.0,Fairfax,Virginia,United States,Götterbaum
-134468364,2022-09-10,37.2678892454,-80.4609819689,7.0,Montgomery,Virginia,United States,Götterbaum
-134468549,2022-09-10,37.2677785624,-80.4609116447,5.0,Montgomery,Virginia,United States,Götterbaum
+134423357,2022-09-10,37.26800127,-80.46153081,9.0,Montgomery,Virginia,United States,tree-of-heaven
+134425287,2022-09-10,37.26782362,-80.46109879,10.0,Montgomery,Virginia,United States,tree-of-heaven
+134425469,2022-09-10,37.26770988,-80.46114576,11.0,Montgomery,Virginia,United States,tree-of-heaven
+134430519,2022-09-10,37.2705339432,-80.4578597766,1029.0,Montgomery,Virginia,United States,tree-of-heaven
+134431946,2022-09-10,38.8524604217,-77.2410087381,4.0,Fairfax,Virginia,United States,tree-of-heaven
+134445689,2022-09-10,38.8524610503,-77.2410364822,4.0,Fairfax,Virginia,United States,tree-of-heaven
+134468364,2022-09-10,37.2678892454,-80.4609819689,7.0,Montgomery,Virginia,United States,tree-of-heaven
+134468549,2022-09-10,37.2677785624,-80.4609116447,5.0,Montgomery,Virginia,United States,tree-of-heaven
 134776723,2022-09-12,37.2803654988,-79.8581772857,4.0,Roanoke,Virginia,United States,tree-of-heaven
-134980021,2022-09-14,38.97502354,-77.35836403,3.0,Fairfax,Virginia,United States,Götterbaum
-134989484,2022-09-14,38.4418304405,-78.9116803744,6.0,Harrisonburg,Virginia,United States,Götterbaum
-134990085,2022-09-14,38.4418659388,-78.9124064681,5.0,Harrisonburg,Virginia,United States,Götterbaum
+134980021,2022-09-14,38.97502354,-77.35836403,3.0,Fairfax,Virginia,United States,tree-of-heaven
+134989484,2022-09-14,38.4418304405,-78.9116803744,6.0,Harrisonburg,Virginia,United States,tree-of-heaven
+134990085,2022-09-14,38.4418659388,-78.9124064681,5.0,Harrisonburg,Virginia,United States,tree-of-heaven
 134990313,2022-09-14,38.4418564244,-78.9123651759,4.0,Harrisonburg,Virginia,United States,tree-of-heaven
 134998669,2022-09-14,38.442779691,-78.9110812359,4.0,Harrisonburg,Virginia,United States,tree-of-heaven
 135004923,2022-09-14,38.4435741658,-78.9107982823,8.0,Harrisonburg,Virginia,United States,tree-of-heaven
 135102384,2022-09-15,38.6576333281,-77.7049003448,5.0,Prince William,Virginia,United States,tree-of-heaven
 135109291,2022-09-15,38.4434694524,-78.9106587167,101.0,Harrisonburg,Virginia,United States,tree-of-heaven
 135122173,2022-09-15,38.4419164,-78.91036472,9.0,Harrisonburg,Virginia,United States,tree-of-heaven
-135252391,2022-09-16,38.4418117861,-78.9110753138,65.0,Harrisonburg,Virginia,United States,Götterbaum
+135252391,2022-09-16,38.4418117861,-78.9110753138,65.0,Harrisonburg,Virginia,United States,tree-of-heaven
 135263965,2022-09-16,38.2648010254,-78.558265686,4.0,Greene,Virginia,United States,tree-of-heaven
-135306935,2022-09-16,38.4232259513,-78.8316875957,5.0,Harrisonburg,Virginia,United States,Götterbaum
+135306935,2022-09-16,38.4232259513,-78.8316875957,5.0,Harrisonburg,Virginia,United States,tree-of-heaven
 135451619,2022-09-15,37.7760111111,-78.8723361111,1414.0,Nelson,Virginia,United States,tree-of-heaven
 135663025,2022-09-19,38.7897866667,-77.0952833333,4.0,Fairfax,Virginia,United States,tree-of-heaven
-135800690,2022-09-20,39.01156182,-77.25155749,12.0,Fairfax,Virginia,United States,Götterbaum
-135944454,2022-09-15,37.1923133333,-76.5291966667,23.0,York,Virginia,United States,Götterbaum
+135800690,2022-09-20,39.01156182,-77.25155749,12.0,Fairfax,Virginia,United States,tree-of-heaven
+135944454,2022-09-15,37.1923133333,-76.5291966667,23.0,York,Virginia,United States,tree-of-heaven
 135947288,2022-09-21,36.719969926,-76.2515867525,108.0,Chesapeake,Virginia,United States,tree-of-heaven
 135955178,2022-09-21,38.93590937,-77.34019719,7.0,Fairfax,Virginia,United States,tree-of-heaven
-136165762,2022-09-23,38.7931702119,-77.0830906558,9.0,Fairfax,Virginia,United States,Götterbaum
-136169136,2022-09-23,38.7907884453,-77.0725076196,4.0,Fairfax,Virginia,United States,Götterbaum
-136169832,2022-09-23,38.7898233199,-77.0719513518,4.0,Fairfax,Virginia,United States,Götterbaum
-136172124,2022-09-23,38.7900680855,-77.0719934271,5.0,Fairfax,Virginia,United States,Götterbaum
-136172352,2022-09-23,38.7860435,-77.0676614879,24.0,Fairfax,Virginia,United States,Götterbaum
-136174150,2022-09-23,38.7829157637,-77.0657359832,4.0,Fairfax,Virginia,United States,Götterbaum
+136165762,2022-09-23,38.7931702119,-77.0830906558,9.0,Fairfax,Virginia,United States,tree-of-heaven
+136169136,2022-09-23,38.7907884453,-77.0725076196,4.0,Fairfax,Virginia,United States,tree-of-heaven
+136169832,2022-09-23,38.7898233199,-77.0719513518,4.0,Fairfax,Virginia,United States,tree-of-heaven
+136172124,2022-09-23,38.7900680855,-77.0719934271,5.0,Fairfax,Virginia,United States,tree-of-heaven
+136172352,2022-09-23,38.7860435,-77.0676614879,24.0,Fairfax,Virginia,United States,tree-of-heaven
+136174150,2022-09-23,38.7829157637,-77.0657359832,4.0,Fairfax,Virginia,United States,tree-of-heaven
 136722061,2022-09-27,37.3888997778,-77.5660278866,506.0,Chesterfield,Virginia,United States,tree-of-heaven
 136846391,2022-09-28,37.2976043494,-77.8458543655,2022.0,Amelia,Virginia,United States,tree-of-heaven
-136956143,2022-09-29,37.6530151367,-77.5747451782,46.0,Henrico,Virginia,United States,Götterbaum
-137174721,2022-10-01,38.6643122802,-77.5012042638,8.0,Prince William,Virginia,United States,Götterbaum
-137481969,2022-10-02,39.0616305,-77.4409416667,4.0,Loudoun,Virginia,United States,Götterbaum
-137681388,2022-10-05,37.1407470703,-80.5492019653,1515.0,Radford,Virginia,United States,Götterbaum
+136956143,2022-09-29,37.6530151367,-77.5747451782,46.0,Henrico,Virginia,United States,tree-of-heaven
+137174721,2022-10-01,38.6643122802,-77.5012042638,8.0,Prince William,Virginia,United States,tree-of-heaven
+137481969,2022-10-02,39.0616305,-77.4409416667,4.0,Loudoun,Virginia,United States,tree-of-heaven
+137681388,2022-10-05,37.1407470703,-80.5492019653,1515.0,Radford,Virginia,United States,tree-of-heaven
 138022301,2022-10-08,38.8099882761,-77.0750110328,4.0,Alexandria,Virginia,United States,tree-of-heaven
 138109459,2022-10-08,39.152374134,-77.8984444162,87.0,Clarke,Virginia,United States,tree-of-heaven
-138115269,2022-10-09,37.5266609192,-77.4455947876,28.0,Richmond city,Virginia,United States,Götterbaum
+138115269,2022-10-09,37.5266609192,-77.4455947876,28.0,Richmond city,Virginia,United States,tree-of-heaven
 138157269,2022-10-09,39.08561371,-77.51234443,15.0,Loudoun,Virginia,United States,tree-of-heaven
-138284669,2022-10-10,39.102936869,-77.5662704913,4.0,Loudoun,Virginia,United States,Götterbaum
-138400458,2022-10-11,38.8138535141,-77.5153851316,30.0,Prince William,Virginia,United States,Götterbaum
+138284669,2022-10-10,39.102936869,-77.5662704913,4.0,Loudoun,Virginia,United States,tree-of-heaven
+138400458,2022-10-11,38.8138535141,-77.5153851316,30.0,Prince William,Virginia,United States,tree-of-heaven
 138403923,2022-10-11,39.0762004172,-77.6815160849,25.0,Loudoun,Virginia,United States,tree-of-heaven
 138795696,2022-10-14,38.9816093872,-77.5125241066,11.0,Loudoun,Virginia,United States,tree-of-heaven
 138853759,2022-10-14,38.9816452893,-77.5125399473,16.0,Loudoun,Virginia,United States,tree-of-heaven
-138872375,2022-10-15,38.7825063989,-77.3862475064,5.0,Fairfax,Virginia,United States,Götterbaum
-138873615,2022-10-15,38.7825120437,-77.3862551074,9.0,Fairfax,Virginia,United States,Götterbaum
-139825751,2022-10-23,37.7803533333,-79.4394133333,4.0,Lexington,Virginia,United States,Götterbaum
-139847113,2022-10-23,38.5432883333,-77.966995,6.0,Culpeper,Virginia,United States,Götterbaum
+138872375,2022-10-15,38.7825063989,-77.3862475064,5.0,Fairfax,Virginia,United States,tree-of-heaven
+138873615,2022-10-15,38.7825120437,-77.3862551074,9.0,Fairfax,Virginia,United States,tree-of-heaven
+139825751,2022-10-23,37.7803533333,-79.4394133333,4.0,Lexington,Virginia,United States,tree-of-heaven
+139847113,2022-10-23,38.5432883333,-77.966995,6.0,Culpeper,Virginia,United States,tree-of-heaven
 139901054,2022-10-24,37.997004767,-78.4721937218,162.0,Albemarle,Virginia,United States,tree-of-heaven
-140171285,2022-10-24,38.3213166667,-78.58242,4.0,Greene,Virginia,United States,Götterbaum
-140535031,2022-08-26,38.7835366667,-77.0709221667,6.0,Fairfax,Virginia,United States,Götterbaum
-140740341,2022-10-24,37.77977,-79.27575,3.0,Rockbridge,Virginia,United States,Götterbaum
-140778836,2022-10-17,39.2944689731,-77.7265550399,191.0,Loudoun,Virginia,United States,Götterbaum
-141148521,2022-11-05,38.8907546969,-77.2242245638,14.0,Fairfax,Virginia,United States,Götterbaum
+140171285,2022-10-24,38.3213166667,-78.58242,4.0,Greene,Virginia,United States,tree-of-heaven
+140535031,2022-08-26,38.7835366667,-77.0709221667,6.0,Fairfax,Virginia,United States,tree-of-heaven
+140740341,2022-10-24,37.77977,-79.27575,3.0,Rockbridge,Virginia,United States,tree-of-heaven
+140778836,2022-10-17,39.2944689731,-77.7265550399,191.0,Loudoun,Virginia,United States,tree-of-heaven
+141148521,2022-11-05,38.8907546969,-77.2242245638,14.0,Fairfax,Virginia,United States,tree-of-heaven
 141751401,2022-11-09,38.6636602408,-78.4839574895,4.0,Page,Virginia,United States,tree-of-heaven
-142617198,2022-11-22,37.8978166667,-78.255255,4.0,Fluvanna,Virginia,United States,Götterbaum
-142952275,2022-11-23,39.02066612,-77.51116372,6.0,Loudoun,Virginia,United States,Götterbaum
-142952289,2022-11-23,39.0208946,-77.5111674,12.0,Loudoun,Virginia,United States,Götterbaum
-143148498,2022-11-26,36.8832759031,-81.3707619533,126.0,Smyth,Virginia,United States,Götterbaum
-144028777,2022-12-09,37.9527883333,-76.8243716667,4.0,Richmond,Virginia,United States,Tree-of-Heaven
+142617198,2022-11-22,37.8978166667,-78.255255,4.0,Fluvanna,Virginia,United States,tree-of-heaven
+142952275,2022-11-23,39.02066612,-77.51116372,6.0,Loudoun,Virginia,United States,tree-of-heaven
+142952289,2022-11-23,39.0208946,-77.5111674,12.0,Loudoun,Virginia,United States,tree-of-heaven
+143148498,2022-11-26,36.8832759031,-81.3707619533,126.0,Smyth,Virginia,United States,tree-of-heaven
+144028777,2022-12-09,37.9527883333,-76.8243716667,4.0,Richmond,Virginia,United States,tree-of-heaven
 144196800,2022-12-11,38.7562366667,-77.56337,4.0,Prince William,Virginia,United States,tree-of-heaven
-145129334,2022-12-26,38.68034352,-78.4354715276,61.0,Page,Virginia,United States,Götterbaum
+145129334,2022-12-26,38.68034352,-78.4354715276,61.0,Page,Virginia,United States,tree-of-heaven
 145937291,2022-06-23,37.8788891336,-79.2248786491,23.0,Rockbridge,Virginia,United States,tree-of-heaven
-146698600,2023-01-16,38.9105351502,-77.1067971178,10.0,Arlington,Virginia,United States,Götterbaum
+146698600,2023-01-16,38.9105351502,-77.1067971178,10.0,Arlington,Virginia,United States,tree-of-heaven
 146906020,2023-01-19,39.0214407,-77.5117531,20.0,Loudoun,Virginia,United States,tree-of-heaven
 147035103,2023-01-21,38.2161002693,-78.1757472342,4.0,Orange,Virginia,United States,tree-of-heaven
 147075377,2023-01-21,38.4777533333,-77.94693,4.0,Culpeper,Virginia,United States,tree-of-heaven
-148263055,2023-02-07,37.8204553156,-77.7139856201,7.0,Hanover,Virginia,United States,
-149067931,2023-02-18,38.154459139,-78.5022035016,9.0,Albemarle,Virginia,United States,
 149776274,2023-02-16,38.6614091792,-78.4947865828,22.0,Page,Virginia,United States,tree-of-heaven
 150007716,2023-03-01,38.0634965655,-78.4755724411,336.0,Charlottesville City,Virginia,United States,tree-of-heaven
-151531798,2021-05-25,38.9341440094,-77.5884001136,25.0,Loudoun,Virginia,United States,Götterbaum
-151532503,2022-07-08,38.9366674942,-77.5830034048,23.0,Loudoun,Virginia,United States,Götterbaum
+151531798,2021-05-25,38.9341440094,-77.5884001136,25.0,Loudoun,Virginia,United States,tree-of-heaven
+151532503,2022-07-08,38.9366674942,-77.5830034048,23.0,Loudoun,Virginia,United States,tree-of-heaven
 151532580,2021-07-04,38.9323526027,-77.5841509762,25.0,Loudoun,Virginia,United States,tree-of-heaven
 151778208,2023-03-20,38.45093,-78.8374333333,13.0,Harrisonburg,Virginia,United States,tree-of-heaven
-151934113,2023-03-22,37.5280304561,-77.4541557603,4.0,Richmond city,Virginia,United States,Götterbaum
+151934113,2023-03-22,37.5280304561,-77.4541557603,4.0,Richmond city,Virginia,United States,tree-of-heaven
 152073785,2023-03-23,38.9069033333,-77.1057666667,35.0,Arlington,Virginia,United States,tree-of-heaven
-152144370,2023-03-24,37.1327748318,-80.5816242505,7.0,Radford,Virginia,United States,Götterbaum
-152145653,2023-03-24,37.1334164611,-80.5800817778,4.0,Radford,Virginia,United States,Götterbaum
-152145737,2023-03-24,37.1333519044,-80.58015503,5.0,Radford,Virginia,United States,Götterbaum
-152173978,2023-03-24,37.5503533333,-77.464625,35.0,Richmond city,Virginia,United States,Götterbaum
+152144370,2023-03-24,37.1327748318,-80.5816242505,7.0,Radford,Virginia,United States,tree-of-heaven
+152145653,2023-03-24,37.1334164611,-80.5800817778,4.0,Radford,Virginia,United States,tree-of-heaven
+152145737,2023-03-24,37.1333519044,-80.58015503,5.0,Radford,Virginia,United States,tree-of-heaven
+152173978,2023-03-24,37.5503533333,-77.464625,35.0,Richmond city,Virginia,United States,tree-of-heaven
 152393743,2023-03-26,37.5279716667,-77.446755,70.0,Richmond city,Virginia,United States,tree-of-heaven
-152558938,2023-03-27,38.8938391535,-77.1756686178,4.0,Falls Church,Virginia,United States,
 152777939,2023-03-29,37.52105,-77.474305,4.0,Richmond city,Virginia,United States,tree-of-heaven
-153062628,2023-03-24,37.1327833333,-80.5816138889,5.0,Radford,Virginia,United States,Ailanthus altissima
+153062628,2023-03-24,37.1327833333,-80.5816138889,5.0,Radford,Virginia,United States,tree-of-heaven
 153449574,2023-04-02,37.6040716667,-77.5044633333,3.0,Henrico,Virginia,United States,tree-of-heaven
 153449590,2023-04-02,37.60403,-77.5044333333,4.0,Henrico,Virginia,United States,tree-of-heaven
-153449617,2023-04-02,37.6040166667,-77.5044466667,4.0,Henrico,Virginia,United States,Götterbaum
-153450543,2023-04-02,37.6040583333,-77.5044333333,4.0,Henrico,Virginia,United States,Götterbaum
-153450618,2023-04-02,37.6040633333,-77.5044416667,3.0,Henrico,Virginia,United States,Götterbaum
-153463709,2023-04-02,37.6038633333,-77.5054083333,4.0,Henrico,Virginia,United States,Götterbaum
-153468872,2023-04-02,37.6040633333,-77.5044116667,4.0,Henrico,Virginia,United States,Götterbaum
+153449617,2023-04-02,37.6040166667,-77.5044466667,4.0,Henrico,Virginia,United States,tree-of-heaven
+153450543,2023-04-02,37.6040583333,-77.5044333333,4.0,Henrico,Virginia,United States,tree-of-heaven
+153450618,2023-04-02,37.6040633333,-77.5044416667,3.0,Henrico,Virginia,United States,tree-of-heaven
+153463709,2023-04-02,37.6038633333,-77.5054083333,4.0,Henrico,Virginia,United States,tree-of-heaven
+153468872,2023-04-02,37.6040633333,-77.5044116667,4.0,Henrico,Virginia,United States,tree-of-heaven
 153484086,2023-04-03,37.0230833333,-76.3391283333,4.0,Hampton,Virginia,United States,tree-of-heaven
-153493356,2023-04-02,37.5489616667,-77.4683383333,4.0,Richmond city,Virginia,United States,Götterbaum
+153493356,2023-04-02,37.5489616667,-77.4683383333,4.0,Richmond city,Virginia,United States,tree-of-heaven
 153726014,2023-01-17,38.6618546138,-77.988745831,473.0,Rappahannock,Virginia,United States,tree-of-heaven
-154173443,2023-04-09,37.5343663339,-77.4480444287,11.0,Richmond city,Virginia,United States,Götterbaum
+154173443,2023-04-09,37.5343663339,-77.4480444287,11.0,Richmond city,Virginia,United States,tree-of-heaven
 154225288,2023-04-09,38.779475,-77.0870138333,4.0,Fairfax,Virginia,United States,tree-of-heaven
-154304138,2023-04-10,38.2895611111,-77.453575,3.0,Fredericksburg,Virginia,United States,Götterbaum
+154304138,2023-04-10,38.2895611111,-77.453575,3.0,Fredericksburg,Virginia,United States,tree-of-heaven
 154459202,2023-04-11,39.0113611167,-77.25177,3.0,Fairfax,Virginia,United States,tree-of-heaven
 154479997,2023-04-11,38.9667774406,-77.1972278512,12.0,Fairfax,Virginia,United States,tree-of-heaven
 154755641,2023-04-13,38.2868168997,-77.4522255212,28.0,Fredericksburg,Virginia,United States,tree-of-heaven
-154770722,2023-04-13,38.31855,-77.4775466667,9.0,Fredericksburg,Virginia,United States,Götterbaum
-154848077,2023-04-14,38.6723883333,-77.1939466667,76.0,Fairfax,Virginia,United States,
-154969742,2023-04-15,37.3009302887,-75.9221353848,7.0,Northampton,Virginia,United States,Götterbaum
+154770722,2023-04-13,38.31855,-77.4775466667,9.0,Fredericksburg,Virginia,United States,tree-of-heaven
+154969742,2023-04-15,37.3009302887,-75.9221353848,7.0,Northampton,Virginia,United States,tree-of-heaven
 155349498,2023-04-17,37.7925799857,-79.4374737298,4.0,Lexington,Virginia,United States,tree-of-heaven
-155370154,2023-03-23,37.0226770528,-76.3373264893,372.0,Hampton,Virginia,United States,Tree of heaven
-155376752,2023-04-17,38.2897333333,-77.4815366667,5.0,Fredericksburg,Virginia,United States,Götterbaum
-155392606,2023-04-17,38.2964366667,-77.468155,4.0,Fredericksburg,Virginia,United States,Götterbaum
+155370154,2023-03-23,37.0226770528,-76.3373264893,372.0,Hampton,Virginia,United States,tree-of-heaven
+155376752,2023-04-17,38.2897333333,-77.4815366667,5.0,Fredericksburg,Virginia,United States,tree-of-heaven
+155392606,2023-04-17,38.2964366667,-77.468155,4.0,Fredericksburg,Virginia,United States,tree-of-heaven
 155489047,2023-04-18,38.8844185376,-77.0629428317,388.0,Arlington,Virginia,United States,tree-of-heaven
-155546327,2023-04-18,38.7840466667,-77.0614471667,4.0,Fairfax,Virginia,United States,Götterbaum
+155546327,2023-04-18,38.7840466667,-77.0614471667,4.0,Fairfax,Virginia,United States,tree-of-heaven
 155551396,2023-04-18,38.8372333333,-77.1474611667,9.0,Fairfax,Virginia,United States,tree-of-heaven
 155599427,2023-04-15,38.0315273885,-78.8470704016,237.0,Nelson,Virginia,United States,tree-of-heaven
-155783112,2023-04-20,37.52122659,-77.4899868,7.0,Richmond city,Virginia,United States,Götterbaum
+155783112,2023-04-20,37.52122659,-77.4899868,7.0,Richmond city,Virginia,United States,tree-of-heaven
 155801660,2023-04-20,38.7953985622,-77.1021289006,11.0,Fairfax,Virginia,United States,tree-of-heaven
 155801766,2023-04-20,38.7960797,-77.1018747,38.0,Fairfax,Virginia,United States,tree-of-heaven
 155801880,2023-04-20,38.7955216505,-77.1021748334,9.0,Fairfax,Virginia,United States,tree-of-heaven
-155892276,2023-04-12,37.3797383333,-77.3704083333,8.0,Chesterfield,Virginia,United States,Götterbaum
+155892276,2023-04-12,37.3797383333,-77.3704083333,8.0,Chesterfield,Virginia,United States,tree-of-heaven
 156078684,2023-04-19,38.5341818461,-78.419006309,270.0,Madison,Virginia,United States,tree-of-heaven
 156268036,2023-04-23,39.07436264,-77.98480232,4.0,Clarke,Virginia,United States,tree-of-heaven
-156312516,2023-04-23,36.6457011178,-76.2510771398,6.0,Chesapeake,Virginia,United States,
-156312911,2023-04-23,37.5024414063,-77.5608978271,10.0,Chesterfield,Virginia,United States,Götterbaum
-156315348,2023-04-23,36.6456593341,-76.2511196361,5.0,Chesapeake,Virginia,United States,
-156355848,2023-04-23,38.6401533333,-77.228195,4.0,Prince William,Virginia,United States,Götterbaum
+156312911,2023-04-23,37.5024414063,-77.5608978271,10.0,Chesterfield,Virginia,United States,tree-of-heaven
+156355848,2023-04-23,38.6401533333,-77.228195,4.0,Prince William,Virginia,United States,tree-of-heaven
 156640824,2023-04-25,38.12162358,-79.07577837,3.0,Augusta,Virginia,United States,tree-of-heaven
-156722418,2023-04-26,38.8565796526,-77.3620296539,35.0,Fairfax,Virginia,United States,Götterbaum
-157017212,2023-04-27,38.7846716667,-77.0737445,4.0,Fairfax,Virginia,United States,Götterbaum
-157232985,2023-04-28,36.6071578421,-79.8308631909,4.0,Henry,Virginia,United States,Götterbaum
+156722418,2023-04-26,38.8565796526,-77.3620296539,35.0,Fairfax,Virginia,United States,tree-of-heaven
+157017212,2023-04-27,38.7846716667,-77.0737445,4.0,Fairfax,Virginia,United States,tree-of-heaven
+157232985,2023-04-28,36.6071578421,-79.8308631909,4.0,Henry,Virginia,United States,tree-of-heaven
 157249421,2023-04-28,38.8705496282,-77.1321061915,127.0,Arlington,Virginia,United States,tree-of-heaven
 157340075,2023-04-28,38.82861932,-77.05337803,3.0,Alexandria,Virginia,United States,tree-of-heaven
 157378409,2023-04-28,38.780125,-77.0781861667,4.0,Fairfax,Virginia,United States,tree-of-heaven
 157385295,2023-04-28,37.8885145109,-78.8916570994,224.0,Nelson,Virginia,United States,tree-of-heaven
 157540225,2023-04-29,38.7651555673,-77.2182639941,4.0,Fairfax,Virginia,United States,tree-of-heaven
-157563356,2023-04-29,38.8484560096,-77.6405764281,35.0,Prince William,Virginia,United States,Götterbaum
+157563356,2023-04-29,38.8484560096,-77.6405764281,35.0,Prince William,Virginia,United States,tree-of-heaven
 157611541,2023-04-29,38.8286494195,-77.0539114926,27.0,Alexandria,Virginia,United States,tree-of-heaven
 157611586,2023-04-29,38.8285466667,-77.0535683333,7.0,Alexandria,Virginia,United States,tree-of-heaven
 157621382,2023-04-29,38.8286400042,-77.0534156547,14.0,Alexandria,Virginia,United States,tree-of-heaven
 157641937,2023-04-29,38.78298498,-77.795574366,137.0,Fauquier,Virginia,United States,tree-of-heaven
 157652643,2023-04-29,38.1641826273,-78.4409917864,789.0,Albemarle,Virginia,United States,tree-of-heaven
-157663606,2023-04-29,38.9905666667,-77.2494583333,5.0,Fairfax,Virginia,United States,Götterbaum
-157664201,2023-04-29,38.8284801502,-77.0536453567,18.0,Alexandria,Virginia,United States,Götterbaum
-157668196,2023-04-29,37.5287636,-77.41204085,6.0,Richmond city,Virginia,United States,Götterbaum
-157695438,2023-04-29,38.6159478224,-77.2749144584,177.0,Prince William,Virginia,United States,Götterbaum
-157696587,2023-04-29,38.8791839406,-77.1397681721,3.0,Arlington,Virginia,United States,Götterbaum
+157663606,2023-04-29,38.9905666667,-77.2494583333,5.0,Fairfax,Virginia,United States,tree-of-heaven
+157664201,2023-04-29,38.8284801502,-77.0536453567,18.0,Alexandria,Virginia,United States,tree-of-heaven
+157668196,2023-04-29,37.5287636,-77.41204085,6.0,Richmond city,Virginia,United States,tree-of-heaven
+157695438,2023-04-29,38.6159478224,-77.2749144584,177.0,Prince William,Virginia,United States,tree-of-heaven
+157696587,2023-04-29,38.8791839406,-77.1397681721,3.0,Arlington,Virginia,United States,tree-of-heaven
 157749570,2023-04-29,37.0419973075,-79.6894328722,104.0,"Franklin County, US, VA",Virginia,United States,tree-of-heaven
 157776214,2023-04-29,37.5343199591,-77.4823957309,8.0,Richmond city,Virginia,United States,tree-of-heaven
-157794238,2023-04-29,38.8286440306,-77.0534091819,14.0,Alexandria,Virginia,United States,Götterbaum
+157794238,2023-04-29,38.8286440306,-77.0534091819,14.0,Alexandria,Virginia,United States,tree-of-heaven
 157812561,2023-04-29,38.8279079413,-77.0526412223,22.0,Alexandria,Virginia,United States,tree-of-heaven
 157817016,2023-04-29,38.9372966667,-77.282005,8.0,Fairfax,Virginia,United States,tree-of-heaven
 157818953,2023-04-29,38.9391716667,-77.2833033333,17.0,Fairfax,Virginia,United States,tree-of-heaven
 157821508,2023-04-29,38.1523388333,-78.4218666667,299.0,Albemarle,Virginia,United States,tree-of-heaven
 157835371,2023-04-29,38.1896041636,-77.5224461746,482.0,Spotsylvania,Virginia,United States,tree-of-heaven
 157860485,2023-04-29,38.1045770856,-78.4872989385,779.0,Albemarle,Virginia,United States,tree-of-heaven
-158160492,2023-04-27,37.5258633333,-77.5622716667,15.0,Chesterfield,Virginia,United States,Götterbaum
-158174856,2023-04-30,38.8469045466,-77.0986443442,12.0,Arlington,Virginia,United States,Götterbaum
-158201859,2023-04-21,37.5249833333,-77.5600966667,1414.0,Chesterfield,Virginia,United States,Götterbaum
+158160492,2023-04-27,37.5258633333,-77.5622716667,15.0,Chesterfield,Virginia,United States,tree-of-heaven
+158174856,2023-04-30,38.8469045466,-77.0986443442,12.0,Arlington,Virginia,United States,tree-of-heaven
+158201859,2023-04-21,37.5249833333,-77.5600966667,1414.0,Chesterfield,Virginia,United States,tree-of-heaven
 158237788,2023-04-30,38.1823615032,-77.5178794284,5.0,Spotsylvania,Virginia,United States,tree-of-heaven
 158247657,2023-04-30,38.2990518399,-77.4710273463,35.0,Fredericksburg,Virginia,United States,tree-of-heaven
 158254582,2023-04-30,38.87953973,-77.10633471,8.0,Arlington,Virginia,United States,tree-of-heaven
 158279927,2023-04-30,39.0128173828,-77.3181762695,16.0,Fairfax,Virginia,United States,tree-of-heaven
 158301462,2023-04-30,38.9007604681,-77.1581933555,9.0,Arlington,Virginia,United States,tree-of-heaven
-158303016,2023-04-30,38.8999495609,-77.1580627654,9.0,Arlington,Virginia,United States,Götterbaum
+158303016,2023-04-30,38.8999495609,-77.1580627654,9.0,Arlington,Virginia,United States,tree-of-heaven
 158343346,2023-04-30,38.8706516667,-77.0964133333,1.0,Arlington,Virginia,United States,tree-of-heaven
 158366997,2023-04-30,38.0096959444,-78.7419092535,44.0,Albemarle,Virginia,United States,tree-of-heaven
 158421362,2023-04-29,38.7103783333,-77.4225783333,4.0,Prince William,Virginia,United States,tree-of-heaven
-158439118,2023-04-29,38.8775216667,-77.515245,1414.0,Loudoun,Virginia,United States,Götterbaum
-158487005,2023-04-30,38.7983673712,-77.2805800053,98.0,Fairfax,Virginia,United States,Götterbaum
+158439118,2023-04-29,38.8775216667,-77.515245,1414.0,Loudoun,Virginia,United States,tree-of-heaven
+158487005,2023-04-30,38.7983673712,-77.2805800053,98.0,Fairfax,Virginia,United States,tree-of-heaven
 158602238,2023-05-01,38.8494103725,-77.1117965942,32.0,Arlington,Virginia,United States,tree-of-heaven
 158646028,2023-05-01,38.9171087,-77.1397115,202.0,Arlington,Virginia,United States,tree-of-heaven
 158683778,2023-05-01,38.7906465215,-77.1320606497,6.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -1663,14 +1611,13 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 158817844,2023-05-01,38.3174446319,-77.4865099043,3.0,Fredericksburg,Virginia,United States,tree-of-heaven
 158846180,2023-05-01,38.8568407986,-77.1317609127,74.0,Fairfax,Virginia,United States,tree-of-heaven
 158854570,2023-04-29,38.8796417034,-77.1387506636,61.0,Arlington,Virginia,United States,tree-of-heaven
-158943935,2023-05-01,38.4123024,-78.8604478,11.0,Rockingham,Virginia,United States,
 158962201,2023-05-01,38.975425,-77.3999116667,4.0,Fairfax,Virginia,United States,tree-of-heaven
-159321047,2023-05-02,38.2727196347,-77.5374102686,4.0,Spotsylvania,Virginia,United States,Ailanthus altissima
+159321047,2023-05-02,38.2727196347,-77.5374102686,4.0,Spotsylvania,Virginia,United States,tree-of-heaven
 159784983,2023-05-01,38.8694135969,-77.1317414111,35.0,Arlington,Virginia,United States,tree-of-heaven
 159857911,2023-05-02,37.526325,-77.5607616667,4.0,Chesterfield,Virginia,United States,tree-of-heaven
 159871306,2023-04-29,38.8736283333,-77.4969333333,4.0,Fairfax,Virginia,United States,tree-of-heaven
 159888242,2023-05-05,38.8370418945,-77.389788437,14.0,Fairfax,Virginia,United States,tree-of-heaven
-159976893,2023-05-05,37.7484783333,-76.5531533333,4.0,Lancaster,Virginia,United States,Tree-of-Heaven
+159976893,2023-05-05,37.7484783333,-76.5531533333,4.0,Lancaster,Virginia,United States,tree-of-heaven
 160197558,2023-05-06,38.8630366667,-77.1175916667,44.0,Arlington,Virginia,United States,tree-of-heaven
 160306682,2023-05-06,39.0637861667,-77.9208616667,4.0,Clarke,Virginia,United States,tree-of-heaven
 160375185,2023-05-07,38.4081099052,-78.6118688069,372.0,Rockingham,Virginia,United States,tree-of-heaven
@@ -1688,7 +1635,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 161229330,2023-05-12,39.2130316667,-77.54396,7.0,Loudoun,Virginia,United States,tree-of-heaven
 161330842,2023-05-12,37.6457204743,-77.3138952807,464.0,Hanover,Virginia,United States,tree-of-heaven
 161508247,2023-05-13,39.066426448,-77.6004693565,4.0,Loudoun,Virginia,United States,tree-of-heaven
-161592212,2023-05-14,37.1951803391,-78.4728933094,8.0,Prince Edward,Virginia,United States,Götterbaum
+161592212,2023-05-14,37.1951803391,-78.4728933094,8.0,Prince Edward,Virginia,United States,tree-of-heaven
 161673777,2023-05-14,37.1433511509,-80.4039340347,9.0,Montgomery,Virginia,United States,tree-of-heaven
 161894233,2023-05-15,39.1001445,-77.550155,48.0,Loudoun,Virginia,United States,tree-of-heaven
 161962428,2023-05-16,37.2841459388,-80.1111501931,4.0,Salem,Virginia,United States,tree-of-heaven
@@ -1702,26 +1649,23 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 162911488,2023-05-21,37.6589616667,-77.64142,3.0,Henrico,Virginia,United States,tree-of-heaven
 162936978,2023-05-20,38.86608,-77.0461805,4.0,Arlington,Virginia,United States,tree-of-heaven
 162951663,2023-05-21,39.0712711928,-77.8290702996,53.0,Loudoun,Virginia,United States,tree-of-heaven
-162987327,2023-05-21,37.2154372943,-80.3907658797,11.0,Montgomery,Virginia,United States,
 163168158,2023-05-22,37.2912948719,-76.6710570921,10.0,York,Virginia,United States,tree-of-heaven
 163204741,2023-05-22,37.511263094,-78.6460629642,799.0,Buckingham,Virginia,United States,tree-of-heaven
 163205931,2023-05-22,37.7676177258,-77.1251687408,4.0,King William,Virginia,United States,tree-of-heaven
 163317751,2023-05-11,38.0147804767,-77.9217262752,21.0,Louisa,Virginia,United States,tree-of-heaven
-163346709,2023-05-23,38.051361084,-78.4769744873,45.0,Charlottesville City,Virginia,United States,
 163372396,2023-05-23,38.9013466667,-77.25505,52.0,Fairfax,Virginia,United States,tree-of-heaven
 163660243,2023-05-24,39.1497675603,-77.6385411993,7.0,Loudoun,Virginia,United States,tree-of-heaven
 163795228,2023-05-26,38.8086589867,-77.2851603741,46.0,Fairfax,Virginia,United States,tree-of-heaven
 163873480,2023-05-26,38.0310225115,-78.5380898976,5.0,Albemarle,Virginia,United States,tree-of-heaven
 163910746,2023-05-22,38.9106293,-77.1134589,699.0,Arlington,Virginia,United States,tree-of-heaven
 163926126,2023-05-24,38.8066833333,-77.114175,5.0,Alexandria,Virginia,United States,tree-of-heaven
-163986390,2023-05-27,39.0135781783,-78.3625045301,25.0,Shenandoah,Virginia,United States,
 164039818,2023-05-27,39.032882683,-77.4964538441,32.0,Loudoun,Virginia,United States,tree-of-heaven
 164105614,2023-05-27,39.2189533333,-78.1944283333,13.0,Frederick,Virginia,United States,tree-of-heaven
 164288706,2023-05-28,38.82810266,-77.05278119,6.0,Alexandria,Virginia,United States,tree-of-heaven
 164457001,2023-05-29,37.6644283333,-76.4336,4.0,Lancaster,Virginia,United States,tree-of-heaven
 164464666,2023-05-29,38.99556793,-78.36060984,4.0,Shenandoah,Virginia,United States,tree-of-heaven
-164491253,2023-05-29,39.011275,-78.3625027778,30.0,Shenandoah,Virginia,United States,Ailanthus altissima
-164491263,2023-05-29,39.0059583333,-78.3389194444,39.0,Shenandoah,Virginia,United States,Ailanthus altissima
+164491253,2023-05-29,39.011275,-78.3625027778,30.0,Shenandoah,Virginia,United States,tree-of-heaven
+164491263,2023-05-29,39.0059583333,-78.3389194444,39.0,Shenandoah,Virginia,United States,tree-of-heaven
 164584297,2023-05-28,38.7836,-77.0700305,4.0,Fairfax,Virginia,United States,tree-of-heaven
 164611476,2023-05-30,37.6054093754,-76.4989928809,5.0,Middlesex,Virginia,United States,tree-of-heaven
 164631643,2023-05-27,38.777345,-77.062775,45.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -1745,13 +1689,11 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 165079039,2023-06-01,38.7742883333,-77.0687416667,8.0,Fairfax,Virginia,United States,tree-of-heaven
 165150488,2023-06-02,38.166595459,-79.0497589111,360.0,Staunton,Virginia,United States,tree-of-heaven
 165171087,2023-06-02,38.9343168223,-77.58838655,24.0,Loudoun,Virginia,United States,tree-of-heaven
-165222895,2023-06-02,38.2845833333,-78.0352166667,4.0,Orange,Virginia,United States,
 165325756,2023-06-03,38.7442002213,-77.1869222448,51.0,Fairfax,Virginia,United States,tree-of-heaven
 165372903,2023-06-03,38.809425,-77.0873805,4.0,Alexandria,Virginia,United States,tree-of-heaven
 165372986,2023-06-03,38.809425,-77.0874028333,4.0,Alexandria,Virginia,United States,tree-of-heaven
 165373457,2023-06-03,38.8093633333,-77.0873195,4.0,Alexandria,Virginia,United States,tree-of-heaven
 165574568,2023-06-04,39.0905151367,-77.5388793945,68.0,Loudoun,Virginia,United States,tree-of-heaven
-165587079,2023-06-04,37.2348509553,-80.2360562119,4.0,Montgomery,Virginia,United States,
 165608431,2023-06-04,37.81452784,-78.90572514,8.0,Nelson,Virginia,United States,tree-of-heaven
 165627967,2023-06-04,38.9249468446,-77.1726826692,32.0,Fairfax,Virginia,United States,tree-of-heaven
 165634903,2023-06-04,38.6629701523,-77.1910804465,11.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -1885,8 +1827,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 172657331,2023-07-13,38.3132629395,-77.5123291016,5.0,Fredericksburg,Virginia,United States,tree-of-heaven
 172687196,2023-07-13,38.8685650727,-77.5033123585,4.0,Fairfax,Virginia,United States,tree-of-heaven
 172735663,2023-07-13,38.8706975997,-77.0973603689,16.0,Arlington,Virginia,United States,tree-of-heaven
-172792818,2022-06-28,38.7836133333,-77.0716555,4.0,Fairfax,Virginia,United States,
-172792972,2022-06-28,38.7836283333,-77.0716471667,4.0,Fairfax,Virginia,United States,
 172888657,2023-07-14,38.8688881343,-77.5037480629,4.0,Fairfax,Virginia,United States,tree-of-heaven
 173016389,2023-07-15,38.0620499282,-78.4788852465,10.0,Charlottesville City,Virginia,United States,tree-of-heaven
 173111475,2023-07-15,37.550645,-77.4761116667,5.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -1936,7 +1876,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 176278347,2023-08-02,38.881915,-77.11839,2.0,Arlington,Virginia,United States,tree-of-heaven
 176339547,2023-07-31,37.0005092961,-79.5776785187,522.0,Pittsylvania,Virginia,United States,tree-of-heaven
 176340273,2023-08-02,37.8208716667,-76.5381466667,4.0,Lancaster,Virginia,United States,tree-of-heaven
-176342649,2023-08-02,38.9450560017,-77.3507387058,1414.0,Fairfax,Virginia,United States,
 176633172,2023-08-04,39.0615756045,-77.373026794,4.0,Loudoun,Virginia,United States,tree-of-heaven
 176640908,2023-08-04,39.1514732291,-77.8115878131,6.0,Loudoun,Virginia,United States,tree-of-heaven
 176888098,2023-08-05,38.8633783333,-77.1184221667,4.0,Arlington,Virginia,United States,tree-of-heaven
@@ -1997,7 +1936,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 181082669,2023-08-31,38.969784769,-77.0710293029,182.0,Arlington,Virginia,United States,tree-of-heaven
 181122326,2023-08-30,37.9903366667,-76.8135383333,35.0,Richmond,Virginia,United States,tree-of-heaven
 181305634,2023-09-01,38.6943938309,-78.3213514835,21.0,Page,Virginia,United States,tree-of-heaven
-181388095,2023-09-02,37.53405,-77.4357216667,19.0,Richmond city,Virginia,United States,Ailanthus altissima
+181388095,2023-09-02,37.53405,-77.4357216667,19.0,Richmond city,Virginia,United States,tree-of-heaven
 181418017,2023-09-02,38.7866283333,-77.71553,10.0,Fauquier,Virginia,United States,tree-of-heaven
 181422275,2023-09-02,38.9769333333,-77.34973,4.0,Fairfax,Virginia,United States,tree-of-heaven
 181462065,2023-09-02,38.7875680688,-77.2015582212,32.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -2006,7 +1945,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 181561714,2023-09-01,37.3103666667,-78.3211216667,2459.0,Cumberland,Virginia,United States,tree-of-heaven
 181759754,2023-09-04,38.775245,-77.1536866667,4.0,Fairfax,Virginia,United States,tree-of-heaven
 181836322,2023-09-04,38.7130783333,-77.0557638333,4.0,Fairfax,Virginia,United States,tree-of-heaven
-181933239,2023-09-05,38.1443424058,-79.0931619891,6.0,Staunton,Virginia,United States,
 181970545,2023-09-05,38.4506827296,-78.8705422936,11.0,Harrisonburg,Virginia,United States,tree-of-heaven
 181975540,2023-09-05,37.3927437835,-79.9011695389,7.0,Botetourt,Virginia,United States,tree-of-heaven
 182102065,2023-09-06,37.5665166667,-77.473975,11.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -2014,14 +1952,13 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 182258927,2023-08-09,38.8528309051,-78.3072691946,15.0,Warren,Virginia,United States,tree-of-heaven
 182333662,2023-09-08,37.398905,-79.1840583333,15.0,Lynchburg,Virginia,United States,tree-of-heaven
 182336218,2023-09-08,37.399445,-77.4559633333,3.0,Chesterfield,Virginia,United States,tree-of-heaven
-182576213,2023-09-09,37.5569616667,-77.4747466667,13.0,Richmond city,Virginia,United States,
 182690893,2023-09-10,37.2534938628,-79.9470323058,4.0,Roanoke city,Virginia,United States,tree-of-heaven
 182709478,2023-09-09,38.5268554688,-78.4412231445,35.0,Madison,Virginia,United States,tree-of-heaven
 182725866,2023-09-10,37.57115588,-77.47511228,10.0,Richmond city,Virginia,United States,tree-of-heaven
 182874586,2023-09-11,38.77367,-77.4139716667,4.0,Fairfax,Virginia,United States,tree-of-heaven
 182956833,2023-09-12,38.475693,-77.9479865,1700.0,Culpeper,Virginia,United States,tree-of-heaven
 183079809,2023-09-13,37.2378415317,-77.4157871313,8.0,Chesterfield,Virginia,United States,tree-of-heaven
-183276114,2023-09-13,37.4468533333,-77.5790333333,9.0,Chesterfield,Virginia,United States,Ailanthus altissima
+183276114,2023-09-13,37.4468533333,-77.5790333333,9.0,Chesterfield,Virginia,United States,tree-of-heaven
 183587832,2023-09-16,38.2895166667,-77.4535616667,5.0,Fredericksburg,Virginia,United States,tree-of-heaven
 183708302,2023-09-17,38.6873105925,-77.292299125,12.0,Prince William,Virginia,United States,tree-of-heaven
 183836447,2023-09-16,39.0071027833,-77.746405,14.0,Loudoun,Virginia,United States,tree-of-heaven
@@ -2029,16 +1966,12 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 183983644,2023-09-19,39.1515024133,-77.8115410405,8.0,Loudoun,Virginia,United States,tree-of-heaven
 183985093,2023-09-17,38.7832216667,-77.0710916667,35.0,Fairfax,Virginia,United States,tree-of-heaven
 184028591,2023-09-19,38.7835466667,-77.070725,5.0,Fairfax,Virginia,United States,tree-of-heaven
-184036291,2023-09-19,38.5693414849,-77.2862947116,89.0,Prince William,Virginia,United States,
-184174603,2023-09-16,37.60258,-77.50203,4.0,Henrico,Virginia,United States,Ailanthus altissima
+184174603,2023-09-16,37.60258,-77.50203,4.0,Henrico,Virginia,United States,tree-of-heaven
 184266915,2023-09-21,38.443517586,-78.9105064963,4.0,Harrisonburg,Virginia,United States,tree-of-heaven
 184267533,2023-09-21,38.44355172,-78.910477,5.0,Harrisonburg,Virginia,United States,tree-of-heaven
-184267611,2023-09-21,38.4436131184,-78.9105600145,5.0,Harrisonburg,Virginia,United States,Árbol del cielo
-184277456,2023-09-21,38.4428451108,-78.9110974499,4.0,Harrisonburg,Virginia,United States,
-184277881,2023-09-21,38.4430787258,-78.911260864,4.0,Harrisonburg,Virginia,United States,
+184267611,2023-09-21,38.4436131184,-78.9105600145,5.0,Harrisonburg,Virginia,United States,árbol del cielo
 184291523,2023-09-21,38.4435425964,-78.910526812,4.0,Harrisonburg,Virginia,United States,tree-of-heaven
 184291902,2023-09-21,38.4436020028,-78.9105162176,4.0,Harrisonburg,Virginia,United States,tree-of-heaven
-184292757,2023-09-21,38.4432942575,-78.9110414242,4.0,Harrisonburg,Virginia,United States,
 184417455,2023-09-22,39.0162293574,-77.4988384865,4.0,Loudoun,Virginia,United States,tree-of-heaven
 184766107,2023-09-24,38.7373516161,-77.7563124116,4.0,Fauquier,Virginia,United States,tree-of-heaven
 184924456,2023-09-25,38.5748901367,-77.759803772,6.0,Fauquier,Virginia,United States,tree-of-heaven
@@ -2048,7 +1981,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 185167567,2023-09-27,38.30727005,-77.4697952271,26.0,Fredericksburg,Virginia,United States,tree-of-heaven
 185231622,2023-09-27,38.3496091794,-77.5350864697,10.0,Stafford,Virginia,United States,tree-of-heaven
 185317098,2023-09-25,36.930934906,-76.2527999878,800.0,Norfolk,Virginia,United States,tree-of-heaven
-185325467,2023-09-24,37.552325,-77.4587783333,4.0,Richmond city,Virginia,United States,Ailanthus altissima
+185325467,2023-09-24,37.552325,-77.4587783333,4.0,Richmond city,Virginia,United States,tree-of-heaven
 185379032,2023-09-28,38.165975,-77.0509195,4.0,Westmoreland,Virginia,United States,tree-of-heaven
 185408265,2023-09-29,38.5298461914,-77.4487457275,4.0,Stafford,Virginia,United States,tree-of-heaven
 185430726,2023-09-29,38.4419532073,-78.8603177612,35.0,Harrisonburg,Virginia,United States,tree-of-heaven
@@ -2056,26 +1989,22 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 185433368,2023-09-29,38.441841236,-78.8604806745,50.0,Harrisonburg,Virginia,United States,tree-of-heaven
 185485140,2023-09-29,37.4452982514,-77.5486935675,9.0,Chesterfield,Virginia,United States,tree-of-heaven
 185629795,2023-09-29,37.53678,-77.4856416667,23.0,Richmond city,Virginia,United States,tree-of-heaven
-185638113,2023-09-26,38.61507,-77.3090216667,206.0,Prince William,Virginia,United States,
 186046729,2023-10-03,38.13439,-76.6588916667,9.0,Westmoreland,Virginia,United States,tree-of-heaven
 186051294,2023-10-01,39.2134040326,-77.5442855636,698.0,Loudoun,Virginia,United States,tree-of-heaven
 186182875,2023-10-04,37.5278789085,-77.4547702354,5.0,Richmond city,Virginia,United States,tree-of-heaven
 186480911,2023-10-05,38.8831116667,-77.1186,4.0,Arlington,Virginia,United States,tree-of-heaven
 186546497,2023-10-06,39.0699221667,-77.4693083333,4.0,Loudoun,Virginia,United States,tree-of-heaven
-186635786,2023-10-07,38.4112990422,-78.817919035,10.0,Harrisonburg,Virginia,United States,
 186798405,2023-10-07,38.866895,-77.1199945,13.0,Arlington,Virginia,United States,tree-of-heaven
 186841999,2023-10-08,38.7386508379,-78.3067915409,48.0,Page,Virginia,United States,tree-of-heaven
 186843304,2023-10-08,38.7150803016,-78.2762461543,132.0,Rappahannock,Virginia,United States,tree-of-heaven
 186953302,2023-10-08,37.5281716667,-77.455055,4.0,Richmond city,Virginia,United States,tree-of-heaven
 186995848,2023-10-10,38.8521818282,-77.4485069667,4.0,Fairfax,Virginia,United States,tree-of-heaven
 187114528,2023-10-11,38.8648003433,-77.4169851188,8.0,Fairfax,Virginia,United States,tree-of-heaven
-187164966,2023-10-11,38.7369083333,-78.3097533333,11.0,Rappahannock,Virginia,United States,
 187300324,2023-09-30,37.6040383333,-77.5044333333,4.0,Henrico,Virginia,United States,tree-of-heaven
 187631965,2023-10-15,38.3199226185,-78.4202637194,14.0,Greene,Virginia,United States,tree-of-heaven
 187642012,2023-10-15,38.9119978294,-77.2760537751,4.0,Fairfax,Virginia,United States,tree-of-heaven
 187702703,2023-10-15,37.54003011,-77.44182707,6.0,Richmond city,Virginia,United States,tree-of-heaven
 187743445,2023-10-13,37.8190133333,-76.535845,4.0,Lancaster,Virginia,United States,tree-of-heaven
-187803373,2023-10-16,38.7324721786,-77.2718244699,9.0,Fairfax,Virginia,United States,
 188043469,2023-10-18,38.6879967968,-77.2549883615,4.0,Fairfax,Virginia,United States,tree-of-heaven
 188047680,2023-10-18,38.8689317,-77.093062,16.0,Arlington,Virginia,United States,tree-of-heaven
 188053107,2023-10-08,37.589845,-77.5349666667,4.0,Henrico,Virginia,United States,tree-of-heaven
@@ -2094,33 +2023,25 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 189403157,2023-10-29,38.6322533333,-77.5398783333,4.0,Prince William,Virginia,United States,tree-of-heaven
 190062882,2023-11-03,37.847995,-77.56977,3.0,Hanover,Virginia,United States,tree-of-heaven
 190068691,2023-11-03,37.8500966667,-77.5669416667,23.0,Hanover,Virginia,United States,tree-of-heaven
-190425142,2023-10-27,38.6636305556,-78.4839305556,4.0,Page,Virginia,United States,Айлант высочайший
-190425208,2023-10-27,38.6525944444,-78.3117222222,4.0,Rappahannock,Virginia,United States,Айлант высочайший
-190473334,2023-10-28,38.312225,-78.9358527778,4.0,Augusta,Virginia,United States,Айлант высочайший
-190474053,2023-10-28,37.9112944444,-78.8327111111,4.0,Nelson,Virginia,United States,Айлант высочайший
-190475013,2023-10-29,37.3550222222,-78.826325,3.0,Appomattox,Virginia,United States,Айлант высочайший
+190425142,2023-10-27,38.6636305556,-78.4839305556,4.0,Page,Virginia,United States,айлант высочайший
+190425208,2023-10-27,38.6525944444,-78.3117222222,4.0,Rappahannock,Virginia,United States,айлант высочайший
+190473334,2023-10-28,38.312225,-78.9358527778,4.0,Augusta,Virginia,United States,айлант высочайший
+190474053,2023-10-28,37.9112944444,-78.8327111111,4.0,Nelson,Virginia,United States,айлант высочайший
+190475013,2023-10-29,37.3550222222,-78.826325,3.0,Appomattox,Virginia,United States,айлант высочайший
 190487695,2023-11-09,38.8702009176,-77.7467960335,20.0,Fauquier,Virginia,United States,tree-of-heaven
 190489862,2023-11-09,38.8698015516,-77.7458361033,4.0,Fauquier,Virginia,United States,tree-of-heaven
 190489905,2023-11-09,38.8726588846,-77.7488316306,6.0,Fauquier,Virginia,United States,tree-of-heaven
-190625204,2023-11-09,38.8726945978,-77.7484504638,8.0,Fauquier,Virginia,United States,
 190625312,2023-11-09,38.8727960853,-77.7475818873,3.0,Fauquier,Virginia,United States,tree-of-heaven
 190625399,2023-11-09,38.8726794255,-77.7485999162,2.0,Fauquier,Virginia,United States,tree-of-heaven
-190635003,2023-10-28,38.0052083333,-78.8262866667,3.0,Nelson,Virginia,United States,Айлант высочайший
+190635003,2023-10-28,38.0052083333,-78.8262866667,3.0,Nelson,Virginia,United States,айлант высочайший
 190898780,2023-11-05,37.513195,-77.4073633333,4.0,Richmond city,Virginia,United States,tree-of-heaven
-190902578,2023-11-13,38.8800019021,-77.7238569678,4.0,Fauquier,Virginia,United States,
-190904489,2023-11-13,38.8795451021,-77.7239758569,13.0,Fauquier,Virginia,United States,
-190919748,2023-11-13,38.880444223,-77.7202959616,9.0,Fauquier,Virginia,United States,
-190933082,2023-11-13,38.8785708455,-77.7205034445,5.0,Fauquier,Virginia,United States,
-190989294,2023-11-13,38.8810969287,-77.7223109557,4.0,Fauquier,Virginia,United States,
-190989320,2023-11-13,38.8808336557,-77.7215724422,4.0,Fauquier,Virginia,United States,
 191422596,2023-11-05,37.5131916667,-77.4071666667,6.0,Richmond city,Virginia,United States,tree-of-heaven
-191423720,2023-11-05,37.5121716667,-77.4093333333,3.0,Henrico,Virginia,United States,
 191424144,2023-11-05,37.5112833333,-77.406325,3.0,Richmond city,Virginia,United States,tree-of-heaven
 191424154,2023-11-05,37.5111883333,-77.4061883333,4.0,Richmond city,Virginia,United States,tree-of-heaven
 191878873,2023-11-23,39.29878438,-77.66030655,15.0,Loudoun,Virginia,United States,tree-of-heaven
 192290658,2023-11-26,37.5931283333,-77.4578783333,81.0,Richmond city,Virginia,United States,tree-of-heaven
 192355996,2022-06-10,38.28483561,-77.47633851,9.0,Fredericksburg,Virginia,United States,tree-of-heaven
-192815751,2023-11-26,38.82676617,-78.16569728,9.0,Rappahannock,Virginia,United States,tree of heaven
+192815751,2023-11-26,38.82676617,-78.16569728,9.0,Rappahannock,Virginia,United States,tree-of-heaven
 193345282,2023-12-04,38.9125783333,-77.220055,4.0,Fairfax,Virginia,United States,tree-of-heaven
 193882416,2023-12-13,38.83668367,-77.16505053,8.0,Fairfax,Virginia,United States,tree-of-heaven
 194031904,2023-12-15,38.8705582258,-77.0441677185,10.0,Arlington,Virginia,United States,tree-of-heaven
@@ -2128,27 +2049,18 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 195626547,2023-06-27,37.6668894,-77.8882716,190.0,Goochland,Virginia,United States,tree-of-heaven
 195768084,2023-11-26,38.83182162,-78.17524932,8.0,Warren,Virginia,United States,tree-of-heaven
 195924817,2023-12-30,38.83479427,-78.1847518,9.0,Warren,Virginia,United States,tree-of-heaven
-198750928,2024-02-08,38.9703416667,-77.8677533333,4.0,Fauquier,Virginia,United States,
-198837595,2024-02-08,36.9185698248,-77.5640739579,9.0,Dinwiddie,Virginia,United States,
-198843511,2024-02-09,38.6595531208,-78.3217562789,4.0,Page,Virginia,United States,
 199158740,2023-09-09,38.0227133456,-78.5139246738,4.0,Charlottesville City,Virginia,United States,tree-of-heaven
-199608286,2024-02-17,37.8979117116,-78.255160582,4.0,Fluvanna,Virginia,United States,
 200401528,2024-02-23,38.7143216667,-77.1423028333,13.0,Fairfax,Virginia,United States,tree-of-heaven
-201438927,2024-03-02,38.9994084277,-77.370534204,8.0,Fairfax,Virginia,United States,
-202445247,2024-03-14,38.8669383333,-77.1199111667,5.0,Arlington,Virginia,United States,
 203041136,2024-03-14,38.7453425066,-77.4072155373,174.0,Manassas,Virginia,United States,tree-of-heaven
-203381339,2024-03-20,39.1514743498,-77.8116575125,8.0,Loudoun,Virginia,United States,
 203382332,2024-03-21,37.53435258,-77.44839053,6.0,Richmond city,Virginia,United States,tree-of-heaven
 203936625,2024-03-25,37.5347263785,-77.4538045564,3.0,Richmond city,Virginia,United States,tree-of-heaven
-204193452,2024-03-24,37.4189855494,-77.424821581,51.0,Chesterfield,Virginia,United States,Ailanthus altissima
-204193455,2024-03-24,37.4189770284,-77.4247893945,56.0,Chesterfield,Virginia,United States,Ailanthus altissima
+204193452,2024-03-24,37.4189855494,-77.424821581,51.0,Chesterfield,Virginia,United States,tree-of-heaven
+204193455,2024-03-24,37.4189770284,-77.4247893945,56.0,Chesterfield,Virginia,United States,tree-of-heaven
 204193458,2024-03-24,37.4190366753,-77.4247035639,49.0,Chesterfield,Virginia,United States,tree-of-heaven
 204748833,2023-07-30,37.5511476584,-77.4460988213,9.0,Richmond city,Virginia,United States,tree-of-heaven
 204855284,2024-03-30,37.0820105,-76.2771066,195.0,Hampton,Virginia,United States,tree-of-heaven
 205145326,2024-04-02,37.5128411584,-77.5312933349,38.0,Chesterfield,Virginia,United States,tree-of-heaven
-205601850,2024-04-05,36.7659709,-78.9283441,2675.0,Halifax,Virginia,United States,Tree-of-Heaven
-205712814,2024-03-31,37.0267,-76.3761833333,11.0,Hampton,Virginia,United States,
-205889281,2024-04-07,37.5372042083,-77.9251996304,4.0,Powhatan,Virginia,United States,
+205601850,2024-04-05,36.7659709,-78.9283441,2675.0,Halifax,Virginia,United States,tree-of-heaven
 206339182,2024-04-09,37.7312783333,-76.3914466667,3.0,Lancaster,Virginia,United States,tree-of-heaven
 206880928,2024-04-12,37.5504283333,-77.479875,40.0,Richmond city,Virginia,United States,tree-of-heaven
 206880951,2024-04-12,37.550205,-77.4802633333,12.0,Richmond city,Virginia,United States,tree-of-heaven
@@ -2162,12 +2074,9 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 207376664,2024-04-14,37.52914645,-77.45271645,271.0,Richmond city,Virginia,United States,tree-of-heaven
 207376836,2024-04-14,37.52914645,-77.45271645,271.0,Richmond city,Virginia,United States,tree-of-heaven
 207761089,2024-04-17,37.5840247097,-77.7532990929,9.0,Powhatan,Virginia,United States,tree-of-heaven
-207788615,2024-04-17,37.0196695,-76.3410866667,4.0,Hampton,Virginia,United States,
 207795408,2024-04-16,37.7182616667,-76.80178,4.0,King and Queen,Virginia,United States,tree-of-heaven
 207847574,2024-04-16,37.4522383333,-77.5828783333,31.0,Chesterfield,Virginia,United States,tree-of-heaven
-207993121,2024-04-18,38.9108465254,-77.2647863556,5.0,Fairfax,Virginia,United States,
 208083632,2023-09-17,37.019427093,-76.353517659,9.0,Hampton,Virginia,United States,tree-of-heaven
-208267782,2024-04-20,38.319088826,-77.487669373,15.0,Fredericksburg,Virginia,United States,
 208340878,2024-04-20,39.1132313154,-77.5689281433,14.0,Loudoun,Virginia,United States,tree-of-heaven
 208558482,2024-04-20,37.7865366667,-76.94023,4.0,Essex,Virginia,United States,tree-of-heaven
 208561022,2024-04-21,38.02935818,-78.48560617,4.0,Charlottesville City,Virginia,United States,tree-of-heaven
@@ -2184,7 +2093,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 208747563,2024-04-22,37.3035583087,-76.5498564486,312.0,Gloucester,Virginia,United States,tree-of-heaven
 208747799,2024-04-22,37.3034256231,-76.5497660917,4.0,Gloucester,Virginia,United States,tree-of-heaven
 208980620,2024-04-23,37.2959251404,-80.0881118774,100.0,Salem,Virginia,United States,tree-of-heaven
-209070139,2024-04-24,38.8554916667,-77.6326133333,4.0,Prince William,Virginia,United States,
 209114335,2024-04-24,37.3512898487,-77.5703725219,4.0,Chesterfield,Virginia,United States,tree-of-heaven
 209124854,2024-04-24,37.1454506919,-76.7339537238,4.0,Surry,Virginia,United States,tree-of-heaven
 209158236,2024-04-24,38.8416442871,-77.0538024902,101.0,Arlington,Virginia,United States,tree-of-heaven
@@ -2197,7 +2105,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 209740616,2024-04-26,38.80457105,-77.1059229701,9.0,Alexandria,Virginia,United States,tree-of-heaven
 209764802,2024-04-26,38.6456916667,-78.307525,4.0,Rappahannock,Virginia,United States,tree-of-heaven
 209771534,2024-04-26,36.9255969889,-80.0267976942,4.0,"Franklin County, US, VA",Virginia,United States,tree-of-heaven
-209795535,2024-04-26,36.7555926772,-76.2651771887,6.0,Chesapeake,Virginia,United States,
 209820779,2024-04-26,39.0615221667,-77.3729633333,4.0,Loudoun,Virginia,United States,tree-of-heaven
 209820998,2024-04-26,38.8428796869,-77.0898614842,12.0,Arlington,Virginia,United States,tree-of-heaven
 209821089,2024-04-26,38.8431109935,-77.0898734637,36.0,Arlington,Virginia,United States,tree-of-heaven
@@ -2237,7 +2144,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 211143499,2024-04-28,38.954666357,-77.1366921812,127.0,Fairfax,Virginia,United States,tree-of-heaven
 211156405,2024-04-28,38.1132057662,-78.4338930676,4.0,Charlottesville City,Virginia,United States,tree-of-heaven
 211179209,2024-04-28,38.814239502,-77.0771026611,14.0,Alexandria,Virginia,United States,tree-of-heaven
-211249047,2024-04-28,38.87362,-77.496925,4.0,Fairfax,Virginia,United States,
 211265824,2024-04-28,36.8996283333,-82.318405,5.0,Wise,Virginia,United States,tree-of-heaven
 211563826,2024-04-29,39.2612758046,-77.5610915758,4.0,Loudoun,Virginia,United States,tree-of-heaven
 211592475,2024-04-29,38.7114309194,-78.1517378893,5.0,Rappahannock,Virginia,United States,tree-of-heaven
@@ -2250,11 +2156,9 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 212323686,2024-04-30,38.0380994361,-78.5052310769,5.0,Albemarle,Virginia,United States,tree-of-heaven
 212334086,2024-04-29,38.9862783333,-77.2466133333,4.0,Fairfax,Virginia,United States,tree-of-heaven
 212398390,2024-04-30,38.834195,-77.3207633333,4.0,Fairfax,Virginia,United States,tree-of-heaven
-212465785,2024-04-30,38.756645,-78.2677916667,4.0,Rappahannock,Virginia,United States,
 212470329,2024-04-29,38.3817067505,-77.3193085147,4.0,Stafford,Virginia,United States,tree-of-heaven
 212548701,2024-04-30,38.0306028333,-76.8817883333,4.0,Richmond,Virginia,United States,tree-of-heaven
 212594699,2024-05-01,37.450378418,-77.3394088745,4.0,Henrico,Virginia,United States,tree-of-heaven
-212643374,2024-04-28,38.8738133333,-77.4969633333,13.0,Fairfax,Virginia,United States,
 212870875,2024-05-02,37.5254616667,-77.4162883333,4.0,Richmond city,Virginia,United States,tree-of-heaven
 212943133,2024-05-02,38.8067703859,-77.7216165381,27.0,Fauquier,Virginia,United States,tree-of-heaven
 212996771,2024-05-02,37.10347433,-77.54440311,9.0,Dinwiddie,Virginia,United States,tree-of-heaven
@@ -2269,7 +2173,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 214213768,2024-05-07,37.2706413269,-76.718421936,297.0,Williamsburg,Virginia,United States,tree-of-heaven
 214361821,2024-05-08,38.8961822307,-77.1644646955,4.0,Arlington,Virginia,United States,tree-of-heaven
 214392939,2024-05-08,38.69089981,-77.36217107,9.0,Prince William,Virginia,United States,tree-of-heaven
-214400413,2024-05-08,38.0399884656,-78.4959789646,6.0,Charlottesville City,Virginia,United States,
 214455973,2024-05-08,38.7532300792,-77.0541771668,31.0,Fairfax,Virginia,United States,tree-of-heaven
 214588552,2024-05-09,37.30105333,-75.92216108,3.0,Northampton,Virginia,United States,tree-of-heaven
 214609541,2024-05-09,37.1417810746,-79.6827573346,14.0,"Franklin County, US, VA",Virginia,United States,tree-of-heaven
@@ -2284,8 +2187,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 215354330,2024-05-12,38.7550187235,-77.6763951048,61.0,Fauquier,Virginia,United States,tree-of-heaven
 215354481,2024-05-12,38.0619287258,-78.4787589312,52.0,Charlottesville City,Virginia,United States,tree-of-heaven
 215391683,2024-05-12,37.2676716667,-76.708145,5.0,Williamsburg,Virginia,United States,tree-of-heaven
-216115584,2024-05-16,38.75318,-77.0542611667,4.0,Fairfax,Virginia,United States,
-216115671,2024-05-16,38.7531151572,-77.054236462,4.0,Fairfax,Virginia,United States,
 216337217,2024-05-17,38.02593631,-78.48283019,10.0,Charlottesville City,Virginia,United States,tree-of-heaven
 216376537,2024-05-17,38.9144427022,-77.1426286795,8.0,Arlington,Virginia,United States,tree-of-heaven
 216382033,2024-05-17,37.0336380005,-76.4121322632,19.0,Hampton,Virginia,United States,tree-of-heaven
@@ -2296,13 +2197,12 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 217492015,2024-05-22,38.6032533723,-77.602321156,5.0,Fauquier,Virginia,United States,tree-of-heaven
 217581595,2024-05-22,38.8482247435,-77.1754453717,35.0,Arlington,Virginia,United States,tree-of-heaven
 217760847,2024-05-23,37.2944084555,-76.6409705021,10.0,York,Virginia,United States,tree-of-heaven
-217944219,2024-05-15,36.7946290181,-80.929402004,8.0,Carroll,Virginia,United States,Ailanthus altissima
+217944219,2024-05-15,36.7946290181,-80.929402004,8.0,Carroll,Virginia,United States,tree-of-heaven
 217974009,2024-05-24,39.0880694442,-77.5138010457,731.0,Loudoun,Virginia,United States,tree-of-heaven
 218112129,2024-05-25,39.1165018066,-77.8526649624,8.0,Clarke,Virginia,United States,tree-of-heaven
 218238807,2024-05-25,38.9677966667,-77.5455633333,46.0,Loudoun,Virginia,United States,tree-of-heaven
 218439809,2024-05-25,37.3252133333,-80.73472,4.0,Giles,Virginia,United States,tree-of-heaven
 218489192,2024-05-21,37.5448616667,-77.46267,4.0,Richmond city,Virginia,United States,tree-of-heaven
-218489258,2024-05-21,37.5448616667,-77.46267,4.0,Richmond city,Virginia,United States,
 218632531,2024-05-27,38.4868980351,-78.3344794799,57.0,Madison,Virginia,United States,tree-of-heaven
 218670783,2024-05-27,38.6940460205,-77.4363555908,69.0,Prince William,Virginia,United States,tree-of-heaven
 218704495,2024-05-27,38.96912,-77.5345783333,4.0,Loudoun,Virginia,United States,tree-of-heaven
@@ -2320,7 +2220,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 219753603,2024-05-31,37.2676656077,-79.9638681192,4.0,Roanoke city,Virginia,United States,tree-of-heaven
 219764354,2024-06-01,36.6846755846,-79.7040945199,4.0,Henry,Virginia,United States,tree-of-heaven
 219795045,2024-06-01,38.894991689,-77.092122697,4.0,Arlington,Virginia,United States,tree-of-heaven
-220072327,2024-06-02,37.9834742411,-78.4402154996,9.0,Albemarle,Virginia,United States,
 220073553,2024-06-01,38.4876184773,-78.2027972997,5.0,Madison,Virginia,United States,tree-of-heaven
 220136426,2024-06-02,36.9672456087,-78.9370968193,16.0,Halifax,Virginia,United States,tree-of-heaven
 220156696,2024-06-01,37.0223195,-76.3482966667,11.0,Hampton,Virginia,United States,tree-of-heaven
@@ -2360,14 +2259,14 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 222742340,2024-06-14,38.9027333333,-77.673665,9.0,Prince William,Virginia,United States,tree-of-heaven
 222855538,2024-06-15,38.875865,-77.1010383333,2.0,Arlington,Virginia,United States,tree-of-heaven
 222861207,2024-06-15,37.5335083333,-77.456345,4.0,Richmond city,Virginia,United States,tree-of-heaven
-222866523,2024-06-15,38.79264899,-77.13556178,23.0,Fairfax,Virginia,United States,Ailanthus altissima
-222867251,2024-06-15,38.79274695,-77.13558313,10.0,Fairfax,Virginia,United States,Ailanthus altissima
+222866523,2024-06-15,38.79264899,-77.13556178,23.0,Fairfax,Virginia,United States,tree-of-heaven
+222867251,2024-06-15,38.79274695,-77.13558313,10.0,Fairfax,Virginia,United States,tree-of-heaven
 222886413,2024-06-15,38.8649037341,-77.0613102057,5.0,Arlington,Virginia,United States,tree-of-heaven
 222943117,2024-06-15,37.49542453,-77.02350107,21.0,New Kent,Virginia,United States,tree-of-heaven
 223098485,2024-06-16,37.7663290074,-79.4534917101,14.0,Lexington,Virginia,United States,tree-of-heaven
 223121482,2024-06-16,38.0749359131,-78.5134735107,4.0,Albemarle,Virginia,United States,tree-of-heaven
 223195926,2024-06-08,38.766905,-78.0225721667,2459.0,Fauquier,Virginia,United States,tree-of-heaven
-223377116,2024-06-17,38.79889238,-77.3401411,5.0,Fairfax,Virginia,United States,Ailanthus altissima
+223377116,2024-06-17,38.79889238,-77.3401411,5.0,Fairfax,Virginia,United States,tree-of-heaven
 223419823,2024-06-17,38.4499206543,-78.9143218994,6.0,Rockingham,Virginia,United States,tree-of-heaven
 223437419,2024-06-17,36.7976029,-81.7829968,586.0,Washington,Virginia,United States,tree-of-heaven
 223776501,2024-06-19,38.8608932495,-77.430847168,35.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -2396,7 +2295,6 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 225007172,2024-06-24,38.8079666393,-77.2709882912,14.0,Fairfax,Virginia,United States,tree-of-heaven
 225139163,2024-06-25,37.4650927598,-77.0828021401,4.0,New Kent,Virginia,United States,tree-of-heaven
 225288569,2024-06-26,38.2977863278,-78.2477495779,4.0,Greene,Virginia,United States,tree-of-heaven
-225349071,2024-06-26,38.8404916667,-77.0596305,7.0,Alexandria,Virginia,United States,
 225407160,2024-06-26,38.8769833333,-77.1042683333,3.0,Arlington,Virginia,United States,tree-of-heaven
 225411773,2024-06-06,38.877207944,-77.2336533491,4.0,Fairfax,Virginia,United States,tree-of-heaven
 225527913,2024-06-27,37.1109774147,-80.6874814144,9.0,Pulaski,Virginia,United States,tree-of-heaven
@@ -2453,18 +2351,16 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 230749489,2024-07-21,38.02687918,-78.55583064,7.0,Albemarle,Virginia,United States,tree-of-heaven
 230774876,2024-07-20,37.5254673952,-77.5588301935,2.0,Chesterfield,Virginia,United States,tree-of-heaven
 230777571,2024-07-21,37.0795555,-76.2774366667,4.0,Hampton,Virginia,United States,tree-of-heaven
-231189250,2024-07-23,38.0386455276,-78.4723481439,9.0,Charlottesville City,Virginia,United States,
 231391325,2024-07-24,38.9143255726,-77.3964759429,3.0,Fairfax,Virginia,United States,tree-of-heaven
 231458701,2024-07-24,38.8401966667,-77.0545278333,7.0,Alexandria,Virginia,United States,tree-of-heaven
 231478810,2024-07-24,38.9363333333,-77.1868583333,4.0,Fairfax,Virginia,United States,tree-of-heaven
-231582797,2024-07-23,37.2186555556,-76.9350194444,5.0,Surry,Virginia,United States,Ailanthus altissima
+231582797,2024-07-23,37.2186555556,-76.9350194444,5.0,Surry,Virginia,United States,tree-of-heaven
 231608371,2024-07-25,37.29338,-76.6434033333,4.0,York,Virginia,United States,tree-of-heaven
 231624288,2024-07-25,38.506439209,-78.4444198608,4.0,Page,Virginia,United States,tree-of-heaven
 231696106,2024-07-23,37.2624775056,-80.605105964,16.0,Giles,Virginia,United States,tree-of-heaven
 231733392,2024-07-25,38.863875,-77.06485,4.0,Arlington,Virginia,United States,tree-of-heaven
 231895690,2024-07-26,37.5502132706,-77.5569112546,5.0,Richmond city,Virginia,United States,tree-of-heaven
-231934956,2024-07-26,38.8798357593,-77.1408078634,9.0,Arlington,Virginia,United States,
-231939255,2024-07-20,37.344988,-79.233478,6.0,Lynchburg,Virginia,United States,Tree-of-Heaven
+231939255,2024-07-20,37.344988,-79.233478,6.0,Lynchburg,Virginia,United States,tree-of-heaven
 232129125,2024-07-27,39.2997205,-77.6606804,52.0,Loudoun,Virginia,United States,tree-of-heaven
 232238709,2024-07-27,38.4185511904,-78.4359008917,4.0,Madison,Virginia,United States,tree-of-heaven
 232276906,2024-07-28,38.9180862547,-77.4026836979,4.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -2484,7 +2380,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 234044224,2024-08-05,37.304755,-78.3907416667,48.0,Prince Edward,Virginia,United States,tree-of-heaven
 234049072,2024-08-05,37.2667350769,-80.0003128052,3.0,Roanoke city,Virginia,United States,tree-of-heaven
 234131218,2024-07-08,38.9435916667,-77.2581866667,4.0,Fairfax,Virginia,United States,tree-of-heaven
-234169532,2024-08-05,38.3834391038,-78.8355634734,493.0,Rockingham,Virginia,United States,Götterbaum
+234169532,2024-08-05,38.3834391038,-78.8355634734,493.0,Rockingham,Virginia,United States,tree-of-heaven
 234237650,2024-08-06,37.2794416667,-80.0094222167,15.0,Roanoke city,Virginia,United States,tree-of-heaven
 234368622,2024-08-07,39.0503611667,-77.4720466667,7.0,Loudoun,Virginia,United States,tree-of-heaven
 234439620,2024-07-02,39.0604388333,-77.4668883333,15.0,Loudoun,Virginia,United States,tree-of-heaven
@@ -2496,9 +2392,7 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 235526372,2024-08-13,38.42874943,-78.77098716,8.0,Rockingham,Virginia,United States,tree-of-heaven
 235841519,2024-08-14,37.5337190902,-77.4415259063,13.0,Richmond city,Virginia,United States,tree-of-heaven
 235906881,2024-08-15,38.783180723,-77.4994430133,3.0,Prince William,Virginia,United States,tree-of-heaven
-236274883,2024-08-17,38.7181727775,-77.0885018539,6.0,Fairfax,Virginia,United States,
 236282166,2024-08-17,38.8006385928,-77.0476482902,4.0,Alexandria,Virginia,United States,tree-of-heaven
-236296076,2024-08-17,38.7928416667,-77.67337,8.0,Prince William,Virginia,United States,
 236619906,2024-08-18,37.267868866,-79.994559369,207.0,Roanoke city,Virginia,United States,tree-of-heaven
 236682931,2024-08-17,38.2202833333,-78.1639555,4.0,Orange,Virginia,United States,tree-of-heaven
 237149231,2024-08-21,38.8512349036,-77.1207824071,9.0,Fairfax,Virginia,United States,tree-of-heaven
@@ -2507,75 +2401,51 @@ id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_st
 237365801,2024-08-22,38.1289638333,-78.7019116667,4.0,Albemarle,Virginia,United States,tree-of-heaven
 237486953,2024-08-23,39.18373097,-78.16767683,5.0,Winchester,Virginia,United States,tree-of-heaven
 237510423,2024-08-23,39.0864784986,-77.6004441295,35.0,Loudoun,Virginia,United States,tree-of-heaven
-237911888,2024-08-25,38.7485900004,-77.4731642321,66.0,Manassas,Virginia,United States,
 238051770,2024-08-26,37.6281738281,-77.6381835938,10.0,Henrico,Virginia,United States,tree-of-heaven
-238101589,2024-08-26,38.8401059574,-77.4278302119,9.0,Fairfax,Virginia,United States,
 238114503,2023-09-01,38.3529714123,-79.1506820452,9.0,Augusta,Virginia,United States,tree-of-heaven
 238122095,2024-08-25,37.0482445,-80.7641966667,33.0,Pulaski,Virginia,United States,tree-of-heaven
 238174695,2024-08-24,38.7116083333,-78.1515971667,4.0,Rappahannock,Virginia,United States,tree-of-heaven
 238175821,2024-08-22,37.2270632499,-78.2667500898,9.0,Prince Edward,Virginia,United States,tree-of-heaven
 238410386,2024-08-28,38.8141255845,-77.6734326574,6.0,Prince William,Virginia,United States,tree-of-heaven
 238603616,2024-08-29,38.96669738,-77.87169955,5.0,Fauquier,Virginia,United States,tree-of-heaven
-238713397,2024-07-29,38.39565,-78.5940383333,26.0,Rockingham,Virginia,United States,
 238762253,2024-08-29,38.739795,-77.5683133333,4.0,Prince William,Virginia,United States,tree-of-heaven
-238796571,2024-08-30,37.2090144715,-80.4230529151,129.0,Montgomery,Virginia,United States,
 238848780,2024-08-30,38.8812866211,-77.1247177124,293.0,Arlington,Virginia,United States,tree-of-heaven
 239046920,2024-08-31,37.2667558731,-78.1320327893,5.0,Nottoway,Virginia,United States,tree-of-heaven
-239449519,2024-09-02,38.9354033318,-77.3322485754,45.0,Fairfax,Virginia,United States,
 239477721,2024-09-02,39.1348692709,-77.7705508402,7.0,Loudoun,Virginia,United States,tree-of-heaven
-239504067,2024-09-02,38.1509557274,-79.0725875181,4.0,Staunton,Virginia,United States,
 239508260,2024-09-02,38.69125872,-77.50622314,4.0,Prince William,Virginia,United States,tree-of-heaven
 239598205,2024-09-03,38.3381052099,-78.8273404296,33.0,Rockingham,Virginia,United States,tree-of-heaven
 239605825,2024-09-03,36.7885291816,-76.3326176615,3.0,Chesapeake,Virginia,United States,tree-of-heaven
 239659902,2024-09-03,37.1346380655,-80.5667589885,7.0,Radford,Virginia,United States,tree-of-heaven
-239662886,2024-09-03,37.134038996,-80.5662625204,20.0,Radford,Virginia,United States,
-239788878,2024-09-04,37.1192566927,-80.5858076689,1591.0,Radford,Virginia,United States,
 239815099,2024-09-04,37.6333466975,-77.4473113644,5.0,Henrico,Virginia,United States,tree-of-heaven
-239879782,2024-09-04,37.2330322266,-80.410484314,35.0,Montgomery,Virginia,United States,
 239970649,2024-09-05,39.18384357,-78.16769039,3.0,Winchester,Virginia,United States,tree-of-heaven
 240034071,2024-09-05,36.8583152583,-76.0928651132,10.0,Virginia Beach City,Virginia,United States,tree-of-heaven
-240195245,2024-09-06,37.3893845963,-80.0583313283,4.0,Roanoke,Virginia,United States,
 240332445,2024-09-07,37.5650173842,-77.7996276319,55.0,Powhatan,Virginia,United States,tree-of-heaven
 240345675,2024-09-07,37.2160949707,-80.4131240845,115.0,Montgomery,Virginia,United States,tree-of-heaven
-240348524,2024-09-07,37.2153320313,-80.4126052856,94.0,Montgomery,Virginia,United States,
 240375250,2024-09-07,38.9005432129,-77.1716461182,35.0,Fairfax,Virginia,United States,tree-of-heaven
-240466959,2024-09-07,37.1340966914,-80.5664498325,35.0,Radford,Virginia,United States,
 240500762,2024-09-08,38.133898076,-78.7855295464,4.0,Augusta,Virginia,United States,tree-of-heaven
 240641365,2024-09-03,37.1340966914,-80.5664498325,35.0,Radford,Virginia,United States,tree-of-heaven
-240833947,2024-09-09,37.2378509754,-80.4599999185,4.0,Montgomery,Virginia,United States,
-240861006,2024-09-07,37.7895236338,-79.5049830526,23.0,Rockbridge,Virginia,United States,
-240863950,2024-09-08,37.3755916667,-80.1510388333,12.0,Roanoke,Virginia,United States,
 240974799,2024-09-08,37.0331064138,-77.3926731572,12.0,Prince George,Virginia,United States,tree-of-heaven
-240975163,2024-09-10,37.8290204,-78.8003161,35.0,Nelson,Virginia,United States,
-241080540,2024-09-10,37.6129033333,-76.4934166667,4.0,Middlesex,Virginia,United States,
 241188747,2024-09-11,37.4591127607,-77.4387964031,8.0,Richmond city,Virginia,United States,tree-of-heaven
-241301736,2024-09-12,37.2280944464,-80.410184359,4.0,Montgomery,Virginia,United States,
 241355214,2024-09-12,38.8975524902,-77.0805358887,4.0,Arlington,Virginia,United States,tree-of-heaven
 241381457,2024-09-11,38.4986491488,-78.4314048663,72.0,Madison,Virginia,United States,tree-of-heaven
 241459531,2024-09-13,38.3096389771,-77.4670944214,32.0,Fredericksburg,Virginia,United States,tree-of-heaven
 241498280,2024-09-13,37.2358508496,-77.415464893,186.0,Colonial Heights,Virginia,United States,tree-of-heaven
 241727092,2024-09-14,38.9285716667,-78.3302383333,11.0,Shenandoah,Virginia,United States,tree-of-heaven
 241761500,2024-09-14,38.1394349874,-79.1522760589,114.0,Augusta,Virginia,United States,tree-of-heaven
-241762245,2024-09-07,37.3884444444,-80.1825777778,7.0,Craig,Virginia,United States,Tree-of-Heaven
-241762256,2024-09-07,37.3884166667,-80.1822666667,24.0,Craig,Virginia,United States,Tree-of-Heaven
+241762245,2024-09-07,37.3884444444,-80.1825777778,7.0,Craig,Virginia,United States,tree-of-heaven
+241762256,2024-09-07,37.3884166667,-80.1822666667,24.0,Craig,Virginia,United States,tree-of-heaven
 241885233,2024-09-15,37.40722794,-79.12947311,6.0,Amherst,Virginia,United States,tree-of-heaven
 241927681,2024-09-15,38.89297478,-77.07606558,12.0,Arlington,Virginia,United States,tree-of-heaven
 241943532,2024-09-15,37.53446488,-77.44296768,9.0,Richmond city,Virginia,United States,tree-of-heaven
 242120261,2024-09-16,38.0287436,-78.4767942,3.0,Charlottesville City,Virginia,United States,tree-of-heaven
-242138740,2024-09-16,38.4383951921,-78.8837882722,65.0,Harrisonburg,Virginia,United States,
 242163677,2024-09-13,37.2359966667,-77.4137633333,3.0,Colonial Heights,Virginia,United States,tree-of-heaven
 242383089,2021-06-22,37.673579588,-78.9147324798,191.0,Nelson,Virginia,United States,tree-of-heaven
 242520050,2024-09-18,38.02640189,-78.48281475,7.0,Charlottesville City,Virginia,United States,tree-of-heaven
-242890156,2024-09-20,38.5128305343,-77.3886062498,165.0,Stafford,Virginia,United States,
-243170426,2024-09-21,38.9402566664,-77.4129650743,4.0,Fairfax,Virginia,United States,
 243188901,2024-09-21,38.40185699,-78.83673435,5.0,Rockingham,Virginia,United States,tree-of-heaven
 243242278,2024-09-12,37.4983425138,-77.6414000988,107.0,Chesterfield,Virginia,United States,tree-of-heaven
-243337636,2024-09-22,38.8278749739,-77.6669961905,8.0,Prince William,Virginia,United States,
-243356627,2024-09-22,37.2992133333,-80.0493083333,16.0,Salem,Virginia,United States,
 243439604,2024-09-22,38.6626766667,-77.2544166667,5.0,Prince William,Virginia,United States,tree-of-heaven
 243454274,2024-09-22,38.66295,-77.254045,6.0,Prince William,Virginia,United States,tree-of-heaven
-243455582,2024-09-21,36.7603486,-81.8628484,3379.0,Washington,Virginia,United States,Tree-of-Heaven
-243458300,2024-09-22,38.04565332,-78.76493473,4.0,Albemarle,Virginia,United States,ailanthus altissima
-244524555,2024-09-28,38.7502966667,-77.47187,13.0,Manassas,Virginia,United States,
+243455582,2024-09-21,36.7603486,-81.8628484,3379.0,Washington,Virginia,United States,tree-of-heaven
+243458300,2024-09-22,38.04565332,-78.76493473,4.0,Albemarle,Virginia,United States,tree-of-heaven
 245078658,2024-09-30,38.7761896838,-77.1356102925,22.0,Fairfax,Virginia,United States,tree-of-heaven
 245258186,2024-10-02,39.1349308151,-77.7705553325,9.0,Loudoun,Virginia,United States,tree-of-heaven
