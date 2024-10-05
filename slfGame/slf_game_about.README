@@ -1,0 +1,12 @@
+*SPOTTED LANTERNFLY GAME*
+
+A edutainment game built to complement the spotted lantern fly map and data we have presented.
+
+This game is built in Python using Pygame. To install pygame on Windows, use the following command:
+
+```
+pip install pygame
+```
+
+To run the game, in your terminal execute this command: `python pygame/slf_game.py`.
+
