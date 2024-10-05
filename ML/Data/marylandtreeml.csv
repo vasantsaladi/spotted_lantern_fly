@@ -1,0 +1,1710 @@
+id,observed_on,latitude,longitude,positional_accuracy,place_county_name,place_state_name,place_country_name,species_guess
+249114,2013-04-27,38.470946,-76.481561,370.0,Calvert,Maryland,United States,tree-of-heaven
+338006,2013-06-29,38.800735,-76.692595,268.0,Anne Arundel,Maryland,United States,tree-of-heaven
+829009,2014-08-11,39.3012506,-76.61986256,6.0,"Baltimore City, MD",Maryland,United States,tree of heaven
+838305,2014-08-19,39.29712,-76.817175,65.0,Howard,Maryland,United States,tree of heaven
+879524,2014-09-16,39.225943,-76.744682,189.0,Howard,Maryland,United States,tree of heaven
+920511,2014-10-09,39.140779,-76.844473,63.0,Howard,Maryland,United States,Tree of Heaven
+1027771,2014-10-20,39.302129,-76.945715,65.0,Howard,Maryland,United States,Tree of Heaven
+1511772,2015-05-19,39.227721,-76.744843,5.0,Howard,Maryland,United States,Tree of Heaven
+1772339,2015-07-17,39.309832,-76.610288,10.0,"Baltimore City, MD",Maryland,United States,Tree of Heaven
+1928357,2015-09-08,39.41808731,-76.62258317,9.0,Baltimore,Maryland,United States,Tree of Heaven
+2309587,2015-10-25,39.21852,-76.760977,10.0,Howard,Maryland,United States,Tree of heaven
+3186839,2016-05-16,39.2266589217,-76.7446519621,5.0,Howard,Maryland,United States,Tree of heaven
+3225387,2016-05-20,38.6947809993,-77.0688478698,5.0,Prince George's,Maryland,United States,Tree of Heaven
+3248126,2016-05-21,39.60235683,-77.82894371,29.0,Washington,Maryland,United States,Tree of heaven
+3255445,2016-05-21,39.052044265,-77.2866378073,5.0,Montgomery,Maryland,United States,Tree of Heaven
+3314426,2016-05-27,39.42117846,-76.98741129,10.0,Carroll,Maryland,United States,Tree of heaven
+3461710,2016-06-15,39.7025748,-75.8557669,2111.0,Cecil,Maryland,United States,Tree of Heaven
+3769643,2016-07-30,39.18552871,-76.85034176,10.0,Howard,Maryland,United States,Tree of Heaven
+4142179,2016-09-18,39.0321056033,-76.7241484021,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+4286985,2016-09-18,39.3121705808,-76.6160478092,52.0,"Baltimore City, MD",Maryland,United States,Tree of Heaven
+5110275,2016-08-29,39.5751963448,-76.6160774231,475.0,Baltimore,Maryland,United States,Tree of Heaven
+5936866,2017-04-24,39.0136241354,-77.0303684101,5.0,Montgomery,Maryland,United States,tree of heaven
+6258002,2017-05-17,39.2284937622,-76.743381098,5.0,Howard,Maryland,United States,Tree of heaven
+6371434,2017-05-26,39.3603771413,-77.3906596564,5.0,Frederick,Maryland,United States,Ailante glanduleux
+6865929,2017-06-13,39.0949806194,-76.7392959146,10.0,Anne Arundel,Maryland,United States,tree of heaven
+6874314,2017-07-01,39.1461552261,-76.7312845868,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+6874498,2017-07-01,39.146152502,-76.7315073778,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+7577624,2017-08-20,39.3169369642,-77.6321068314,10.0,Frederick,Maryland,United States,tree of heaven
+8067262,2017-09-23,38.9334467,-76.9379571,432.0,Prince George's,Maryland,United States,tree of heaven
+8208802,2017-10-01,39.1286875494,-76.7279657722,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+8222146,2017-10-02,39.3153672433,-77.4287813903,10.0,Frederick,Maryland,United States,tree of heaven
+8252315,2017-10-04,39.2285261583,-76.7434375082,5.0,Howard,Maryland,United States,tree of heaven
+8677355,2017-11-04,39.2493980611,-77.437289944,5.0,Frederick,Maryland,United States,Tree of heaven
+8677373,2017-11-04,39.2494658288,-77.4376013317,5.0,Frederick,Maryland,United States,tree-of-heaven
+8677595,2017-11-04,39.2484293646,-77.4371409138,5.0,Frederick,Maryland,United States,tree of heaven
+8678682,2017-11-04,39.2492366257,-77.4372407422,10.0,Frederick,Maryland,United States,tree of heaven
+8680045,2017-11-04,39.2498392426,-77.4382350036,5.0,Frederick,Maryland,United States,tree of heaven
+8680597,2017-11-04,39.2495163717,-77.4366281927,5.0,Frederick,Maryland,United States,Tree of heaven
+8680856,2017-11-04,39.250393428,-77.4392331832,200.0,Frederick,Maryland,United States,tree of heaven
+8681073,2017-11-04,39.2491997034,-77.4371113256,10.0,Frederick,Maryland,United States,tree of heaven
+8681103,2017-11-04,39.2495000728,-77.4374256966,6.0,Frederick,Maryland,United States,Tree of heaven
+8681230,2017-11-04,39.24943469,-77.4374149182,5.0,Frederick,Maryland,United States,Tree of heaven
+8681337,2017-11-04,39.2497360871,-77.4376042386,6.0,Frederick,Maryland,United States,Tree of heaven
+8681910,2017-11-04,39.25097295,-77.43561917,6.0,Frederick,Maryland,United States,Tree of heaven
+8682162,2017-11-04,39.2534497,-77.4474287,1500.0,Frederick,Maryland,United States,tree of heaven
+8682644,2017-11-04,39.2501130615,-77.4377854524,3.0,Frederick,Maryland,United States,Tree of heaven
+8683100,2017-11-04,39.24808488,-77.43757032,12.0,Frederick,Maryland,United States,Tree of heaven
+8723755,2017-11-04,39.2508952786,-77.4376695604,5.0,Frederick,Maryland,United States,tree-of-heaven
+8855747,2017-11-11,39.5979507408,-76.1284947395,143.0,Harford,Maryland,United States,tree of heaven
+10680407,2018-04-07,39.6940383918,-76.2674285884,165.0,Harford,Maryland,United States,Tree of heaven
+11484917,2018-04-26,38.4826089861,-76.5839462355,10.0,Calvert,Maryland,United States,
+11510587,2018-04-27,39.2637041062,-76.5845388632,32.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+11601940,2018-04-28,39.3066117,-76.70251237,9.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+11604750,2018-04-28,39.2623222014,-76.5857610014,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+11606004,2018-04-28,39.2633066979,-76.5849559196,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+11611163,2018-04-28,39.2636006512,-76.5845394228,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+11779323,2018-04-29,39.2038635385,-76.843743953,65.0,Howard,Maryland,United States,Tree of heaven
+11793605,2018-04-26,38.4822988557,-76.5836186708,30.0,Calvert,Maryland,United States,
+11828641,2018-04-29,39.0298222222,-77.0065777778,5.0,Montgomery,Maryland,United States,Tree of heaven
+11834772,2018-04-29,39.0340305556,-77.0094,5.0,Montgomery,Maryland,United States,Tree of heaven
+11840153,2018-04-29,39.0308194444,-77.0061861111,5.0,Montgomery,Maryland,United States,Tree of heaven
+11844598,2018-04-29,38.9984861111,-76.9421083333,30.0,Prince George's,Maryland,United States,Tree of heaven
+11888471,2018-04-30,38.88657631,-76.54678172,4.0,Anne Arundel,Maryland,United States,
+11905502,2018-04-30,39.1877423354,-76.6267854715,32.0,Anne Arundel,Maryland,United States,Tree of heaven
+11928133,2018-04-30,39.3128366667,-76.499795,5.0,Baltimore,Maryland,United States,Tree of heaven
+11956175,2018-04-30,39.0427972222,-76.9700777778,10.0,Montgomery,Maryland,United States,Tree of heaven
+11956177,2018-04-30,39.0427666667,-76.9700166667,5.0,Montgomery,Maryland,United States,tree-of-heaven
+11956198,2018-04-30,39.0425861111,-76.9696972222,5.0,Montgomery,Maryland,United States,Tree of heaven
+12161099,2018-04-30,38.8861883333,-76.5467083333,6.0,Anne Arundel,Maryland,United States,Tree of heaven
+12367930,2018-04-30,38.8863333333,-76.5467083333,1225.0,Anne Arundel,Maryland,United States,Tree of heaven
+12832731,2018-05-26,39.31149051,-76.59613335,7.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+13028246,2018-05-09,38.88667,-76.5468133333,10.0,Anne Arundel,Maryland,United States,Tree of heaven
+13206216,2018-06-07,39.5278282045,-77.1820200049,5.0,Frederick,Maryland,United States,tree-of-heaven
+13217936,2018-06-07,39.32719587,-76.64388812,9.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+13408691,2018-06-13,38.95617,-77.0916833333,6.0,Montgomery,Maryland,United States,Tree of heaven
+13455675,2018-06-15,39.7090862699,-75.8225842086,357.0,Cecil,Maryland,United States,Tree of heaven
+13622665,2018-06-20,38.88652,-76.54673,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+13730996,2018-06-23,39.42155528,-76.50282699,9.0,Baltimore,Maryland,United States,Tree of heaven
+13865304,2018-06-28,39.2628283333,-76.5849616667,8.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+13919548,2018-06-30,39.27375285,-76.60009054,7.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+13942201,2018-07-01,38.9734609472,-77.1573690791,5.0,Montgomery,Maryland,United States,Tree of heaven
+13984980,2018-07-02,38.70027177,-76.67648525,6.0,Calvert,Maryland,United States,tree-of-heaven
+14137328,2018-07-07,39.2742120149,-76.6032755748,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+14217829,2018-07-09,38.9330133333,-76.9376,5.0,Prince George's,Maryland,United States,tree-of-heaven
+14218012,2018-07-09,38.9327583333,-76.9388416667,5.0,Prince George's,Maryland,United States,Tree of heaven
+14245233,2018-07-10,38.94857,-76.9264616667,5.0,Prince George's,Maryland,United States,Tree of heaven
+14245283,2018-07-10,38.9485866667,-76.9265533333,5.0,Prince George's,Maryland,United States,Tree of heaven
+14273698,2018-07-11,39.4978866667,-76.2527166667,5.0,Harford,Maryland,United States,Tree of heaven
+14367705,2018-07-13,39.1893894289,-76.8411105389,970.0,Howard,Maryland,United States,Tree of heaven
+14414352,2018-07-16,39.4174326724,-77.205144167,10.0,Frederick,Maryland,United States,Tree of heaven
+14430897,2018-07-16,39.2608129126,-77.3975350037,74.0,Frederick,Maryland,United States,Tree of heaven
+14621668,2018-07-22,39.1607723851,-77.3111282197,5.0,Montgomery,Maryland,United States,tree-of-heaven
+14833979,2018-07-28,38.9902908448,-76.329291612,5.0,Queen Anne's,Maryland,United States,Tree of heaven
+14896541,2018-07-29,38.9800955169,-77.1610178892,5.0,Montgomery,Maryland,United States,Tree of heaven
+15212452,2018-08-07,38.521175,-77.0336305,65.0,Charles,Maryland,United States,Tree of heaven
+15364980,2018-08-12,39.0006295351,-76.914659827,173.0,Prince George's,Maryland,United States,Tree of heaven
+15646699,2018-08-18,38.996480648,-76.9178721892,4.0,Prince George's,Maryland,United States,tree-of-heaven
+16185808,2018-09-03,38.9902292,-76.9361155,20.0,Prince George's,Maryland,United States,Tree of heaven
+16237805,2018-09-04,39.3242670823,-76.6163431864,50.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+16299011,2018-09-07,39.0026441881,-77.0655355448,169.0,Montgomery,Maryland,United States,Tree of heaven
+16364479,2018-09-09,39.2076616667,-76.0684278333,5.0,Kent,Maryland,United States,Tree of heaven
+16431446,2018-09-11,38.813112164,-76.9453907479,5.0,Prince George's,Maryland,United States,Tree of heaven
+16642538,2018-09-17,38.990375,-76.9354472222,10.0,Prince George's,Maryland,United States,Tree of heaven
+16874605,2018-09-24,38.9955636906,-76.9310111739,30.0,Prince George's,Maryland,United States,Tree of heaven
+16939354,2018-09-26,39.3396384688,-76.6258750298,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+16971516,2018-09-27,39.1488298076,-77.0274969377,5.0,Montgomery,Maryland,United States,Tree of heaven
+17026191,2018-09-29,39.115720795,-77.1071804861,65.0,Montgomery,Maryland,United States,Tree of heaven
+17044146,2018-09-29,38.93308402,-76.93766965,6.0,Prince George's,Maryland,United States,Tree of heaven
+17117898,2018-10-01,38.6454222119,-76.962371394,44.0,Charles,Maryland,United States,Tree of heaven
+17133871,2018-10-02,38.91614467,-76.58552721,7.0,Anne Arundel,Maryland,United States,Tree of heaven
+17160064,2018-09-30,38.9912626123,-77.0030747125,2.0,Montgomery,Maryland,United States,tree-of-heaven
+17288391,2018-10-07,39.3940459472,-76.5035650414,5.0,Baltimore,Maryland,United States,Tree of heaven
+17319970,2018-07-06,38.9330786141,-76.9375627209,5.0,Prince George's,Maryland,United States,Tree of heaven
+17339034,2018-10-07,39.33239071,-77.73238006,9.0,Washington,Maryland,United States,Tree of heaven
+17362757,2018-10-09,38.99766321,-76.9197065,9.0,Prince George's,Maryland,United States,Tree of heaven
+17560250,2018-09-26,38.992823406,-77.0002588537,22.0,Montgomery,Maryland,United States,Tree of heaven
+17879107,2018-10-27,39.1329434,-76.663946,22.0,Anne Arundel,Maryland,United States,Tree of heaven
+17907410,2018-10-28,39.3408734165,-76.6526778416,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+18063444,2018-11-03,38.9715803623,-77.1278684179,65.0,Montgomery,Maryland,United States,Tree of heaven
+18099810,2018-11-04,39.1359555,-77.2409133333,6.0,Montgomery,Maryland,United States,Tree of heaven
+18173965,2018-11-06,39.0437732125,-76.9067842048,50.0,Prince George's,Maryland,United States,Ailante glanduleux
+18262519,2018-11-08,38.9976187,-76.9343209,196.0,Prince George's,Maryland,United States,Tree of heaven
+18356674,2018-11-12,38.9846916667,-76.9304666667,10.0,Prince George's,Maryland,United States,Tree of heaven
+18385752,2018-11-11,39.3296888889,-77.6833638889,10.0,Washington,Maryland,United States,Tree of heaven
+18430404,2018-11-08,39.4655141624,-76.5628146143,52.0,Baltimore,Maryland,United States,Tree of heaven
+19003516,2018-10-04,39.4204724534,-76.7016873323,5.0,Baltimore,Maryland,United States,Tree of heaven
+19518464,2019-01-08,39.3283044594,-76.6435654555,30.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+19543690,2019-01-09,39.6219077544,-76.7484872515,8.0,Baltimore,Maryland,United States,Tree of heaven
+20700208,2019-02-23,39.3102038233,-76.6295575351,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+21084397,2019-03-09,39.3270499818,-76.6512942408,20.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+22904449,2019-04-22,39.3046133333,-76.6240533333,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+22990679,2019-04-23,39.30606047,-76.6238576,8.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+22996716,2019-04-24,39.23099681,-76.59347108,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+23055859,2019-04-23,39.32597,-76.6339633333,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+23133304,2019-04-26,39.4182709884,-76.7311498896,5.0,Baltimore,Maryland,United States,Tree of heaven
+23360040,2019-04-27,39.3046633333,-76.6065,24.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+23378290,2019-04-27,39.3307691161,-76.573080523,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+23412515,2019-04-27,39.39178266,-77.56271666,8.0,Frederick,Maryland,United States,Tree of heaven
+23435285,2019-04-27,39.2875994519,-76.7882031853,24.0,Howard,Maryland,United States,Tree of heaven
+23438919,2019-04-27,39.2947555356,-76.780610467,8.0,Howard,Maryland,United States,Tree of heaven
+23490990,2019-04-27,39.28772,-76.788445,5.0,Howard,Maryland,United States,Tree of heaven
+23498706,2019-04-27,39.3063108811,-76.6990223899,66.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+23502697,2019-04-27,39.3923224,-77.56353267,5.0,Frederick,Maryland,United States,tree-of-heaven
+23516777,2019-04-27,39.30645,-76.7001283333,24.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+23639690,2019-04-28,39.19177339,-77.29634308,7.0,Montgomery,Maryland,United States,Tree of heaven
+23735745,2019-04-28,38.4304361651,-77.2565831524,10.0,Charles,Maryland,United States,Tree of heaven
+23754878,2019-04-28,39.4018277532,-76.8917122856,66.0,Carroll,Maryland,United States,Tree of heaven
+23788338,2019-04-28,38.9894866667,-77.2440033333,10.0,Montgomery,Maryland,United States,Tree of heaven
+23892868,2019-04-28,39.3216259033,-76.6458588095,31.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+23898813,2019-04-29,39.285245,-76.6002583333,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+23973220,2019-04-29,39.2636004417,-76.5844017082,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+23988452,2019-04-29,38.9862809692,-77.0032954748,135.0,Montgomery,Maryland,United States,tree-of-heaven
+23995945,2019-04-29,38.4649934946,-76.4713460115,5.0,Calvert,Maryland,United States,Tree of heaven
+24003349,2019-04-27,39.2947987,-76.7852603,232.0,Howard,Maryland,United States,Tree of heaven
+24011891,2019-04-29,39.2169221677,-76.6467412748,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+24012689,2019-04-29,39.2167290487,-76.6464795918,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+24014352,2019-04-29,39.2162530823,-76.6458484345,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+24018646,2019-04-29,38.9372,-76.5017916667,24.0,Anne Arundel,Maryland,United States,Tree of heaven
+24033933,2019-04-29,39.24032352,-76.86484009,8.0,Howard,Maryland,United States,Tree of heaven
+24035484,2019-04-29,39.324355,-76.62252,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+24078868,2019-04-29,38.9372,-76.5017916667,24.0,Anne Arundel,Maryland,United States,Tree of heaven
+24080015,2019-04-29,39.16561514,-76.85837182,5.0,Howard,Maryland,United States,Tree of heaven
+24080185,2019-04-29,39.1638694,-76.8852474,1200.0,Howard,Maryland,United States,Tree of heaven
+24118126,2019-04-29,39.1435578184,-77.2512947296,122.0,Montgomery,Maryland,United States,Tree of heaven
+24210979,2019-04-27,39.2935533333,-76.7852466667,32.0,Howard,Maryland,United States,Tree of heaven
+24432802,2019-05-02,39.181125,-76.7453616667,5.0,Howard,Maryland,United States,Tree of heaven
+24481772,2019-05-03,39.2650716667,-76.619095,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+24687447,2019-05-06,38.5467110994,-76.5304686875,10.0,Calvert,Maryland,United States,Tree of heaven
+24743814,2019-05-07,39.3859077,-76.6609732,28.0,Baltimore,Maryland,United States,Tree of heaven
+24806914,2019-05-08,39.3320112595,-76.6383435472,57.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+24860291,2019-05-09,39.2149683933,-76.7196436866,13.0,Howard,Maryland,United States,Tree of heaven
+24938590,2019-05-11,38.9722126304,-77.1671145503,5.0,Montgomery,Maryland,United States,Tree of heaven
+25076183,2019-04-27,39.293475,-76.7852466667,8.0,Howard,Maryland,United States,Tree of heaven
+25135407,2019-05-14,39.699648167,-76.4637910669,10.0,Harford,Maryland,United States,Tree of heaven
+25216582,2019-05-16,39.4302953314,-77.3378671613,19.0,Frederick,Maryland,United States,Tree of heaven
+25295526,2019-05-17,38.95948,-77.1040333333,10.0,Montgomery,Maryland,United States,Tree of heaven
+25384213,2019-05-19,39.4934796263,-76.6878420208,5.0,Baltimore,Maryland,United States,Tree of heaven
+25396680,2019-05-19,39.6406422509,-76.3676313591,5.0,Harford,Maryland,United States,Tree of heaven
+25629856,2019-05-23,38.8868455869,-76.5562808421,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+25878492,2019-05-27,39.3159762305,-76.6901573539,30.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+26184682,2019-06-01,38.97191122,-77.15511775,3.0,Montgomery,Maryland,United States,Tree of heaven
+26386007,2019-06-03,38.7936714715,-76.7186301926,227.0,Prince George's,Maryland,United States,Tree of heaven
+26706552,2019-06-09,39.69781338,-78.17795579,3.0,Washington,Maryland,United States,Tree of heaven
+26828992,2019-06-11,39.24448,-76.7120883333,5.0,Baltimore,Maryland,United States,tree-of-heaven
+26889637,2019-06-12,39.4708184805,-77.4124065042,5.0,Frederick,Maryland,United States,tree-of-heaven
+27040478,2019-05-06,38.7195916428,-76.7019484829,6.0,Prince George's,Maryland,United States,tree-of-heaven
+27057237,2019-06-15,39.3881710293,-76.4559774567,5.0,Baltimore,Maryland,United States,Tree of heaven
+27155341,2019-06-17,38.80163305,-77.00813304,9.0,Prince George's,Maryland,United States,Tree of heaven
+27160871,2019-06-17,39.0029030947,-77.0654680811,88.0,Montgomery,Maryland,United States,Tree of heaven
+27442539,2019-06-22,39.2398283165,-76.8506585621,5.0,Howard,Maryland,United States,Tree of heaven
+27528258,2019-06-23,39.3092583333,-76.6125116667,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+27586752,2019-06-24,38.3946044576,-76.4350550145,33.0,Calvert,Maryland,United States,tree-of-heaven
+27814454,2019-06-28,39.2627573479,-76.775834486,5.0,Baltimore,Maryland,United States,Tree of heaven
+27865679,2019-06-29,39.030077076,-77.0041761536,47.0,Montgomery,Maryland,United States,Tree of heaven
+27883564,2019-06-29,39.4259114704,-77.4068211392,5.0,Frederick,Maryland,United States,Tree of heaven
+27894872,2019-06-28,38.94555,-77.1246638333,5.0,Montgomery,Maryland,United States,tree-of-heaven
+27908650,2019-06-29,38.3779833333,-76.486205,5.0,Calvert,Maryland,United States,Tree of heaven
+28013344,2019-07-01,39.3158383333,-76.6832116667,5.0,"Baltimore City, MD",Maryland,United States,Albero del paradiso
+28060244,2019-07-02,38.94096639,-76.94588942,7.0,Prince George's,Maryland,United States,Tree of heaven
+28141660,2019-07-03,39.5059982082,-76.6294390988,5.0,Baltimore,Maryland,United States,Tree of heaven
+28356678,2019-07-07,38.5956205521,-77.126945369,5.0,Charles,Maryland,United States,tree-of-heaven
+28395732,2019-07-07,39.5507533,-78.4630374,359.0,Allegany,Maryland,United States,Tree of heaven
+28444796,2019-07-08,38.9296950493,-76.9369117823,5.0,Prince George's,Maryland,United States,tree-of-heaven
+28492909,2019-07-09,39.6578386473,-78.9229096939,5.0,Allegany,Maryland,United States,tree-of-heaven
+28554808,2019-07-10,39.1667336923,-76.8687340131,29.0,Howard,Maryland,United States,tree-of-heaven
+28569478,2019-07-10,39.6965916667,-76.2677916667,9.0,Harford,Maryland,United States,tree-of-heaven
+28622472,2019-07-11,38.9298013738,-76.9375549258,5.0,Prince George's,Maryland,United States,tree-of-heaven
+28649465,2019-07-11,39.1797045287,-77.4922662601,263.0,Montgomery,Maryland,United States,tree-of-heaven
+28732713,2019-07-13,39.341355,-77.2675166667,5.0,Frederick,Maryland,United States,tree-of-heaven
+28789670,2019-07-14,38.5660572444,-77.0809553751,5.0,Charles,Maryland,United States,tree-of-heaven
+28809912,2019-07-14,39.6394079738,-78.7673228794,10.0,Allegany,Maryland,United States,tree-of-heaven
+28810597,2019-07-14,39.438207387,-77.1781231743,10.0,Frederick,Maryland,United States,tree-of-heaven
+28898637,2019-07-15,39.3998733,-77.2858143,183.0,Frederick,Maryland,United States,tree-of-heaven
+28898638,2019-07-15,39.3998733,-77.2858143,183.0,Frederick,Maryland,United States,tree-of-heaven
+28939687,2019-07-08,38.9297230797,-76.9370534573,6.0,Prince George's,Maryland,United States,tree-of-heaven
+29137855,2019-07-19,39.399606,-77.287328,30.0,Frederick,Maryland,United States,tree-of-heaven
+29142146,2019-07-19,39.399606,-77.287328,30.0,Frederick,Maryland,United States,tree-of-heaven
+29343350,2019-07-22,39.4031555556,-77.2776861111,552.0,Frederick,Maryland,United States,tree-of-heaven
+29348164,2019-07-22,39.3234445481,-76.6239362118,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+29522117,2019-07-25,39.4030460507,-77.2807968586,24.0,Frederick,Maryland,United States,tree-of-heaven
+29537964,2019-07-25,39.4030722222,-77.280875,10.0,Frederick,Maryland,United States,tree-of-heaven
+29742279,2019-07-28,39.7018489352,-77.7193442499,16.0,Washington,Maryland,United States,Tree of heaven
+29746087,2019-07-28,39.23604147,-76.6866342,9.0,Baltimore,Maryland,United States,Tree of heaven
+29815928,2019-07-28,39.1263713,-77.1652323,1200.0,Montgomery,Maryland,United States,Tree of heaven
+29824134,2019-07-29,39.2658416667,-76.6185,65.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+29850741,2019-07-30,39.50132892,-77.27946133,4.0,Frederick,Maryland,United States,Tree of heaven
+29875750,2019-07-30,39.3998733,-77.2858143,183.0,Frederick,Maryland,United States,Tree of heaven
+29909017,2019-07-31,39.40241042,-77.28337632,10.0,Frederick,Maryland,United States,tree-of-heaven
+29915346,2019-07-31,39.3858613128,-76.5693586667,10.0,Baltimore,Maryland,United States,Tree of heaven
+29937962,2019-07-31,39.3998733,-77.2858143,183.0,Frederick,Maryland,United States,Tree of heaven
+29991599,2019-08-01,39.3962659439,-77.2764313138,8.0,Frederick,Maryland,United States,Tree of heaven
+30003029,2019-08-01,38.9535345649,-76.9605125394,31.0,Prince George's,Maryland,United States,tree-of-heaven
+30007403,2019-08-01,39.3998733,-77.2858143,183.0,Frederick,Maryland,United States,Tree of heaven
+30100851,2019-08-03,39.3088416667,-76.61525,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+30126752,2019-08-03,39.50281016,-77.27875888,10.0,Frederick,Maryland,United States,tree-of-heaven
+30392826,2019-08-07,39.337253524,-76.6241828912,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+30518862,2019-08-09,39.3199627893,-76.6124164593,10.0,"Baltimore City, MD",Maryland,United States,Tree of heaven
+30529812,2019-08-10,38.6060313369,-76.5135814995,5.0,Calvert,Maryland,United States,Tree of heaven
+30537110,2019-08-10,38.9711163193,-77.1610054002,10.0,Montgomery,Maryland,United States,Tree of heaven
+30615425,2019-08-11,39.6275695766,-77.0413945954,41.0,Carroll,Maryland,United States,Tree of heaven
+30770106,2019-08-01,39.0846888889,-77.1013027778,5.0,Montgomery,Maryland,United States,tree-of-heaven
+30945688,2019-08-16,39.6202165168,-77.4132926935,10.0,Frederick,Maryland,United States,Tree of heaven
+30946442,2019-08-16,39.6202315874,-77.4132405268,7.0,Frederick,Maryland,United States,Tree of heaven
+31085960,2019-08-18,39.0790766571,-76.5530411527,5.0,Anne Arundel,Maryland,United States,Tree of heaven
+31087698,2019-08-18,39.1028620801,-76.5729559667,16.0,Anne Arundel,Maryland,United States,Tree of heaven
+31093383,2019-08-18,39.6860080726,-78.8085388357,65.0,Allegany,Maryland,United States,Tree of heaven
+31437052,2019-08-24,39.0259381151,-77.1055229847,30.0,Montgomery,Maryland,United States,Tree of heaven
+32011464,2019-09-02,39.1455213027,-77.2552103643,30.0,Montgomery,Maryland,United States,tree-of-heaven
+32017570,2019-09-02,38.6218833333,-77.1167055,5.0,Charles,Maryland,United States,tree-of-heaven
+32021082,2019-09-02,39.3665538278,-76.6046544377,9.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+32071320,2019-09-03,39.18695489,-77.32183437,9.0,Montgomery,Maryland,United States,tree-of-heaven
+32303504,2019-09-07,39.0664777372,-76.5074079764,22.0,Anne Arundel,Maryland,United States,tree-of-heaven
+32412483,2019-09-09,38.6895363406,-76.5444218741,5.0,Calvert,Maryland,United States,
+32426954,2019-09-09,38.1892498769,-76.4293851984,30.0,Saint Mary's,Maryland,United States,tree-of-heaven
+32756547,2019-09-15,39.357066541,-76.6582626197,18.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+32977596,2019-09-18,39.06399348,-76.98020406,8.0,Montgomery,Maryland,United States,tree-of-heaven
+32981406,2019-09-17,39.6137,-76.1493916667,122.0,Harford,Maryland,United States,tree-of-heaven
+33139326,2019-09-21,38.9956584061,-76.9309492317,10.0,Prince George's,Maryland,United States,tree-of-heaven
+33250564,2019-09-23,39.3588564471,-76.6591091082,22.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33276598,2019-09-23,39.26528632,-76.79048059,8.0,Baltimore,Maryland,United States,tree-of-heaven
+33427665,2019-09-26,39.6322565,-77.67061305,7.0,Washington,Maryland,United States,tree-of-heaven
+33521877,2019-09-28,39.36116789,-76.6592008062,9.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33534063,2019-08-06,39.6194527778,-75.9949333333,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534074,2019-08-06,39.6174138889,-75.9978777778,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534077,2019-08-06,39.6172638889,-75.9981222222,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534079,2019-08-06,39.6171277778,-75.9983666667,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534086,2019-08-06,39.6169861111,-75.9986194444,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534088,2019-08-06,39.6167138889,-75.9991388889,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534094,2019-08-06,39.6153055556,-76.0024944444,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534097,2019-08-06,39.6152,-76.0028083333,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534101,2019-08-06,39.6150361111,-76.0034111111,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534104,2019-08-06,39.6104305556,-76.01365,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534105,2019-08-06,39.6102638889,-76.013925,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534110,2019-08-06,39.605725,-76.0324861111,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534111,2019-08-06,39.6009305556,-76.0438222222,5.0,Cecil,Maryland,United States,tree-of-heaven
+33534115,2019-08-06,39.57665,-76.1240694444,5.0,Harford,Maryland,United States,tree-of-heaven
+33571616,2019-08-06,39.2841305556,-76.5472944444,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33571619,2019-08-06,39.2836,-76.5485,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33571623,2019-08-06,39.2662277778,-76.5963055556,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33571624,2019-08-06,39.2668583333,-76.6003805556,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33571625,2019-08-06,39.2674916667,-76.6636194444,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33571626,2019-08-06,39.2663194444,-76.6662361111,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33571627,2019-08-06,39.2614027778,-76.6733638889,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+33603639,2019-09-26,39.6386349,-77.6638133,2099.0,Washington,Maryland,United States,tree-of-heaven
+33751649,2019-10-02,38.991026262,-76.9228357775,76.0,Prince George's,Maryland,United States,Tree-of-Heaven
+33753075,2019-10-01,38.9967210757,-76.9339352563,27.0,Prince George's,Maryland,United States,tree-of-heaven
+33754024,2019-10-02,39.0188217536,-76.8575836905,5.0,Prince George's,Maryland,United States,tree-of-heaven
+33807410,2019-10-03,39.141972235,-76.8610391428,18.0,Howard,Maryland,United States,tree-of-heaven
+33870664,2019-08-06,39.0161972222,-77.0300972222,5.0,Montgomery,Maryland,United States,tree-of-heaven
+33870665,2019-08-06,39.0149583333,-77.0324555556,5.0,Montgomery,Maryland,United States,tree-of-heaven
+33896204,2019-10-05,39.5613699186,-76.3324827003,6.0,Harford,Maryland,United States,tree-of-heaven
+34086358,2019-10-08,38.9949069266,-76.9346170687,10.0,Prince George's,Maryland,United States,tree-of-heaven
+34088230,2019-10-08,38.9894711,-76.9336105,65.0,Prince George's,Maryland,United States,tree-of-heaven
+34171887,2019-10-10,38.93259345,-76.93862466,9.0,Prince George's,Maryland,United States,tree-of-heaven
+34171989,2019-10-10,38.9325473911,-76.9387682145,6.0,Prince George's,Maryland,United States,tree-of-heaven
+34258304,2019-10-12,39.4501277778,-76.5673361111,1862.0,Baltimore,Maryland,United States,tree-of-heaven
+34266404,2019-10-12,39.2144292447,-77.0554686307,111.0,Montgomery,Maryland,United States,tree-of-heaven
+34273770,2019-10-12,38.61697,-76.62419167,10.0,Calvert,Maryland,United States,tree-of-heaven
+34458634,2019-07-23,39.257375,-77.2304533333,65.0,Montgomery,Maryland,United States,tree-of-heaven
+34508466,2019-10-17,39.3673672,-76.6480902,23.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+34508488,2019-10-17,39.3671977,-76.6481939,24.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+34508523,2019-10-17,39.3669607,-76.648722,78.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+34581376,2019-10-19,39.260251993,-77.3974477615,45.0,Frederick,Maryland,United States,Ailanthus altissima
+34644520,2019-10-19,38.9876488,-76.9220875,394.0,Prince George's,Maryland,United States,tree-of-heaven
+34785141,2019-10-23,38.9938967949,-76.9327749012,32.0,Prince George's,Maryland,United States,tree-of-heaven
+34787466,2019-10-23,39.1470045406,-76.6375771873,48.0,Anne Arundel,Maryland,United States,tree-of-heaven
+34969937,2019-10-27,38.9903708786,-76.9354350413,8.0,Prince George's,Maryland,United States,tree-of-heaven
+34974688,2019-10-27,39.4078777638,-76.5876539704,5.0,Baltimore,Maryland,United States,tree-of-heaven
+35138277,2019-10-31,38.4827645542,-76.5861930047,30.0,Calvert,Maryland,United States,
+35138319,2019-10-31,38.4828369739,-76.5862045717,5.0,Calvert,Maryland,United States,
+35149321,2019-10-31,38.4830051149,-76.5857296531,30.0,Calvert,Maryland,United States,
+35149328,2019-10-31,38.4822428227,-76.5863950086,30.0,Calvert,Maryland,United States,tree-of-heaven
+35375858,2019-11-06,38.9888890554,-76.9339469355,19.0,Prince George's,Maryland,United States,tree-of-heaven
+35375939,2019-11-06,39.00071817,-76.94349977,5.0,Prince George's,Maryland,United States,Tree-of-Heaven
+36130660,2019-11-09,39.5054983215,-76.6299106753,526.0,Baltimore,Maryland,United States,tree-of-heaven
+36410030,2019-12-06,38.9982524375,-76.9432624151,5.0,Prince George's,Maryland,United States,tree-of-heaven
+37746421,2020-01-19,39.3173381494,-77.6320443848,29.0,Frederick,Maryland,United States,
+41507774,2020-04-05,38.46878333,-77.26325333,12.0,Charles,Maryland,United States,tree-of-heaven
+41684540,2013-11-23,38.989838638,-76.3274532766,972.0,Queen Anne's,Maryland,United States,tree-of-heaven
+41782384,2020-04-09,39.12784036,-77.29696977,3.0,Montgomery,Maryland,United States,tree-of-heaven
+41786489,2020-04-09,39.26158891,-76.50667676,7.0,Baltimore,Maryland,United States,tree-of-heaven
+41815997,2020-04-10,38.9912432805,-76.9983741828,5.0,Montgomery,Maryland,United States,tree-of-heaven
+41832340,2013-09-29,39.494048872,-77.4996858439,171.0,Frederick,Maryland,United States,tree-of-heaven
+41953138,2020-04-11,39.1162704218,-77.1800961947,138.0,Montgomery,Maryland,United States,tree-of-heaven
+42166468,2016-02-29,38.4826055556,-76.5864944444,10.0,Calvert,Maryland,United States,Tree-of-Heaven
+42306565,2020-04-14,39.6794377771,-76.7029228803,15.0,Baltimore,Maryland,United States,tree-of-heaven
+42485645,2020-04-18,39.288325054,-76.5857500418,13.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+43004746,2020-04-23,39.3838996953,-76.6165287048,5.0,Baltimore,Maryland,United States,tree-of-heaven
+43108331,2020-04-24,39.3331172644,-76.5727372003,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+43110892,2020-04-24,39.28437,-76.58702167,48.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+43136453,2019-07-24,39.3170498059,-77.0201133192,884.0,Howard,Maryland,United States,tree-of-heaven
+43164188,2020-04-24,39.351875,-76.62920333,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+43195964,2020-04-24,38.6740626898,-76.6274412693,15.0,Calvert,Maryland,United States,tree-of-heaven
+43227772,2020-04-24,39.3923874369,-77.5632135121,46.0,Frederick,Maryland,United States,
+43244782,2020-04-24,38.98933333,-77.24424667,4.0,Montgomery,Maryland,United States,tree-of-heaven
+43256990,2020-04-24,39.174375,-77.28350833,10.0,Montgomery,Maryland,United States,tree-of-heaven
+43432035,2020-04-25,39.3049383248,-76.4999242618,4.0,Baltimore,Maryland,United States,tree-of-heaven
+43436537,2020-04-25,38.48693629,-76.58582171,8.0,Calvert,Maryland,United States,tree-of-heaven
+43505321,2020-04-25,38.6740626898,-76.6274412693,15.0,Calvert,Maryland,United States,tree-of-heaven
+43516438,2020-04-25,39.18547566,-76.84435817,19.0,Howard,Maryland,United States,tree-of-heaven
+43675189,2020-04-26,39.3760006309,-76.5867147129,10.0,Baltimore,Maryland,United States,tree-of-heaven
+43688353,2020-04-25,38.95657167,-76.53746667,9.0,Anne Arundel,Maryland,United States,tree-of-heaven
+43691434,2020-04-26,39.362160936,-76.6690228042,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+43745863,2020-04-26,39.3415858205,-76.6266442502,33.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+43749738,2020-04-26,39.12878055,-76.7278888833,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+43752333,2020-04-26,39.345104094,-76.6266649339,22.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+43753954,2020-04-26,38.972157977,-77.1964242668,53.0,Montgomery,Maryland,United States,tree-of-heaven
+43769967,2020-04-26,39.0044776871,-76.9381435522,259.0,Prince George's,Maryland,United States,tree-of-heaven
+43886155,2020-04-27,39.292825,-76.46585,6.0,Baltimore,Maryland,United States,tree-of-heaven
+43980253,2020-04-25,39.308625,-76.62777,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+44006982,2020-04-27,39.22107167,-76.42923,10.0,Baltimore,Maryland,United States,tree-of-heaven
+44058625,2020-04-27,38.99261897,-76.32714191,3.0,Queen Anne's,Maryland,United States,tree-of-heaven
+44059084,2020-04-25,38.98181667,-77.2266,24.0,Montgomery,Maryland,United States,tree-of-heaven
+44255849,2020-04-29,38.9614138196,-76.8631842309,32.0,Prince George's,Maryland,United States,tree-of-heaven
+44264602,2020-04-29,38.9230174603,-76.6345545191,16.0,Anne Arundel,Maryland,United States,tree-of-heaven
+44298156,2020-04-26,39.6805269256,-76.7046222044,61.0,Baltimore,Maryland,United States,tree-of-heaven
+44395726,2020-04-27,39.29174167,-76.596345,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+44414601,2020-04-30,39.21796623,-77.24189439,7.0,Montgomery,Maryland,United States,tree-of-heaven
+44414835,2020-04-30,39.21786537,-77.24188445,7.0,Montgomery,Maryland,United States,tree-of-heaven
+44586334,2020-05-02,39.1134181834,-76.5599974098,10.0,Anne Arundel,Maryland,United States,tree-of-heaven
+44616690,2020-05-02,38.693755162,-76.6063225643,5.0,Calvert,Maryland,United States,tree-of-heaven
+44654022,2020-05-02,39.4031171443,-76.5778002888,26.0,Baltimore,Maryland,United States,tree-of-heaven
+44931560,2020-05-05,39.0550521196,-77.1455516277,65.0,Montgomery,Maryland,United States,tree-of-heaven
+45018330,2020-05-05,39.0839953655,-77.17670504,49.0,Montgomery,Maryland,United States,tree-of-heaven
+45372532,2020-05-09,39.0237871582,-76.7473435915,17.0,Prince George's,Maryland,United States,tree-of-heaven
+45380409,2020-05-09,39.0697500663,-76.5569716558,8.0,Anne Arundel,Maryland,United States,
+45532315,2020-05-10,39.1100203964,-76.8590701371,349.0,Prince George's,Maryland,United States,tree-of-heaven
+46510040,2020-05-19,38.9775196056,-76.7436056124,65.0,Prince George's,Maryland,United States,tree-of-heaven
+46904243,2020-05-21,39.2235500196,-76.6292168945,88.0,Anne Arundel,Maryland,United States,tree-of-heaven
+47163913,2020-05-24,39.4024648092,-76.5768078715,34.0,Baltimore,Maryland,United States,tree-of-heaven
+47295416,2020-05-25,39.3042646163,-76.6122032237,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+47313770,2020-05-25,39.2572122698,-77.2302684765,200.0,Montgomery,Maryland,United States,tree-of-heaven
+47353873,2020-05-25,38.95943833,-76.65117833,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+47387701,2020-04-24,39.174375,-77.28350833,10.0,Montgomery,Maryland,United States,tree-of-heaven
+47675327,2020-05-28,39.31355333,-76.61381667,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+47678223,2020-05-28,38.7819169416,-76.5887370799,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+48013103,2020-05-31,39.30475333,-76.60610333,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+48052991,2020-05-31,38.917364623,-76.8284122238,16.0,Prince George's,Maryland,United States,tree-of-heaven
+48067398,2020-05-31,39.1744,-77.28347,5.0,Montgomery,Maryland,United States,tree-of-heaven
+48322378,2020-06-03,38.7810285436,-76.5904772469,30.0,Anne Arundel,Maryland,United States,tree-of-heaven
+48324586,2015-08-09,39.2670233995,-76.5878451209,71.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+48652876,2020-06-06,39.6492859038,-77.7655322264,65.0,Washington,Maryland,United States,tree-of-heaven
+49249044,2020-06-11,38.7719509506,-76.570059473,12.0,Anne Arundel,Maryland,United States,tree-of-heaven
+49393339,2020-06-12,39.356711535,-76.4463105074,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+49501306,2020-06-13,38.82752114,-75.90024544,5.0,Caroline,Maryland,United States,tree-of-heaven
+49521891,2020-06-13,39.2982767104,-76.618896341,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+49701894,2020-06-15,39.3269282068,-76.6143795612,18.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+49958801,2020-06-17,39.19730384,-77.163572,8.0,Montgomery,Maryland,United States,tree-of-heaven
+50093655,2020-06-18,39.3437572,-76.5304056,41.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+50316519,2020-06-20,38.9869222,-76.9161276,35.0,Prince George's,Maryland,United States,tree-of-heaven
+50449861,2020-06-21,39.2779124994,-77.5458354224,5.0,Frederick,Maryland,United States,tree-of-heaven
+50456852,2020-06-21,39.2782393585,-77.3555019361,65.0,Frederick,Maryland,United States,tree-of-heaven
+50457115,2020-06-21,39.2784924433,-77.3551579379,5.0,Frederick,Maryland,United States,tree-of-heaven
+50768838,2020-06-24,38.93557581,-76.95765336,7.0,Prince George's,Maryland,United States,tree-of-heaven
+50774419,2020-06-23,38.92380833,-76.92056333,5.0,Prince George's,Maryland,United States,tree-of-heaven
+51131923,2020-06-27,39.59800333,-76.12959167,64.0,Harford,Maryland,United States,tree-of-heaven
+51170648,2020-06-27,39.4025844994,-76.579002589,22.0,Baltimore,Maryland,United States,tree-of-heaven
+51235830,2020-06-28,39.3333947207,-76.6326068714,1052.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+51237287,2020-06-28,38.99015535,-76.32918749,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+51291508,2018-06-23,39.4940470507,-77.499646925,17.0,Frederick,Maryland,United States,tree-of-heaven
+51305366,2020-06-28,39.10289241,-76.5849467833,30.0,Anne Arundel,Maryland,United States,tree-of-heaven
+51362331,2020-06-29,39.5168064209,-77.599953767,5.0,Frederick,Maryland,United States,tree-of-heaven
+51365926,2020-06-29,39.6030196594,-76.6615535226,5.0,Baltimore,Maryland,United States,tree-of-heaven
+51387260,2020-06-29,39.3216585193,-76.6246301464,24.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+51436534,2020-06-29,39.4040070356,-76.5810273215,7.0,Baltimore,Maryland,United States,tree-of-heaven
+51436593,2020-06-29,39.4041842353,-76.5809535608,27.0,Baltimore,Maryland,United States,tree-of-heaven
+51442005,2020-06-29,39.32375833,-76.61865333,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+51473843,2020-06-30,39.7053926625,-75.8729747684,5.0,Cecil,Maryland,United States,tree-of-heaven
+51483179,2020-06-30,39.45298,-77.47358,31.0,Frederick,Maryland,United States,tree-of-heaven
+51536079,2020-06-30,38.9918520107,-75.7900234566,31.0,Caroline,Maryland,United States,tree-of-heaven
+51617511,2020-06-30,39.50563333,-76.63008,5.0,Baltimore,Maryland,United States,tree-of-heaven
+51620017,2020-06-30,39.1327036341,-76.909073554,17.0,Howard,Maryland,United States,tree-of-heaven
+51802690,2020-07-02,39.2521209229,-77.3124525699,72.0,Montgomery,Maryland,United States,tree-of-heaven
+51903828,2020-07-03,39.3750726881,-77.427704244,361.0,Frederick,Maryland,United States,tree-of-heaven
+51962899,2020-07-04,38.9614946096,-76.9421921188,16.0,Prince George's,Maryland,United States,tree-of-heaven
+51990119,2020-07-04,39.1860062768,-76.8827148758,5.0,Howard,Maryland,United States,tree-of-heaven
+52190602,2017-09-17,39.3121194444,-76.1183166667,3408.0,Kent,Maryland,United States,tree-of-heaven
+52271379,2020-07-07,39.442257431,-77.5494356045,33.0,Frederick,Maryland,United States,tree-of-heaven
+52311768,2020-07-07,39.3967006009,-76.3770959271,32.0,Baltimore,Maryland,United States,tree-of-heaven
+52313849,2020-07-05,38.64331167,-77.1075055,10.0,Charles,Maryland,United States,tree-of-heaven
+52374591,2020-07-08,38.4980081807,-77.0281408209,60.0,Charles,Maryland,United States,tree-of-heaven
+52404816,2020-07-07,39.07496667,-76.85730833,5.0,Prince George's,Maryland,United States,tree-of-heaven
+52583399,2020-07-10,39.2309831618,-77.0369649124,18.0,Howard,Maryland,United States,tree-of-heaven
+52667844,2020-07-10,39.1354890462,-76.8299292933,34.0,Howard,Maryland,United States,tree-of-heaven
+52871798,2020-07-12,39.2890591314,-76.5918548126,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+53041552,2020-07-14,39.1086816652,-76.862296273,13.0,Prince George's,Maryland,United States,tree-of-heaven
+53041635,2020-07-14,38.9869357,-76.9160972,33.0,Prince George's,Maryland,United States,tree-of-heaven
+53051212,2020-07-11,39.328992777,-77.7309023961,349.0,Washington,Maryland,United States,tree-of-heaven
+53219534,2020-07-15,39.037728,-76.9026559,98.0,Prince George's,Maryland,United States,tree-of-heaven
+53219552,2020-07-15,39.037728,-76.9026559,98.0,Prince George's,Maryland,United States,tree-of-heaven
+53246355,2020-07-16,39.3430623925,-77.2649929673,10.0,Frederick,Maryland,United States,tree-of-heaven
+53314521,2020-07-16,38.9224119809,-76.4673654122,16.0,Anne Arundel,Maryland,United States,tree-of-heaven
+53315917,2020-07-16,38.5539239901,-76.8371933356,65.0,Charles,Maryland,United States,tree-of-heaven
+53316168,2020-07-16,38.724459582,-77.0203903411,5.0,Prince George's,Maryland,United States,tree-of-heaven
+53366001,2020-07-17,38.9246540051,-76.9054633007,5.0,Prince George's,Maryland,United States,tree-of-heaven
+53377065,2020-07-17,39.3547773145,-76.5054249018,263.0,Baltimore,Maryland,United States,tree-of-heaven
+53394710,2020-07-17,39.4423006669,-77.549848789,29.0,Frederick,Maryland,United States,tree-of-heaven
+53405486,2020-07-17,39.1487495508,-77.1706797928,10.0,Montgomery,Maryland,United States,tree-of-heaven
+53458380,2020-07-18,39.4903571251,-76.6816399992,30.0,Baltimore,Maryland,United States,tree-of-heaven
+53461905,2020-07-18,39.6274953121,-77.4810158316,4.0,Frederick,Maryland,United States,tree-of-heaven
+53513379,2020-07-13,39.0854067,-77.03840652,10.0,Montgomery,Maryland,United States,tree-of-heaven
+53534808,2020-07-18,39.09876491,-77.12676394,3.0,Montgomery,Maryland,United States,tree-of-heaven
+53739129,2020-07-20,39.26144667,-76.64453,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+53855418,2020-07-21,39.3190159284,-76.5684338878,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+53889680,2020-07-21,39.40022,-76.61374667,5.0,Baltimore,Maryland,United States,tree-of-heaven
+53990939,2020-07-22,38.6112857198,-76.6129170529,12.0,Calvert,Maryland,United States,tree-of-heaven
+54163511,2020-06-13,38.9964668765,-77.24796276,15.0,Montgomery,Maryland,United States,tree-of-heaven
+54173957,2020-07-24,39.2739250079,-76.6125370825,24.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+54190874,2020-07-24,39.507654137,-76.5472699609,10.0,Baltimore,Maryland,United States,tree-of-heaven
+54301621,2020-07-25,39.3806899293,-76.847532699,10.0,Baltimore,Maryland,United States,tree-of-heaven
+54466288,2020-07-25,38.6809693135,-75.77445127,8.0,Caroline,Maryland,United States,tree-of-heaven
+54518715,2020-07-27,38.6807640892,-76.6567054825,14.0,Calvert,Maryland,United States,tree-of-heaven
+54566878,2020-07-27,39.649795379,-76.4970139846,65.0,Harford,Maryland,United States,tree-of-heaven
+54578102,2020-07-27,39.3216813737,-76.6246284181,18.0,"Baltimore City, MD",Maryland,United States,
+54752718,2020-07-29,39.6019985886,-76.6402116045,263.0,Baltimore,Maryland,United States,tree-of-heaven
+54755742,2020-07-29,39.271259031,-76.7669868341,24.0,Baltimore,Maryland,United States,tree-of-heaven
+54978902,2020-07-31,39.2733213374,-77.5390841165,1001.0,Frederick,Maryland,United States,tree-of-heaven
+55285300,2020-08-03,38.2509501558,-76.6287754197,5.0,Saint Mary's,Maryland,United States,tree-of-heaven
+55439131,2020-08-04,39.57618581,-77.01422971,10.0,Carroll,Maryland,United States,tree-of-heaven
+55486823,2020-08-05,39.40267578,-77.43016362,10.0,Frederick,Maryland,United States,tree-of-heaven
+55492200,2020-08-05,39.40102838,-77.43132843,6.0,Frederick,Maryland,United States,tree-of-heaven
+55501644,2020-08-05,39.2712117,-77.19937,25.0,Montgomery,Maryland,United States,tree-of-heaven
+55673168,2020-06-27,39.0317678,-77.2447487,194.0,Montgomery,Maryland,United States,tree-of-heaven
+55913585,2020-08-09,39.0211955086,-76.9996101782,10.0,Montgomery,Maryland,United States,tree-of-heaven
+56021303,2020-08-10,39.3331289152,-77.6324095019,10.0,Frederick,Maryland,United States,tree-of-heaven
+56041925,2020-08-09,39.1902064265,-76.8354521934,24.0,Howard,Maryland,United States,tree-of-heaven
+56242915,2020-08-10,38.51263333,-76.51587833,11.0,Calvert,Maryland,United States,tree-of-heaven
+56434386,2020-08-14,39.236355,-76.877495,6.0,Howard,Maryland,United States,tree-of-heaven
+56465537,2020-08-14,39.374661231,-77.4288630435,367.0,Frederick,Maryland,United States,tree-of-heaven
+56477158,2020-08-14,39.3292158113,-76.6386086494,33.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+56524341,2020-08-15,38.6063700496,-77.0331762639,10.0,Charles,Maryland,United States,tree-of-heaven
+56526191,2020-08-15,39.1137458546,-77.240235608,65.0,Montgomery,Maryland,United States,tree-of-heaven
+56627516,2020-08-16,39.53513154,-77.6057182381,86.0,Frederick,Maryland,United States,tree-of-heaven
+56788672,2020-08-17,39.5094004745,-77.5513608857,10.0,Frederick,Maryland,United States,tree-of-heaven
+56794433,2020-08-17,39.3425891083,-76.6376514361,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+56944292,2020-08-19,39.2684013024,-76.4655119554,5.0,Baltimore,Maryland,United States,tree-of-heaven
+57084071,2020-08-20,39.44189292,-76.90240555,9.0,Carroll,Maryland,United States,tree-of-heaven
+57387768,2020-08-23,39.2125584,-76.7259185,19.0,Howard,Maryland,United States,tree-of-heaven
+57722453,2020-08-27,38.9696602096,-76.9799867185,4.0,Prince George's,Maryland,United States,tree-of-heaven
+57868523,2020-08-28,39.1796066371,-77.1304950156,19.0,Montgomery,Maryland,United States,tree-of-heaven
+58297361,2020-07-26,39.46975,-77.494195,9.0,Frederick,Maryland,United States,tree-of-heaven
+58385390,2020-09-02,38.9991406943,-77.1084173506,18.0,Montgomery,Maryland,United States,tree-of-heaven
+58411084,2020-09-03,39.60040911,-76.86106907,8.0,Carroll,Maryland,United States,tree-of-heaven
+58562517,2020-09-04,39.1576268949,-76.6104042654,6.0,Anne Arundel,Maryland,United States,tree-of-heaven
+58673758,2020-09-05,39.0436168859,-77.1395444793,58.0,Montgomery,Maryland,United States,tree-of-heaven
+58779574,2020-09-06,39.71069667,-75.86743,6.0,Cecil,Maryland,United States,tree-of-heaven
+58789953,2020-09-06,39.1102002945,-77.1134171301,5.0,Montgomery,Maryland,United States,tree-of-heaven
+58945785,2020-09-03,39.4220021916,-76.4400192574,395.0,Baltimore,Maryland,United States,tree-of-heaven
+59086923,2020-09-09,39.3375922793,-76.6347584563,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+59413489,2020-09-12,39.0317678,-77.2447487,194.0,Montgomery,Maryland,United States,tree-of-heaven
+59413494,2020-08-30,39.0317678,-77.2447487,194.0,Montgomery,Maryland,United States,tree-of-heaven
+59493768,2020-09-13,39.41257581,-77.11614487,8.0,Carroll,Maryland,United States,tree-of-heaven
+59729469,2020-09-15,39.6644768949,-76.8844775215,1326.0,Carroll,Maryland,United States,tree-of-heaven
+59935197,2020-09-17,39.32384167,-76.64465333,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+60154621,2020-09-19,39.4741913431,-77.7444693892,352.0,Washington,Maryland,United States,tree-of-heaven
+60221685,2020-09-20,39.536220931,-77.6058728352,4.0,Frederick,Maryland,United States,tree-of-heaven
+60242140,2020-09-20,39.41139675,-77.10735144,9.0,Carroll,Maryland,United States,tree-of-heaven
+60311049,2020-09-20,39.4095716178,-77.4080867127,25.0,Frederick,Maryland,United States,tree-of-heaven
+60515371,2020-09-22,38.9876488,-76.9220875,394.0,Prince George's,Maryland,United States,tree-of-heaven
+60710147,2020-09-25,39.5465093,-77.6086817,2200.0,Washington,Maryland,United States,tree-of-heaven
+61029963,2020-09-27,39.340246685,-77.7312146605,81.0,Washington,Maryland,United States,tree-of-heaven
+61083963,2020-09-27,38.81450646,-76.60342746,9.0,Anne Arundel,Maryland,United States,tree-of-heaven
+61383086,2020-10-01,39.6862946387,-78.8085907007,48.0,Allegany,Maryland,United States,tree-of-heaven
+61668087,2020-10-04,39.3415596503,-76.6255480965,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+61668782,2020-10-04,39.3248841533,-76.6312304479,32.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+61741498,2020-10-04,39.0416001754,-77.1497526261,102.0,Montgomery,Maryland,United States,tree-of-heaven
+61827095,2020-10-04,39.3380067124,-77.7538172321,31.0,Washington,Maryland,United States,tree-of-heaven
+61980971,2020-10-07,39.16203766,-76.8457608,7.0,Howard,Maryland,United States,tree-of-heaven
+62248850,2020-10-10,39.3415627797,-76.4519798956,357.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+62441501,2020-09-30,38.1840216667,-76.433945,9.0,Saint Mary's,Maryland,United States,tree-of-heaven
+62804828,2020-10-17,38.9868652,-76.9162406,21.0,Prince George's,Maryland,United States,tree-of-heaven
+62986644,2020-10-18,39.0317677791,-77.2447489947,194.0,Montgomery,Maryland,United States,tree-of-heaven
+63006609,2020-10-19,39.0752445,-76.85737,5.0,Prince George's,Maryland,United States,tree-of-heaven
+63222792,2020-10-17,38.9967333333,-77.0089111167,65.0,Montgomery,Maryland,United States,tree-of-heaven
+63342234,2020-10-23,39.5097702379,-76.5595739261,66.0,Baltimore,Maryland,United States,
+63829516,2020-10-30,39.49457922,-76.68546521,8.0,Baltimore,Maryland,United States,tree-of-heaven
+63972846,2020-10-17,39.291679499,-76.7261016369,6.0,Baltimore,Maryland,United States,tree-of-heaven
+64394540,2020-11-07,39.0392872649,-77.1430970354,41.0,Montgomery,Maryland,United States,tree-of-heaven
+64763548,2020-11-12,39.63287,-78.7633533333,13.0,Allegany,Maryland,United States,tree-of-heaven
+64854646,2020-11-13,38.9857180138,-77.2389432695,10.0,Montgomery,Maryland,United States,tree-of-heaven
+65026120,2020-11-02,39.4725027,-76.741092,201.0,Baltimore,Maryland,United States,Tree-of-Heaven
+66425200,2020-12-11,39.2408084544,-76.8559236546,5.0,Howard,Maryland,United States,tree-of-heaven
+67600898,2021-01-04,39.6005650245,-76.6564315171,4.0,Baltimore,Maryland,United States,tree-of-heaven
+67933611,2021-01-11,39.4920530103,-76.6091958033,15.0,Baltimore,Maryland,United States,tree-of-heaven
+68113331,2021-01-15,39.2641714169,-76.7828601972,5.0,Baltimore,Maryland,United States,tree-of-heaven
+68477124,2021-01-22,38.7826,-76.8058466667,4.0,Prince George's,Maryland,United States,tree-of-heaven
+68666299,2021-01-25,39.6406089911,-76.7526430695,15.0,Baltimore,Maryland,United States,tree-of-heaven
+72609707,2021-04-01,38.7696633845,-76.6906374693,7.0,Anne Arundel,Maryland,United States,tree-of-heaven
+73165497,2021-04-03,39.3834324393,-77.1641954317,348.0,Frederick,Maryland,United States,Tree-of-Heaven
+73350260,2021-04-06,39.2885972222,-76.5678722222,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+73549838,2021-04-10,39.2877527778,-76.56575,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+73617276,2021-04-11,38.9852592303,-76.5372735356,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+73648466,2021-04-11,39.2870138889,-76.5611333333,7.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+73648480,2021-04-11,39.2870222222,-76.560425,15.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+73899782,2021-04-13,38.9441179782,-76.9601417056,29.0,Prince George's,Maryland,United States,tree-of-heaven
+73980633,2020-06-03,39.2876972222,-76.5661388889,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+73991501,2021-04-14,39.2852972222,-76.564025,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+73991505,2021-04-14,39.2851555556,-76.5641111111,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+74048334,2021-04-15,39.2510984,-76.47353028,9.0,Baltimore,Maryland,United States,tree-of-heaven
+74258654,2021-04-17,38.9959602384,-76.8901890424,179.0,Prince George's,Maryland,United States,tree-of-heaven
+74261064,2021-04-17,38.9776649475,-76.9097137451,5.0,Prince George's,Maryland,United States,tree-of-heaven
+74436531,2021-04-17,39.2849777778,-76.5836027778,21.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+74436561,2021-04-17,39.2850638889,-76.5792611111,11.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+74987144,2021-04-23,39.04253438,-77.10503406,8.0,Montgomery,Maryland,United States,tree-of-heaven
+75329428,2021-04-26,38.3769616667,-76.9618133333,5.0,Charles,Maryland,United States,tree-of-heaven
+75663438,2021-04-29,39.1418576986,-76.8610744179,10.0,Howard,Maryland,United States,tree-of-heaven
+75799975,2021-04-30,38.5017258518,-77.0220748811,6.0,Charles,Maryland,United States,tree-of-heaven
+75867631,2021-04-30,39.4185369975,-76.7319151158,23.0,Baltimore,Maryland,United States,tree-of-heaven
+75914659,2021-04-30,39.4030474551,-76.5775669366,8.0,Baltimore,Maryland,United States,tree-of-heaven
+75946779,2021-04-30,39.1169611667,-76.5477966667,12.0,Anne Arundel,Maryland,United States,tree-of-heaven
+75950930,2021-04-30,38.945575,-77.1238861667,17.0,Montgomery,Maryland,United States,tree-of-heaven
+75973304,2021-04-30,38.6161349772,-77.1211009008,662.0,Charles,Maryland,United States,tree-of-heaven
+75991197,2021-04-30,39.3103472222,-76.6295388889,25.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+76013563,2021-04-30,39.00461945,-77.2457366667,6.0,Montgomery,Maryland,United States,tree-of-heaven
+76122678,2021-04-30,38.5930533333,-76.6306216667,4.0,Calvert,Maryland,United States,tree-of-heaven
+76238922,2021-05-01,38.99917,-76.6729883333,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+76317397,2021-05-01,38.4858935683,-76.5827574254,65.0,Calvert,Maryland,United States,tree-of-heaven
+76342983,2021-05-01,39.4184068941,-77.1165220109,7.0,Carroll,Maryland,United States,tree-of-heaven
+76392135,2021-04-30,39.2639416667,-76.5841366667,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+76399863,2021-05-01,38.94686,-76.699162,190.0,Prince George's,Maryland,United States,Tree-of-Heaven
+76529968,2021-05-02,38.53684596,-76.70407928,3.0,Charles,Maryland,United States,tree-of-heaven
+76547399,2021-05-01,39.4185783627,-77.2072750118,55.0,Frederick,Maryland,United States,tree-of-heaven
+76654518,2021-05-02,39.3314744546,-77.1520861758,165.0,Howard,Maryland,United States,tree-of-heaven
+76672613,2021-05-02,39.22114608,-76.42980085,8.0,Baltimore,Maryland,United States,tree-of-heaven
+76689517,2021-05-02,39.293474306,-76.5867095813,37.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+76694276,2021-05-02,39.0221638889,-76.9065083333,5.0,Prince George's,Maryland,United States,tree-of-heaven
+76703664,2021-05-01,39.0430221667,-77.1391833333,4.0,Montgomery,Maryland,United States,tree-of-heaven
+76705148,2021-05-02,39.2934167026,-76.5869684145,24.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+76750158,2021-05-02,38.9456081726,-77.124238246,9.0,Montgomery,Maryland,United States,tree-of-heaven
+76751206,2021-05-02,38.9455755069,-77.1242305696,8.0,Montgomery,Maryland,United States,tree-of-heaven
+76834698,2021-04-30,38.4452327457,-76.4724579729,9.0,Calvert,Maryland,United States,tree-of-heaven
+76840961,2021-05-01,38.6500998346,-76.816592742,44.0,Prince George's,Maryland,United States,tree-of-heaven
+76977080,2021-05-02,39.3098275819,-76.6867563128,212.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+77013106,2021-05-03,39.2055918463,-76.4265612514,5.0,Baltimore,Maryland,United States,tree-of-heaven
+77037304,2021-05-03,38.9354106943,-76.9387947064,426.0,Prince George's,Maryland,United States,tree-of-heaven
+77069192,2021-05-03,38.96509256,-76.50309801,12.0,Anne Arundel,Maryland,United States,tree-of-heaven
+77070655,2021-05-03,39.4081,-77.4175416667,5.0,Frederick,Maryland,United States,tree-of-heaven
+77109412,2021-05-03,39.3967333333,-76.7993783333,65.0,Baltimore,Maryland,United States,tree-of-heaven
+77115334,2021-05-03,39.4762116667,-76.2852083333,5.0,Harford,Maryland,United States,tree-of-heaven
+77784953,2021-03-10,39.586585681,-77.4370192084,9.0,Frederick,Maryland,United States,tree-of-heaven
+77794978,2021-05-01,39.3238200752,-76.644595988,31.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+77841520,2021-04-30,38.6162019428,-77.1211012303,960.0,Charles,Maryland,United States,tree-of-heaven
+78260616,2021-05-01,39.2944033333,-76.587595,13.0,"Baltimore City, MD",Maryland,United States,Айлант высочайший
+78335429,2021-05-11,38.9380149841,-76.9307479858,5.0,Prince George's,Maryland,United States,tree-of-heaven
+78411400,2021-05-11,39.4029813928,-76.5788704902,9.0,Baltimore,Maryland,United States,tree-of-heaven
+78715909,2021-05-14,39.06196955,-76.95159858,6.0,Montgomery,Maryland,United States,tree-of-heaven
+78736411,2021-05-14,39.1038032266,-76.5917054885,7.0,Anne Arundel,Maryland,United States,tree-of-heaven
+79004021,2021-05-16,39.4000583333,-76.614975,5.0,Baltimore,Maryland,United States,tree-of-heaven
+79149625,2021-05-17,39.2629104299,-76.6312109811,16.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+79212673,2021-05-17,39.284942627,-76.6514053345,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+79382291,2021-05-19,39.3287650737,-76.6375937685,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+79416822,2021-05-19,39.3194977616,-76.4827333587,12.0,Baltimore,Maryland,United States,tree-of-heaven
+79640442,2021-05-21,39.3583116667,-76.5974416667,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+79955078,2021-05-22,39.44893909,-78.96221235,5.0,Allegany,Maryland,United States,tree-of-heaven
+80237607,2021-05-25,39.6469533333,-78.762825,5.0,Allegany,Maryland,United States,tree-of-heaven
+80239580,2021-05-25,39.1198891426,-77.1998878088,6.0,Montgomery,Maryland,United States,tree-of-heaven
+80272943,2021-05-25,38.6968583333,-76.9614033333,17.0,Prince George's,Maryland,United States,tree-of-heaven
+80287028,2021-05-25,38.9780897492,-76.7701429729,15.0,Anne Arundel,Maryland,United States,tree-of-heaven
+80364306,2021-05-26,38.93797,-76.9335466667,4.0,Prince George's,Maryland,United States,tree-of-heaven
+80546215,2021-05-27,38.6224883333,-77.1148305,65.0,Charles,Maryland,United States,tree-of-heaven
+80674573,2021-05-28,39.288005,-76.5648883333,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+80677997,2021-05-25,39.4532166667,-77.4734416667,8.0,Frederick,Maryland,United States,tree-of-heaven
+80905118,2021-05-30,39.2660716667,-76.5354916667,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+80914982,2021-05-30,39.26432,-76.5305166667,13.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+80915745,2021-05-30,39.264205,-76.5299216667,30.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+80932813,2021-05-30,39.4980832849,-77.676852867,216.0,Washington,Maryland,United States,tree-of-heaven
+80962938,2021-05-30,39.2877166667,-76.5662216667,13.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+81175167,2021-06-01,39.3317850866,-76.6083161999,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+81240633,2021-06-01,39.1540833426,-76.6791,20.0,Anne Arundel,Maryland,United States,tree-of-heaven
+81246771,2021-06-01,38.9256771849,-76.6356357482,24.0,Anne Arundel,Maryland,United States,tree-of-heaven
+81371063,2021-06-02,39.2396666667,-76.6069716667,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+81419405,2021-06-03,39.0295369874,-77.1475238403,4.0,Montgomery,Maryland,United States,tree-of-heaven
+81630342,2021-06-04,39.28368,-76.55378,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+81631154,2021-06-04,39.284155,-76.5532216667,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+81730111,2021-06-05,38.9352348587,-76.6811887176,3.0,Anne Arundel,Maryland,United States,tree-of-heaven
+81848935,2021-06-06,39.5812683105,-77.4339981079,16.0,Frederick,Maryland,United States,tree-of-heaven
+81852634,2021-06-06,39.2935833333,-76.6109383333,13.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+81853312,2021-06-05,39.2877616667,-76.5651033333,23.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+81878611,2021-06-06,39.2870166667,-76.57058,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+81935766,2021-06-05,39.293225,-77.2234633333,5.0,Montgomery,Maryland,United States,tree-of-heaven
+82048914,2017-05-19,39.2528476,-76.7348835,213.0,Baltimore,Maryland,United States,tree-of-heaven
+82049093,2017-05-27,39.4353773,-77.7983275,185.0,Washington,Maryland,United States,tree-of-heaven
+82049212,2017-05-28,39.602849,-77.808458,68.0,Washington,Maryland,United States,tree-of-heaven
+82049494,2017-05-28,39.6311430949,-77.8358888735,189.0,Washington,Maryland,United States,tree-of-heaven
+82050091,2017-09-17,39.446483,-78.972249,189.0,Allegany,Maryland,United States,tree-of-heaven
+82055933,2011-06-18,39.0892499568,-76.8074362391,1221.0,Anne Arundel,Maryland,United States,tree-of-heaven
+82056272,2018-05-21,39.083013411,-76.7554412343,238.0,Anne Arundel,Maryland,United States,tree-of-heaven
+82164452,2021-06-08,39.1639065,-77.51980287,7.0,Montgomery,Maryland,United States,tree-of-heaven
+82215125,2021-06-08,39.4093239074,-76.5939564149,65.0,Baltimore,Maryland,United States,
+82317082,2021-06-09,38.9643965,-77.1009807,23.0,Montgomery,Maryland,United States,tree-of-heaven
+82345092,2021-06-09,39.4093727688,-76.595067597,65.0,Baltimore,Maryland,United States,tree-of-heaven
+82345169,2021-06-09,39.4091516454,-76.5952266008,6.0,Baltimore,Maryland,United States,tree-of-heaven
+82352769,2021-06-09,39.4091629025,-76.5899068878,65.0,Baltimore,Maryland,United States,tree-of-heaven
+82618400,2021-06-11,39.291605,-76.5700833333,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+82618834,2021-06-11,39.2915466667,-76.57052,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+82625112,2021-06-11,39.2897916667,-76.56582,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+82626041,2021-06-11,39.2885166667,-76.5649866667,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+82704116,2021-06-12,39.4101548785,-76.600639765,65.0,Baltimore,Maryland,United States,
+82705486,2021-06-12,39.4103794685,-76.5977195465,8.0,Baltimore,Maryland,United States,tree-of-heaven
+82716929,2021-06-12,38.838195,-76.2807466667,5.0,Talbot,Maryland,United States,tree-of-heaven
+82720223,2021-06-12,39.1320193485,-77.1002054645,9.0,Montgomery,Maryland,United States,tree-of-heaven
+82720475,2021-06-12,39.09640004,-77.16708895,9.0,Montgomery,Maryland,United States,tree-of-heaven
+82846757,2021-06-13,39.2963468108,-77.2130671998,6.0,Montgomery,Maryland,United States,tree-of-heaven
+83128381,2021-06-14,39.3925783333,-76.6395333333,5.0,Baltimore,Maryland,United States,tree-of-heaven
+83192784,2021-06-15,39.28773,-76.565055,38.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83273984,2021-06-16,39.3938166667,-76.6371916667,5.0,Baltimore,Maryland,United States,tree-of-heaven
+83298313,2021-06-16,39.1853730284,-76.640663304,22.0,Anne Arundel,Maryland,United States,tree-of-heaven
+83299804,2021-06-16,39.2854383333,-76.548225,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83330623,2021-06-16,39.276725,-76.5723333333,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83334780,2021-06-16,39.2766633333,-76.572005,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83575740,2021-06-18,38.6220783333,-77.1163721667,55.0,Charles,Maryland,United States,tree-of-heaven
+83653354,2021-06-19,39.4781822969,-77.0392009499,8.0,Carroll,Maryland,United States,tree-of-heaven
+83822681,2021-06-20,39.2886116667,-76.565605,22.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83824296,2021-06-19,39.0954666667,-77.1243221667,172.0,Montgomery,Maryland,United States,tree-of-heaven
+83859922,2021-06-20,39.2878083333,-76.568145,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83863080,2021-06-20,39.2930333333,-76.57698,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83865194,2021-06-20,39.2927583333,-76.5781033333,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83865367,2021-06-20,39.292555,-76.5780716667,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+83950984,2021-06-21,38.9373637364,-76.5039778502,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+84054083,2021-06-22,39.287845,-76.5679083333,29.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+84203471,2021-06-23,38.9223954938,-76.4675266538,11.0,Anne Arundel,Maryland,United States,tree-of-heaven
+84290079,2021-06-24,39.3170504971,-76.6988422629,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+84359116,2021-06-24,39.3127702176,-76.7381371361,9.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+84474469,2021-06-25,39.0294895507,-77.0034596122,9.0,Montgomery,Maryland,United States,tree-of-heaven
+84751961,2021-06-27,38.39658,-75.5740583333,49.0,Wicomico,Maryland,United States,tree-of-heaven
+84857574,2021-06-28,39.4088009047,-76.5856800322,30.0,Baltimore,Maryland,United States,tree-of-heaven
+84924341,2021-06-25,39.0293583333,-77.0034583333,203.0,Montgomery,Maryland,United States,tree-of-heaven
+85084527,2021-06-30,38.9890606591,-77.0095292909,19.0,Montgomery,Maryland,United States,tree-of-heaven
+85204373,2021-07-01,39.3852545,-76.70421495,2898.0,Baltimore,Maryland,United States,tree-of-heaven
+85332347,2021-07-02,38.8864974013,-76.5465788582,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+85346610,2021-07-02,39.5141916667,-75.9825716667,16.0,Cecil,Maryland,United States,tree-of-heaven
+85775131,2021-07-05,39.6490235796,-78.7700395845,4.0,Allegany,Maryland,United States,tree-of-heaven
+85818570,2021-07-05,39.4865522,-76.6920699,1249.0,Baltimore,Maryland,United States,tree-of-heaven
+85832323,2021-07-05,39.3851356506,-77.4255599976,6.0,Frederick,Maryland,United States,tree-of-heaven
+85970308,2021-07-06,39.41773231,-76.6285312304,10.0,Baltimore,Maryland,United States,tree-of-heaven
+86081343,2021-07-07,39.2000007629,-76.5599975586,90.0,Anne Arundel,Maryland,United States,tree-of-heaven
+86289939,2021-07-09,38.99110814,-76.32801132,5.0,Queen Anne's,Maryland,United States,tree-of-heaven
+86290611,2021-07-08,39.4641633333,-75.7740466667,4.0,Cecil,Maryland,United States,tree-of-heaven
+86290633,2021-07-08,39.4641116667,-75.7741083333,4.0,Cecil,Maryland,United States,tree-of-heaven
+86589732,2021-07-11,38.996091277,-76.9336884097,31.0,Prince George's,Maryland,United States,tree-of-heaven
+86801738,2021-07-10,39.0846904869,-77.3976426199,187.0,Montgomery,Maryland,United States,tree-of-heaven
+86857620,2021-07-13,39.3690105922,-77.3860942935,9.0,Frederick,Maryland,United States,tree-of-heaven
+86859830,2021-07-13,39.66577822,-78.91588816,7.0,Allegany,Maryland,United States,tree-of-heaven
+86899407,2021-07-13,38.9737521989,-77.1669682258,9.0,Montgomery,Maryland,United States,tree-of-heaven
+87175645,2021-07-15,39.3669264938,-76.6067407708,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+87234849,2021-07-15,39.464175,-75.7740633333,4.0,Cecil,Maryland,United States,tree-of-heaven
+87338333,2021-07-16,39.6778677452,-78.8080253634,6.0,Allegany,Maryland,United States,tree-of-heaven
+87532462,2021-07-18,39.4532666667,-77.4741366667,39.0,Frederick,Maryland,United States,tree-of-heaven
+87588674,2021-07-18,39.6191462538,-77.5174752143,75.0,Frederick,Maryland,United States,tree-of-heaven
+87616657,2021-07-17,39.2453888672,-76.5963791588,296.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+87686936,2021-07-18,39.0973805,-77.1278388333,7.0,Montgomery,Maryland,United States,tree-of-heaven
+87735896,2021-07-19,39.6336116667,-77.732475,4.0,Washington,Maryland,United States,tree-of-heaven
+87757983,2021-07-19,39.6364747367,-77.7312821502,332.0,Washington,Maryland,United States,tree-of-heaven
+87771951,2021-07-19,39.3080866667,-76.8175666667,4.0,Howard,Maryland,United States,tree-of-heaven
+87878140,2021-07-13,39.7161674082,-78.2808351542,40.0,Washington,Maryland,United States,tree-of-heaven
+87880807,2021-07-13,39.3798623038,-77.2787340085,68.0,Frederick,Maryland,United States,tree-of-heaven
+87882924,2021-07-13,39.6362069121,-78.8328400201,82.0,Allegany,Maryland,United States,tree-of-heaven
+87894892,2021-07-20,39.71455797,-78.32207491,9.0,Washington,Maryland,United States,tree-of-heaven
+87986153,2021-07-21,39.0228614118,-76.0649571475,3.0,Queen Anne's,Maryland,United States,tree-of-heaven
+87988029,2021-07-21,39.412754816,-76.5936947242,5.0,Baltimore,Maryland,United States,tree-of-heaven
+88043268,2021-07-21,39.5387466667,-77.7105166667,5.0,Washington,Maryland,United States,tree-of-heaven
+88131468,2021-07-22,39.509725,-77.5596166667,116.0,Frederick,Maryland,United States,tree-of-heaven
+88147772,2021-07-22,39.5033683777,-76.1632919312,65.0,Harford,Maryland,United States,tree-of-heaven
+88170773,2021-07-22,39.2152331491,-76.8555751314,21.0,Howard,Maryland,United States,tree-of-heaven
+88173160,2021-07-21,38.9894916667,-76.99778,16.0,Montgomery,Maryland,United States,tree-of-heaven
+88264727,2021-07-23,39.0566472993,-76.5033591802,319.0,Anne Arundel,Maryland,United States,tree-of-heaven
+88406394,2021-07-24,39.6296619574,-76.5062739138,131.0,Harford,Maryland,United States,tree-of-heaven
+88597878,2021-07-25,38.4662215053,-77.0297560927,31.0,Charles,Maryland,United States,tree-of-heaven
+88718191,2021-07-26,39.5365866667,-77.6196366667,7.0,Washington,Maryland,United States,tree-of-heaven
+88860160,2021-07-27,39.2311166667,-77.026,4.0,Howard,Maryland,United States,tree-of-heaven
+88973979,2021-07-28,39.3897781372,-76.7469329834,65.0,Baltimore,Maryland,United States,tree-of-heaven
+88981307,2021-07-28,39.5268135071,-75.8915328979,13.0,Cecil,Maryland,United States,tree-of-heaven
+89072179,2021-07-29,39.0756568909,-77.4223556519,15.0,Montgomery,Maryland,United States,tree-of-heaven
+89191860,2021-07-29,39.6211391399,-77.7340884524,91.0,Washington,Maryland,United States,tree-of-heaven
+89191918,2021-07-29,39.619590008,-77.7347141392,198.0,Washington,Maryland,United States,tree-of-heaven
+89191956,2021-07-29,39.619590008,-77.7347141392,198.0,Washington,Maryland,United States,tree-of-heaven
+89257333,2021-07-30,38.8796884282,-76.9040438777,190.0,Prince George's,Maryland,United States,tree-of-heaven
+89395070,2021-07-31,39.2883550468,-77.1619429661,175.0,Montgomery,Maryland,United States,tree-of-heaven
+89482464,2021-07-31,39.575324691,-75.823266501,4.0,Cecil,Maryland,United States,tree-of-heaven
+89659448,2021-08-02,38.9508837,-76.5128732,1600.0,Anne Arundel,Maryland,United States,tree-of-heaven
+89698420,2021-08-02,39.0087969217,-76.8897357824,9.0,Howard,Maryland,United States,tree-of-heaven
+89815521,2021-07-30,39.4735490915,-77.4375416148,1282.0,Frederick,Maryland,United States,tree-of-heaven
+89841988,2021-08-03,39.3100434798,-77.6271013063,8.0,Frederick,Maryland,United States,tree-of-heaven
+89930943,2021-08-04,38.9323990934,-76.938657695,16.0,Prince George's,Maryland,United States,tree-of-heaven
+89964879,2021-08-04,38.9753723145,-77.0091781616,65.0,Montgomery,Maryland,United States,tree-of-heaven
+89975338,2021-08-04,39.4909117081,-77.6946318227,73.0,Washington,Maryland,United States,tree-of-heaven
+90055975,2021-08-05,39.4907833333,-77.7653583333,27.0,Washington,Maryland,United States,tree-of-heaven
+90181175,2021-08-06,38.2096906159,-76.7449489855,3071.0,Saint Mary's,Maryland,United States,tree-of-heaven
+90187813,2021-08-05,38.7907048341,-76.9877815389,86.0,Prince George's,Maryland,United States,tree-of-heaven
+90324906,2021-08-07,39.103286386,-76.5823534157,23.0,Anne Arundel,Maryland,United States,tree-of-heaven
+90395909,2021-08-08,39.0313102445,-77.0693262388,3.0,Montgomery,Maryland,United States,tree-of-heaven
+90524375,2021-08-09,38.3989050593,-75.5735813229,6.0,Wicomico,Maryland,United States,tree-of-heaven
+90538376,2021-08-07,39.6517302527,-78.2410206838,152.0,Washington,Maryland,United States,tree-of-heaven
+90547512,2021-08-09,39.5737416667,-77.6462166667,65.0,Washington,Maryland,United States,tree-of-heaven
+90554945,2021-08-09,39.411191158,-76.637250371,4.0,Baltimore,Maryland,United States,tree-of-heaven
+90742599,2021-08-10,39.4641583333,-75.7741466667,4.0,Cecil,Maryland,United States,tree-of-heaven
+90742612,2021-08-10,39.4641616667,-75.7740866667,4.0,Cecil,Maryland,United States,tree-of-heaven
+90742630,2021-08-10,39.464195,-75.7740783333,4.0,Cecil,Maryland,United States,Айлант высочайший
+90882921,2021-08-11,39.0252541875,-77.0216813828,229.0,Montgomery,Maryland,United States,tree-of-heaven
+91111982,2021-08-14,39.3496389594,-77.3909957708,5.0,Frederick,Maryland,United States,tree-of-heaven
+91124058,2021-08-14,38.571951231,-76.7718268466,5.0,Charles,Maryland,United States,tree-of-heaven
+91537756,2021-08-17,39.40450528,-76.35299105,7.0,Harford,Maryland,United States,tree-of-heaven
+91791811,2021-08-19,39.58315,-77.651925,4.0,Washington,Maryland,United States,tree-of-heaven
+92010368,2021-08-21,39.4323196411,-76.6487426758,65.0,Baltimore,Maryland,United States,tree-of-heaven
+92149744,2021-08-14,39.5005402094,-77.6231783699,43.0,Washington,Maryland,United States,tree-of-heaven
+92300889,2021-08-23,39.4590190656,-77.3925872408,65.0,Frederick,Maryland,United States,tree-of-heaven
+92316563,2021-08-23,39.5015494159,-76.6236447707,43.0,Baltimore,Maryland,United States,tree-of-heaven
+92351644,2021-08-23,39.2878133333,-76.5651333333,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+92945378,2021-08-29,38.9246221539,-76.905499762,8.0,Prince George's,Maryland,United States,tree-of-heaven
+93029386,2021-08-30,39.3330039978,-76.6270675659,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+93064167,2021-08-30,39.0552669227,-77.2526629216,8.0,Montgomery,Maryland,United States,tree-of-heaven
+93187112,2021-08-31,39.2555383333,-76.5270166667,37.0,Baltimore,Maryland,United States,tree-of-heaven
+93217069,2021-08-31,39.2239238,-77.4521324,255.0,Frederick,Maryland,United States,tree-of-heaven
+93411015,2021-09-02,39.5683153146,-76.8567144634,189.0,Baltimore,Maryland,United States,tree-of-heaven
+93520086,2021-09-03,39.1897244971,-76.839219809,966.0,Howard,Maryland,United States,tree-of-heaven
+93638586,2021-09-04,39.0915145874,-77.1188659668,65.0,Montgomery,Maryland,United States,tree-of-heaven
+93882475,2021-09-06,39.3060387466,-77.5834242368,13.0,Frederick,Maryland,United States,tree-of-heaven
+93910737,2021-09-06,39.0797462463,-77.3402481079,288.0,Montgomery,Maryland,United States,tree-of-heaven
+93913940,2021-09-06,38.705745697,-76.5315933228,13.0,Calvert,Maryland,United States,tree-of-heaven
+94164463,2021-09-08,39.5499216667,-77.00186945,4.0,Carroll,Maryland,United States,tree-of-heaven
+94263345,2021-09-09,38.6387825012,-76.6683349609,4.0,Calvert,Maryland,United States,tree-of-heaven
+94263876,2021-09-09,39.3036216667,-76.6106333333,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+94603898,2021-09-12,39.2549117387,-76.6221234049,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+94611283,2021-09-12,39.6497125179,-76.9898576663,5.0,Carroll,Maryland,United States,tree-of-heaven
+94728431,2021-09-13,38.9336461702,-76.937443614,14.0,Prince George's,Maryland,United States,tree-of-heaven
+94855774,2021-09-14,38.970874059,-76.7553142458,189.0,Prince George's,Maryland,United States,tree-of-heaven
+95448956,2021-09-19,38.9876488,-76.9220875,495.0,Prince George's,Maryland,United States,tree-of-heaven
+95562826,2021-09-20,39.181836362,-77.1728179452,16.0,Montgomery,Maryland,United States,tree-of-heaven
+95655721,2021-09-11,39.5102136267,-77.0294447163,9.0,Carroll,Maryland,United States,tree-of-heaven
+95880331,2021-09-21,39.0309146606,-77.0059553628,9.0,Montgomery,Maryland,United States,tree-of-heaven
+95887151,2021-09-23,39.3826980591,-77.6416854858,35.0,Frederick,Maryland,United States,tree-of-heaven
+95913902,2021-09-12,39.7440817664,-78.7026102701,4.0,Allegany,Maryland,United States,tree-of-heaven
+96245809,2021-09-26,38.9042597672,-76.9072988686,5.0,Prince George's,Maryland,United States,tree-of-heaven
+96402951,2021-09-27,39.3629150391,-77.0303573608,65.0,Carroll,Maryland,United States,tree-of-heaven
+96475498,2021-09-28,39.0445251465,-76.2337112427,6.0,Kent,Maryland,United States,tree-of-heaven
+96792727,2021-10-01,39.4447958563,-77.1230748576,5.0,Carroll,Maryland,United States,tree-of-heaven
+97518766,2021-10-04,39.4914142378,-76.8816832785,193.0,Baltimore,Maryland,United States,tree-of-heaven
+97561905,2021-10-08,38.9613722734,-77.1111644039,9.0,Montgomery,Maryland,United States,tree-of-heaven
+97579255,2021-10-08,39.0472816897,-76.6396586375,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+97726562,2021-10-09,39.5786437935,-76.0144373235,17.0,Harford,Maryland,United States,tree-of-heaven
+97808803,2021-10-10,39.1442721969,-77.0612826857,7.0,Montgomery,Maryland,United States,tree-of-heaven
+97846523,2021-10-04,38.5576622022,-76.5955080092,2.0,Calvert,Maryland,United States,tree-of-heaven
+98181840,2021-10-12,38.9925333333,-77.01465555,10.0,Montgomery,Maryland,United States,tree-of-heaven
+98290709,2021-10-15,39.6280753834,-77.6720862871,4.0,Washington,Maryland,United States,
+98401071,2021-10-16,38.9995688685,-76.9418386904,134.0,Prince George's,Maryland,United States,tree-of-heaven
+98557083,2021-10-09,39.2666079006,-76.6165034258,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+98746281,2018-07-29,38.707848175,-76.6921057052,42.0,Calvert,Maryland,United States,tree-of-heaven
+98781399,2018-07-31,38.4058996243,-76.6704607804,169.0,Saint Mary's,Maryland,United States,tree-of-heaven
+98863551,2016-08-19,39.3766972222,-76.7273333333,10.0,Baltimore,Maryland,United States,tree-of-heaven
+99101722,2021-07-12,39.6103583333,-78.8000722222,104.0,Allegany,Maryland,United States,tree-of-heaven
+99238447,2021-10-24,38.9368515015,-76.5559387207,65.0,Anne Arundel,Maryland,United States,tree-of-heaven
+99274344,2021-10-11,39.2094221234,-76.5335489378,122.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+99343819,2021-10-25,39.2829827406,-76.5919023352,8.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+100024006,2021-11-01,39.6703833333,-76.7653583333,30.0,Baltimore,Maryland,United States,tree-of-heaven
+100327007,2021-10-23,39.6228225456,-78.2871311713,15.0,Washington,Maryland,United States,tree-of-heaven
+100485087,2021-11-06,39.6454083333,-76.7266,10.0,Baltimore,Maryland,United States,tree-of-heaven
+100531197,2021-11-07,39.6804616667,-76.76255,10.0,Baltimore,Maryland,United States,tree-of-heaven
+101110065,2021-11-14,39.32554245,-76.6105422974,98.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+101588730,2021-11-19,38.4669833333,-77.0302416667,6.0,Charles,Maryland,United States,tree-of-heaven
+102168589,2021-11-27,39.4646792961,-76.5727517921,60.0,Baltimore,Maryland,United States,tree-of-heaven
+102666855,2021-07-22,39.5986364986,-77.763715707,220.0,Washington,Maryland,United States,Götterbaum
+104054171,2021-12-31,38.4932366667,-76.5905833333,25.0,Calvert,Maryland,United States,tree-of-heaven
+104243678,2022-01-02,39.5399481357,-77.7456073044,4.0,Washington,Maryland,United States,tree-of-heaven
+105244533,2022-01-19,39.5723598195,-78.8932430747,39.0,Allegany,Maryland,United States,Götterbaum
+105245857,2022-01-19,39.4106917069,-78.9935519877,60.0,Allegany,Maryland,United States,tree-of-heaven
+105583169,2022-01-25,39.6480829045,-77.2336831341,45.0,Frederick,Maryland,United States,Tree-of-Heaven
+105906768,2022-01-27,39.600918023,-77.7237373777,7.0,Washington,Maryland,United States,Árbol del cielo
+106145328,2022-02-04,39.6421177377,-78.695056816,38.0,Allegany,Maryland,United States,tree-of-heaven
+106221940,2016-10-20,39.6148148579,-77.9487289102,95.0,Washington,Maryland,United States,tree-of-heaven
+106280233,2016-10-20,39.5974347268,-77.8284374426,135.0,Washington,Maryland,United States,tree-of-heaven
+106317828,2022-02-06,39.2355222222,-76.0066,5.0,Queen Anne's,Maryland,United States,tree-of-heaven
+106425772,2016-08-26,39.4275070664,-77.0442455735,103.0,Carroll,Maryland,United States,tree-of-heaven
+106463602,2022-02-09,39.747075065,-78.2566496648,42.0,Allegany,Maryland,United States,tree-of-heaven
+106517355,2016-07-05,39.3361143197,-77.7524402999,20.0,Washington,Maryland,United States,tree-of-heaven
+106645123,2022-02-12,38.6803866667,-75.77475,3.0,Caroline,Maryland,United States,Götterbaum
+106956777,2022-02-17,39.7618273444,-78.9770548966,14.0,Allegany,Maryland,United States,tree-of-heaven
+106993858,2022-02-14,39.6426144963,-76.7712857021,8.0,Baltimore,Maryland,United States,tree-of-heaven
+107006029,2022-02-18,39.6171603093,-78.602651898,45.0,Allegany,Maryland,United States,Götterbaum
+108580001,2022-03-13,39.1899633333,-75.934555,5.0,Queen Anne's,Maryland,United States,tree-of-heaven
+109503315,2022-03-25,39.6653361745,-78.9372926015,68.0,Allegany,Maryland,United States,tree-of-heaven
+109541298,2022-03-26,39.6187783266,-76.1582959917,4.0,Harford,Maryland,United States,tree-of-heaven
+110241108,2022-04-02,39.7188525609,-78.2811136544,9.0,Washington,Maryland,United States,tree-of-heaven
+110312241,2022-04-03,39.5866295603,-77.4370135088,4.0,Frederick,Maryland,United States,tree-of-heaven
+111637879,2022-04-16,39.2839083333,-76.5538116667,14.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+112866679,2022-04-25,39.1555131181,-76.8909732532,10.0,Howard,Maryland,United States,Götterbaum
+113152013,2022-04-24,39.1599221667,-75.9345166667,5.0,Queen Anne's,Maryland,United States,tree-of-heaven
+113362303,2022-04-29,38.9949162724,-76.6817398277,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+113369751,2022-04-29,39.2830783333,-76.55458,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+113562941,2022-04-29,38.4465413,-76.4585791,586.0,Calvert,Maryland,United States,tree-of-heaven
+113566594,2022-04-29,39.2636355232,-76.5812851296,420.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+113650313,2022-04-29,38.4900439,-76.591759,214.0,Calvert,Maryland,United States,tree-of-heaven
+113650317,2022-04-29,38.4900439,-76.591759,214.0,Calvert,Maryland,United States,tree-of-heaven
+113861111,2022-04-30,38.7859552168,-76.7006462999,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+113924366,2022-04-30,38.9699042378,-77.1774066389,65.0,Montgomery,Maryland,United States,tree-of-heaven
+113960063,2022-04-30,39.2832116667,-76.58657,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+113966414,2022-04-30,38.4849336919,-76.5833682179,17.0,Calvert,Maryland,United States,tree-of-heaven
+114039663,2022-04-29,38.6683585,-76.709484,190.0,Prince George's,Maryland,United States,tree-of-heaven
+114094785,2022-04-30,39.3236200232,-77.721767379,4.0,Washington,Maryland,United States,tree-of-heaven
+114111893,2022-04-29,39.27675,-76.5732283333,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+114302830,2022-05-01,38.9485449437,-76.9521292113,8.0,Prince George's,Maryland,United States,tree-of-heaven
+114357116,2022-05-01,39.2926616667,-76.4658366667,3.0,Baltimore,Maryland,United States,tree-of-heaven
+114404285,2022-04-29,39.27444082,-77.54412168,10.0,Frederick,Maryland,United States,tree-of-heaven
+114745959,2022-05-01,38.4737593,-76.5058718,168.0,Calvert,Maryland,United States,tree-of-heaven
+114933263,2022-05-02,39.3204883333,-76.6446383333,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+114988309,2022-05-02,38.5376406,-76.5807804,192.0,Calvert,Maryland,United States,tree-of-heaven
+115256383,2022-05-02,39.1792623401,-76.9304063833,4.0,Howard,Maryland,United States,tree-of-heaven
+115491406,2022-04-29,39.1508964945,-77.2495888447,122.0,Montgomery,Maryland,United States,Götterbaum
+115901871,2022-05-07,39.2766116667,-76.5697416667,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+115902201,2022-05-07,39.2765966667,-76.5695283333,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+115903049,2022-05-04,39.01999611,-77.10146027,8.0,Montgomery,Maryland,United States,tree-of-heaven
+115985829,2022-05-07,39.2748111111,-76.7886888889,4.0,Baltimore,Maryland,United States,tree-of-heaven
+116208872,2022-04-29,38.9968466313,-77.2484655534,31.0,Montgomery,Maryland,United States,tree-of-heaven
+116316584,2022-05-09,39.1845842824,-77.3796563969,9.0,Montgomery,Maryland,United States,tree-of-heaven
+116366199,2022-05-09,38.9763637,-76.945559,180.0,Prince George's,Maryland,United States,tree-of-heaven
+116448087,2022-05-10,39.2121331667,-76.6702109347,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+116591504,2022-05-11,39.2267164186,-76.6634573439,6.0,Anne Arundel,Maryland,United States,Ailalt
+116591653,2022-05-11,39.2073630512,-76.5858161904,4.0,Anne Arundel,Maryland,United States,
+116591767,2022-05-11,39.1960546471,-76.5428202641,5.0,Anne Arundel,Maryland,United States,
+116591837,2022-05-11,39.1968645895,-76.5380577359,6.0,Anne Arundel,Maryland,United States,
+116593850,2022-05-11,39.2032603611,-76.5599406626,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+116597952,2022-05-11,39.2197096518,-76.5863043323,5.0,"Baltimore City, MD",Maryland,United States,
+116598012,2022-05-11,39.2319070152,-76.5884221359,5.0,"Baltimore City, MD",Maryland,United States,
+116601541,2022-05-11,39.2448286854,-76.5945166605,6.0,"Baltimore City, MD",Maryland,United States,Ailalt
+116603662,2022-05-11,39.2321036971,-76.5875986893,7.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+116638030,2022-05-11,39.4711770407,-77.6137347868,23.0,Frederick,Maryland,United States,tree-of-heaven
+116684705,2022-05-12,39.71689497,-78.28104303,3.0,Washington,Maryland,United States,tree-of-heaven
+116899611,2022-05-13,39.1810874939,-76.8784408569,56.0,Howard,Maryland,United States,Götterbaum
+117057181,2022-05-14,38.3961445178,-76.4238099377,877.0,Calvert,Maryland,United States,tree-of-heaven
+117057182,2022-05-14,38.3961445178,-76.4238099377,877.0,Calvert,Maryland,United States,tree-of-heaven
+117383731,2022-05-15,39.0334471667,-76.3075866667,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+117714268,2022-05-19,38.9791914449,-76.5403843951,9.0,Anne Arundel,Maryland,United States,tree-of-heaven
+117733738,2022-05-19,39.3814041648,-77.7275161073,1676.0,Washington,Maryland,United States,tree-of-heaven
+118096196,2022-05-21,38.546781,-76.532305,191.0,Calvert,Maryland,United States,tree-of-heaven
+118216685,2022-05-22,38.39564,-76.429346,309.0,Calvert,Maryland,United States,tree-of-heaven
+118573145,2022-05-24,39.15863656,-76.5148617,3.0,Anne Arundel,Maryland,United States,tree-of-heaven
+118699115,2022-05-25,39.1413393486,-77.2040903896,293.0,Montgomery,Maryland,United States,tree-of-heaven
+118980233,2022-05-27,38.80159685,-77.00465814,7.0,Prince George's,Maryland,United States,tree-of-heaven
+119040738,2022-05-28,38.2623344734,-75.4536555013,4.0,Worcester,Maryland,United States,tree-of-heaven
+119057306,2022-05-28,38.9781486933,-76.4544169314,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+119215463,2022-05-29,39.3991629207,-76.9858296101,1115.0,Carroll,Maryland,United States,tree-of-heaven
+119302288,2022-05-29,39.6262626648,-77.6639099121,15.0,Washington,Maryland,United States,tree-of-heaven
+119487907,2022-05-30,38.9454413345,-76.5539748129,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+119572419,2022-05-30,39.263484043,-76.7276890293,22.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+119589138,2022-05-31,39.3585832074,-77.2305879909,4.0,Frederick,Maryland,United States,tree-of-heaven
+119618255,2022-05-30,39.1270833333,-77.1289833333,4.0,Montgomery,Maryland,United States,tree-of-heaven
+119795287,2022-06-01,38.9921120422,-76.3271023702,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+119879029,2022-06-02,39.166599,-77.2421318,1500.0,Montgomery,Maryland,United States,tree-of-heaven
+120051585,2022-06-03,38.9952570364,-77.0047091246,4.0,Montgomery,Maryland,United States,Götterbaum
+120067133,2022-06-03,39.1045111667,-76.9454883333,12.0,Montgomery,Maryland,United States,Götterbaum
+120389022,2022-06-05,39.5242636473,-76.3418375611,58.0,Harford,Maryland,United States,tree-of-heaven
+120395795,2022-06-05,39.0479884196,-77.2807309757,8.0,Montgomery,Maryland,United States,tree-of-heaven
+120688896,2022-06-07,39.70942325,-77.36412201,9.0,Frederick,Maryland,United States,Götterbaum
+120850090,2022-06-08,39.1218878279,-77.1598480863,4.0,Montgomery,Maryland,United States,tree-of-heaven
+121103618,2022-06-06,38.3934333333,-75.5842133333,45.0,Wicomico,Maryland,United States,tree-of-heaven
+121108120,2022-06-10,39.7100928911,-78.606021263,3301.0,Allegany,Maryland,United States,Götterbaum
+121420068,2022-06-12,39.2315079365,-77.2482472659,4.0,Montgomery,Maryland,United States,tree-of-heaven
+121465085,2022-06-12,39.6845283508,-78.8808441162,12.0,Allegany,Maryland,United States,tree-of-heaven
+121605114,2022-06-13,39.0008568366,-77.0133556267,4.0,Montgomery,Maryland,United States,tree-of-heaven
+122026652,2022-06-16,38.2751910389,-76.6589243711,9.0,Saint Mary's,Maryland,United States,Götterbaum
+122189984,2022-06-17,38.9363466667,-76.5097666667,4.0,Anne Arundel,Maryland,United States,Götterbaum
+122378428,2022-06-18,38.9723873092,-77.1534999926,5.0,Montgomery,Maryland,United States,tree-of-heaven
+122512327,2022-06-18,38.5778783333,-76.1019583333,4.0,Dorchester,Maryland,United States,Götterbaum
+122520187,2022-06-09,39.43715389,-75.97823913,9.0,Cecil,Maryland,United States,Götterbaum
+122546464,2022-06-19,39.1477088928,-77.4079437256,15.0,Montgomery,Maryland,United States,Götterbaum
+122699128,2022-06-20,39.19105628,-76.81426011,3.0,Howard,Maryland,United States,Götterbaum
+122713008,2022-06-20,39.2126783333,-76.871105,14.0,Howard,Maryland,United States,tree-of-heaven
+122738641,2022-06-20,39.6931033333,-77.9607916667,46.0,Washington,Maryland,United States,tree-of-heaven
+122738669,2022-06-20,39.6934283333,-77.9606866667,39.0,Washington,Maryland,United States,Götterbaum
+122867346,2022-06-21,39.3984616667,-77.4086916667,5.0,Frederick,Maryland,United States,
+122994243,2022-06-21,39.0266888333,-76.7949616667,14.0,Prince George's,Maryland,United States,tree-of-heaven
+123082804,2022-05-22,39.0375445,-77.1536861667,6.0,Montgomery,Maryland,United States,Götterbaum
+123110660,2022-06-23,39.2859,-76.5418866667,4.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+123128096,2022-06-23,39.00003438,-77.24810295,9.0,Montgomery,Maryland,United States,tree-of-heaven
+123366485,2022-06-25,39.4518202213,-76.9867806185,4.0,Carroll,Maryland,United States,tree-of-heaven
+123404566,2022-06-25,38.76653336,-76.6922707593,95.0,Anne Arundel,Maryland,United States,tree-of-heaven
+123592231,2022-06-23,39.0111472167,-77.0892195,4.0,Montgomery,Maryland,United States,tree-of-heaven
+123600836,2022-06-26,38.9668383333,-76.4744866667,4.0,Anne Arundel,Maryland,United States,Götterbaum
+123698853,2022-06-27,39.0619834839,-76.9513170888,5.0,Montgomery,Maryland,United States,Götterbaum
+123731606,2022-06-27,39.2256049111,-76.6792805021,4.0,Baltimore,Maryland,United States,tree-of-heaven
+123738935,2022-06-27,39.3309752364,-76.6123502618,12.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+123773547,2022-06-27,38.5403996,-76.5844017,3048.0,Calvert,Maryland,United States,Götterbaum
+123828694,2022-06-28,39.41967,-76.5949383333,24.0,Baltimore,Maryland,United States,tree-of-heaven
+123979458,2022-06-28,39.0111361167,-77.0893028333,20.0,Montgomery,Maryland,United States,Götterbaum
+124000891,2022-06-29,38.9782853347,-77.2160296587,8.0,Montgomery,Maryland,United States,tree-of-heaven
+124172640,2022-06-30,39.2692606702,-76.7481689718,5.0,Baltimore,Maryland,United States,tree-of-heaven
+124227617,2022-06-29,38.9787453198,-77.216649802,5.0,Montgomery,Maryland,United States,Götterbaum
+124297501,2022-07-01,39.6481437683,-77.7045059204,83.0,Washington,Maryland,United States,tree-of-heaven
+124401508,2022-07-02,38.9838824292,-76.4515024424,263.0,Anne Arundel,Maryland,United States,Götterbaum
+124443489,2022-07-02,39.3283,-77.7303866667,4.0,Washington,Maryland,United States,tree-of-heaven
+124485451,2022-07-02,39.2230897873,-77.3645049936,8.0,Montgomery,Maryland,United States,Götterbaum
+124737051,2022-07-04,39.1232253565,-76.478980668,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+124792536,2022-07-04,38.9838871203,-76.4515024424,244.0,Anne Arundel,Maryland,United States,tree-of-heaven
+124803022,2022-07-04,38.63022995,-76.599647522,8.0,Calvert,Maryland,United States,Götterbaum
+124879816,2022-07-05,38.9776198799,-76.5430711304,5.0,Anne Arundel,Maryland,United States,Götterbaum
+124880226,2022-07-05,38.9297177224,-76.9368798473,5.0,Prince George's,Maryland,United States,Götterbaum
+124880513,2022-07-05,38.62573712,-76.51909911,7.0,Calvert,Maryland,United States,tree-of-heaven
+124918356,2022-07-05,38.9302163618,-76.9377165288,5.0,Prince George's,Maryland,United States,tree-of-heaven
+124918622,2022-07-05,38.92975271,-76.93735248,4.0,Prince George's,Maryland,United States,tree-of-heaven
+124925985,2022-07-05,38.9336535233,-76.9379409315,35.0,Prince George's,Maryland,United States,Götterbaum
+124964895,2022-07-05,38.930273694,-76.9380307664,5.0,Prince George's,Maryland,United States,tree-of-heaven
+124980268,2022-06-25,38.6994883333,-77.0490805,4.0,Prince George's,Maryland,United States,Götterbaum
+125004706,2022-07-03,39.0782166667,-77.1573778333,5.0,Montgomery,Maryland,United States,Götterbaum
+125087803,2022-07-06,38.62584266,-76.51912537,8.0,Calvert,Maryland,United States,tree-of-heaven
+125127675,2022-06-25,38.6981035896,-77.0492508532,49.0,Prince George's,Maryland,United States,Götterbaum
+125194469,2022-07-07,39.2852833333,-76.5504133333,3.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+125334316,2022-07-08,38.9326151368,-76.9388352615,5.0,Prince George's,Maryland,United States,Götterbaum
+125615697,2022-07-10,38.9920216667,-77.0313366667,9.0,Montgomery,Maryland,United States,tree-of-heaven
+125616576,2022-07-10,39.33895,-77.37175,5.0,Frederick,Maryland,United States,Götterbaum
+125784379,2022-07-11,39.337575,-77.37017,15.0,Frederick,Maryland,United States,Götterbaum
+125828997,2022-07-11,39.4393806458,-77.405090332,73.0,Frederick,Maryland,United States,tree-of-heaven
+125849466,2022-07-11,39.4939470456,-76.6907230978,9.0,Baltimore,Maryland,United States,Götterbaum
+125869159,2022-07-10,39.6510566127,-78.339263063,8.0,Washington,Maryland,United States,Götterbaum
+125939685,2022-07-12,39.3422529521,-76.7842194066,5.0,Baltimore,Maryland,United States,Götterbaum
+126024369,2022-07-05,39.0617833333,-77.1207416667,4.0,Montgomery,Maryland,United States,Götterbaum
+126095306,2022-07-13,39.096654,-77.127518,112.0,Montgomery,Maryland,United States,tree-of-heaven
+126166726,2022-07-06,39.1065666667,-76.7106633333,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+126349547,2022-07-15,38.93304272,-76.937575,5.0,Prince George's,Maryland,United States,tree-of-heaven
+126351955,2022-07-15,38.93265753,-76.93856812,9.0,Prince George's,Maryland,United States,tree-of-heaven
+126352772,2022-07-15,38.9230534,-76.9302756,899.0,Prince George's,Maryland,United States,tree-of-heaven
+126479746,2022-07-16,39.1798057556,-77.0526657104,35.0,Montgomery,Maryland,United States,Götterbaum
+126717141,2022-07-17,39.3548525893,-76.6245250928,4.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+126732310,2022-07-17,38.6349416667,-77.109275,9.0,Charles,Maryland,United States,Götterbaum
+126969537,2022-07-19,39.4503784535,-76.6251602719,4.0,Baltimore,Maryland,United States,Götterbaum
+127432240,2022-07-22,38.9783363342,-76.9283981323,48.0,Prince George's,Maryland,United States,tree-of-heaven
+127761442,2022-07-24,39.4403953552,-76.8052825928,35.0,Baltimore,Maryland,United States,tree-of-heaven
+128065264,2022-07-26,38.9805205213,-76.4870220144,4.0,Anne Arundel,Maryland,United States,Götterbaum
+128212799,2022-07-27,38.9876130505,-76.9205730068,31.0,Prince George's,Maryland,United States,Götterbaum
+128230494,2022-07-27,38.9215383333,-76.936645,1414.0,Prince George's,Maryland,United States,tree-of-heaven
+128311135,2022-07-28,39.2642244744,-76.5839348362,5.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+128447706,2022-07-29,38.9382869611,-76.5050031245,9.0,Anne Arundel,Maryland,United States,Götterbaum
+128463294,2022-07-29,39.4333833333,-77.3908,4.0,Frederick,Maryland,United States,Götterbaum
+128691123,2022-07-30,39.4299305611,-79.5873236682,4.0,Garrett,Maryland,United States,Götterbaum
+128848076,2022-07-31,39.2284230609,-76.6119147186,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+129052879,2022-08-01,39.6106267814,-77.7230569348,8.0,Washington,Maryland,United States,tree-of-heaven
+129053009,2022-08-01,39.610553314,-77.7231493034,6.0,Washington,Maryland,United States,tree-of-heaven
+129408133,2022-08-04,38.9611837935,-76.9248293459,4.0,Prince George's,Maryland,United States,tree-of-heaven
+129421515,2022-08-04,39.1456770202,-77.2547333166,83.0,Montgomery,Maryland,United States,Götterbaum
+129599108,2022-07-02,39.5872816262,-78.7533388244,4.0,Allegany,Maryland,United States,tree-of-heaven
+129726330,2022-08-06,39.3812833333,-76.6927866667,4.0,Baltimore,Maryland,United States,Götterbaum
+129987166,2022-08-08,38.9949033854,-77.0617211918,4.0,Montgomery,Maryland,United States,tree-of-heaven
+130300496,2022-07-26,38.980502626,-76.4870650136,7.0,Anne Arundel,Maryland,United States,Götterbaum
+130397581,2022-08-11,38.80153227,-77.00453675,9.0,Prince George's,Maryland,United States,tree-of-heaven
+130397669,2022-08-11,38.80160957,-77.00483063,9.0,Prince George's,Maryland,United States,Götterbaum
+130422629,2022-08-08,39.3794833333,-76.6311283333,4.0,Baltimore,Maryland,United States,Götterbaum
+130519165,2022-08-12,39.41449039,-76.77736384,3.0,Baltimore,Maryland,United States,tree-of-heaven
+130525678,2022-08-12,38.8043746948,-77.0115890503,8.0,Prince George's,Maryland,United States,tree-of-heaven
+130619711,2022-08-13,39.4755227572,-77.3677081059,20.0,Frederick,Maryland,United States,tree-of-heaven
+130636263,2022-08-13,39.3323536669,-76.6186113166,24.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+130677358,2022-08-12,39.0028527833,-77.0655833333,5.0,Montgomery,Maryland,United States,tree-of-heaven
+130874710,2022-08-14,39.4086615989,-79.3528681901,5.0,Garrett,Maryland,United States,tree-of-heaven
+130894310,2022-08-14,39.5237300095,-79.2711057012,24.0,Garrett,Maryland,United States,tree-of-heaven
+131194157,2022-08-17,39.2936998398,-77.4359192918,4.0,Frederick,Maryland,United States,tree-of-heaven
+131265123,2022-08-17,39.3369445801,-76.6352920532,61.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+131330369,2022-08-18,39.3642246958,-76.7083311927,8.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+131441715,2022-08-19,39.4028602518,-76.9626896135,4.0,Carroll,Maryland,United States,tree-of-heaven
+131487891,2022-08-11,39.1923022782,-76.694329773,16.0,Anne Arundel,Maryland,United States,Götterbaum
+131509040,2022-08-19,39.56928075,-77.45292819,10.0,Frederick,Maryland,United States,tree-of-heaven
+131604401,2022-08-20,39.2397460938,-76.8492584229,4.0,Howard,Maryland,United States,tree-of-heaven
+131717171,2022-08-21,39.6197257143,-77.517224718,12.0,Frederick,Maryland,United States,Götterbaum
+131761570,2022-08-21,39.0303107,-76.9997667,1000.0,Montgomery,Maryland,United States,tree-of-heaven
+131793014,2022-08-21,39.4504843606,-76.6250641645,3.0,Baltimore,Maryland,United States,Götterbaum
+132154770,2022-08-23,38.8561068092,-76.6868029562,2.0,Anne Arundel,Maryland,United States,Götterbaum
+132225954,2022-08-22,39.0078305437,-76.8397327033,4.0,Howard,Maryland,United States,tree-of-heaven
+132276345,2022-08-23,39.2345577233,-76.0071608586,143.0,Queen Anne's,Maryland,United States,Götterbaum
+132289677,2022-08-23,39.23607,-76.0071111167,8.0,Queen Anne's,Maryland,United States,tree-of-heaven
+132579364,2022-08-27,39.7005383333,-77.8298633333,13.0,Washington,Maryland,United States,tree-of-heaven
+132585962,2022-08-28,39.6196999783,-77.51718091,9.0,Frederick,Maryland,United States,tree-of-heaven
+132616160,2022-08-28,39.2871666667,-76.5719533333,14.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+132875350,2022-08-17,39.2227583333,-77.4515383333,64.0,Montgomery,Maryland,United States,tree-of-heaven
+132968050,2022-08-30,39.1633623044,-77.1334107331,9.0,Montgomery,Maryland,United States,tree-of-heaven
+132991617,2022-08-30,39.2881195647,-76.6120842957,38.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+133114156,2022-08-27,39.3545216667,-76.62668,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+133266376,2022-08-27,39.4463558789,-79.0059109098,15.0,Garrett,Maryland,United States,Götterbaum
+133348563,2022-09-02,39.422419349,-76.666442479,15.0,Baltimore,Maryland,United States,tree-of-heaven
+133491597,2022-08-29,39.001469445,-77.1000138333,10.0,Montgomery,Maryland,United States,tree-of-heaven
+133494567,2022-08-29,39.0015638883,-77.0999,12.0,Montgomery,Maryland,United States,tree-of-heaven
+133642758,2022-09-04,39.0721138333,-77.3860916667,4.0,Montgomery,Maryland,United States,Götterbaum
+133835075,2022-09-03,39.2712861111,-77.3872222222,4.0,Frederick,Maryland,United States,tree-of-heaven
+133949372,2022-09-06,39.5401740255,-76.6445625485,4.0,Baltimore,Maryland,United States,Götterbaum
+134000243,2022-09-06,39.3349928522,-77.4596815769,20.0,Frederick,Maryland,United States,Götterbaum
+134000251,2022-09-06,39.3908558937,-77.4933606685,20.0,Frederick,Maryland,United States,Götterbaum
+134207491,2022-09-08,39.0417667992,-76.0680748276,4.0,Queen Anne's,Maryland,United States,Götterbaum
+134773110,2022-09-09,39.1627994786,-77.315396539,36.0,Montgomery,Maryland,United States,Götterbaum
+134817778,2022-09-12,39.6287690333,-78.7670192342,48.0,Allegany,Maryland,United States,Götterbaum
+134887605,2022-09-13,39.0417975301,-76.0680668482,4.0,Queen Anne's,Maryland,United States,Götterbaum
+134921069,2022-09-13,39.0644138333,-77.124725,4.0,Montgomery,Maryland,United States,tree-of-heaven
+135170841,2022-09-15,39.0339833333,-76.239735,9.0,Kent,Maryland,United States,tree-of-heaven
+135521162,2022-09-18,38.9358642139,-76.939180093,5.0,Prince George's,Maryland,United States,tree-of-heaven
+135564805,2022-09-18,38.9900783333,-76.3293,4.0,Queen Anne's,Maryland,United States,Götterbaum
+135806090,2022-09-20,39.06005,-77.2678833333,16.0,Montgomery,Maryland,United States,
+135958329,2022-09-20,38.399649,-76.5065645,188.0,Calvert,Maryland,United States,tree-of-heaven
+136078992,2022-09-22,38.4645616667,-76.1995466667,4.0,Dorchester,Maryland,United States,tree-of-heaven
+136179559,2022-09-23,39.3712536111,-76.6186213894,9.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+136228499,2022-09-23,38.485887,-76.591342,221.0,Calvert,Maryland,United States,tree-of-heaven
+136310140,2022-09-24,39.2440809668,-76.5950181189,142.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+136336946,2022-09-24,38.9785461426,-76.9290618896,48.0,Prince George's,Maryland,United States,tree-of-heaven
+136742485,2022-09-27,39.1054229736,-76.8019943237,1200.0,Anne Arundel,Maryland,United States,tree-of-heaven
+136869406,2022-09-28,39.32182,-76.6157,16.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+137678853,2022-10-05,39.3440703448,-77.3382189448,3.0,Frederick,Maryland,United States,Götterbaum
+137780408,2022-10-06,39.021275,-77.0476388333,35.0,Montgomery,Maryland,United States,tree-of-heaven
+137797176,2022-10-06,39.5618030243,-77.8740448527,23.0,Washington,Maryland,United States,tree-of-heaven
+138001270,2022-09-28,39.6599308422,-78.7900534029,4.0,Allegany,Maryland,United States,Götterbaum
+138014809,2022-10-08,38.9654846191,-76.5016860962,101.0,Anne Arundel,Maryland,United States,Götterbaum
+138134624,2022-10-09,38.8808955319,-77.0869035411,15.0,Montgomery,Maryland,United States,Götterbaum
+138193069,2022-10-09,39.1522261588,-77.0576929592,764.0,Montgomery,Maryland,United States,tree-of-heaven
+138393063,2022-10-11,38.9767672308,-76.9837308303,9.0,Prince George's,Maryland,United States,tree-of-heaven
+138508558,2022-10-10,39.6551285718,-76.1734596745,358.0,Harford,Maryland,United States,Götterbaum
+138518560,2022-10-09,39.3121052724,-76.6209155304,107.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+138518621,2022-10-09,39.3121052724,-76.6209155304,107.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+138527741,2022-10-12,39.204221908,-77.4103125372,9.0,Montgomery,Maryland,United States,tree-of-heaven
+138529356,2022-10-12,39.2041875422,-77.4103141297,240.0,Montgomery,Maryland,United States,Götterbaum
+138550019,2022-10-12,39.0579151637,-77.1798706475,8.0,Montgomery,Maryland,United States,tree-of-heaven
+138550052,2022-10-12,39.0255991254,-77.1044928259,8.0,Montgomery,Maryland,United States,tree-of-heaven
+138550078,2022-10-12,39.038246177,-77.1531341695,9.0,Montgomery,Maryland,United States,Götterbaum
+138565301,2022-10-10,38.5566835327,-76.5976287425,2.0,Calvert,Maryland,United States,Götterbaum
+138664905,2022-10-08,39.6077429149,-76.1415500463,105.0,Harford,Maryland,United States,Götterbaum
+138665348,2022-10-08,39.6077429149,-76.1415500463,105.0,Harford,Maryland,United States,tree-of-heaven
+139020415,2022-10-16,39.1858215332,-77.2816390991,24.0,Montgomery,Maryland,United States,tree-of-heaven
+139254231,2022-10-18,38.4001063761,-75.5325669998,5.0,Wicomico,Maryland,United States,tree-of-heaven
+139580912,2022-10-21,38.9876488,-76.9220875,495.0,Prince George's,Maryland,United States,tree-of-heaven
+139620256,2022-10-22,38.9886333333,-77.0112083333,4.0,Montgomery,Maryland,United States,Götterbaum
+139620351,2022-10-22,38.9877966667,-77.0098638833,4.0,Montgomery,Maryland,United States,Götterbaum
+139776808,2022-10-23,39.0515055,-77.03487334,3.0,Montgomery,Maryland,United States,tree-of-heaven
+139838047,2022-10-23,39.3655366667,-76.605745,10.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+139929581,2022-10-24,39.1727964581,-77.0707087361,22.0,Montgomery,Maryland,United States,Götterbaum
+140019208,2022-10-25,39.6207966667,-76.7369383333,4.0,Baltimore,Maryland,United States,tree-of-heaven
+140408606,2022-10-29,39.0495388333,-77.1543055,4.0,Montgomery,Maryland,United States,Götterbaum
+140450776,2022-10-29,39.0840844138,-77.4078608919,4.0,Montgomery,Maryland,United States,tree-of-heaven
+140837540,2022-10-30,38.5355842,-76.5838549,190.0,Calvert,Maryland,United States,tree-of-heaven
+141374287,2022-11-07,38.98710191,-76.49131479,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+141733014,2022-11-09,38.4865433,-76.5850204,198.0,Calvert,Maryland,United States,tree-of-heaven
+142047409,2022-10-22,39.3501120863,-77.389471538,46.0,Frederick,Maryland,United States,Götterbaum
+142617331,2022-11-22,38.9735653113,-77.1578959173,4.0,Montgomery,Maryland,United States,Götterbaum
+142946347,2022-11-26,39.16629175,-77.13518904,9.0,Montgomery,Maryland,United States,Götterbaum
+142997334,2022-11-25,39.2449216667,-76.8579866667,108.0,Howard,Maryland,United States,Götterbaum
+144933940,2022-05-01,38.906441845,-76.9236701354,9.0,Prince George's,Maryland,United States,Götterbaum
+144933995,2022-05-02,38.906414972,-76.923631914,7.0,Prince George's,Maryland,United States,tree-of-heaven
+145366329,2022-12-29,39.512656242,-76.5549231378,100.0,Baltimore,Maryland,United States,Götterbaum
+145595569,2023-01-01,39.0764388333,-77.38533,4.0,Montgomery,Maryland,United States,tree-of-heaven
+145600026,2023-01-01,39.1418794613,-77.5079697776,14.0,Montgomery,Maryland,United States,tree-of-heaven
+145836870,2023-01-04,39.1636951,-76.83311679,8.0,Howard,Maryland,United States,tree-of-heaven
+146162881,2023-01-08,39.2162320101,-77.4577558467,4.0,Montgomery,Maryland,United States,
+146204277,2023-01-09,39.1643816667,-77.17744,3.0,Montgomery,Maryland,United States,Götterbaum
+146204306,2023-01-09,39.1646118164,-77.1779251099,61.0,Montgomery,Maryland,United States,Götterbaum
+146480398,2022-12-30,39.4948602767,-77.8188430225,403.0,Washington,Maryland,United States,tree-of-heaven
+147038569,2023-01-21,39.3322103673,-76.6008334234,2782.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+147158107,2023-01-22,39.5238527778,-78.5559777778,15.0,Allegany,Maryland,United States,tree-of-heaven
+147284253,2023-01-24,38.5971616667,-77.1292583333,4.0,Charles,Maryland,United States,Götterbaum
+147545953,2023-01-28,39.2351383333,-76.0056833333,4.0,Queen Anne's,Maryland,United States,Götterbaum
+147713958,2023-01-30,39.6829383333,-76.76998,4.0,Baltimore,Maryland,United States,tree-of-heaven
+147830875,2023-01-26,38.5698783333,-77.1978383333,64.0,Charles,Maryland,United States,tree-of-heaven
+150417327,2023-03-06,39.3134834525,-76.8727081642,7.0,Howard,Maryland,United States,
+151079982,2023-03-13,38.8009461314,-76.6928958893,571.0,Anne Arundel,Maryland,United States,tree-of-heaven
+151926701,2023-03-21,38.4680166667,-77.2613366667,10.0,Charles,Maryland,United States,Götterbaum
+153710948,2023-04-06,38.969588444,-77.0046403259,9.0,Montgomery,Maryland,United States,tree-of-heaven
+153834614,2022-07-29,39.6410388889,-78.7930888889,4.0,Allegany,Maryland,United States,tree-of-heaven
+154848417,2023-04-12,38.4511533333,-77.2617116667,15.0,Charles,Maryland,United States,
+154995462,2023-04-15,39.3455641055,-76.5733863786,1270.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+155232132,2023-04-16,39.0267511059,-76.7994080518,1266.0,Prince George's,Maryland,United States,Götterbaum
+155238156,2023-04-16,39.5729341172,-77.7988305968,7.0,Washington,Maryland,United States,Götterbaum
+155263859,2023-04-16,38.1354683626,-76.5293773246,26.0,Saint Mary's,Maryland,United States,tree-of-heaven
+155265952,2023-04-16,38.9073822925,-76.764698379,668.0,Prince George's,Maryland,United States,Götterbaum
+155393124,2023-04-17,38.9921875,-77.0872039795,19.0,Montgomery,Maryland,United States,Götterbaum
+155623206,2023-04-19,38.4826660156,-76.5866699219,4.0,Calvert,Maryland,United States,Götterbaum
+155734741,2023-04-20,39.3738929368,-76.6496252164,297.0,Baltimore,Maryland,United States,Götterbaum
+155735108,2023-04-20,39.3749352352,-76.6488016978,10.0,Baltimore,Maryland,United States,Götterbaum
+155819984,2023-04-20,39.16996365,-76.636544,9.0,Anne Arundel,Maryland,United States,tree-of-heaven
+155936476,2023-04-21,38.9779019729,-76.5431040712,3.0,Anne Arundel,Maryland,United States,tree-of-heaven
+155956536,2023-04-21,39.288772583,-76.6080780029,39.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+156101277,2023-04-21,39.0269711206,-76.928709038,105.0,Prince George's,Maryland,United States,Götterbaum
+156112318,2023-04-22,38.5317835,-76.5785566,190.0,Calvert,Maryland,United States,tree-of-heaven
+156112327,2023-04-22,38.5317835,-76.5785566,190.0,Calvert,Maryland,United States,tree-of-heaven
+156242608,2023-04-23,39.2629984534,-76.5848515649,3.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+156276728,2023-04-23,39.56616856,-77.45203231,6.0,Frederick,Maryland,United States,
+156302474,2023-04-23,38.4090092,-76.797306,72.0,Saint Mary's,Maryland,United States,Götterbaum
+156588479,2023-04-25,38.7821286684,-76.780776037,5.0,Prince George's,Maryland,United States,Götterbaum
+156590470,2023-04-25,39.282125244,-76.5972412751,21.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+156605284,2023-04-25,39.4264092297,-76.4426901285,4.0,Baltimore,Maryland,United States,
+156621282,2023-04-25,39.4744186401,-77.3664093018,116.0,Frederick,Maryland,United States,tree-of-heaven
+156724001,2023-04-26,38.7808749849,-76.7806050158,4.0,Prince George's,Maryland,United States,tree-of-heaven
+156724819,2023-04-26,38.7815989995,-76.7832618406,555.0,Prince George's,Maryland,United States,Götterbaum
+156756808,2023-04-26,39.3746916667,-76.6473533333,3.0,Baltimore,Maryland,United States,
+156779376,2020-08-13,39.6494866667,-78.7858583333,5.0,Allegany,Maryland,United States,tree-of-heaven
+156971660,2023-04-27,39.3327716667,-76.8691166667,4.0,Baltimore,Maryland,United States,Götterbaum
+156986932,2023-04-27,38.9763637,-76.945559,180.0,Prince George's,Maryland,United States,Götterbaum
+156989703,2023-04-27,39.0446636429,-76.9546511971,4.0,Howard,Maryland,United States,Götterbaum
+157081123,2023-04-28,38.4247852,-76.4747112,190.0,Calvert,Maryland,United States,tree-of-heaven
+157142581,2023-04-28,39.1100666667,-76.433075,7.0,Anne Arundel,Maryland,United States,tree-of-heaven
+157148418,2023-04-28,38.93845753,-76.50506507,8.0,Anne Arundel,Maryland,United States,tree-of-heaven
+157182616,2023-04-28,39.4098605245,-76.5994312827,9.0,Baltimore,Maryland,United States,tree-of-heaven
+157337451,2023-04-28,38.39564,-76.429346,342.0,Calvert,Maryland,United States,tree-of-heaven
+157431083,2023-04-27,39.0015611117,-77.0999055,14.0,Montgomery,Maryland,United States,tree-of-heaven
+157577280,2023-04-29,38.9792216667,-76.990455,29.0,Montgomery,Maryland,United States,tree-of-heaven
+157598158,2023-04-29,38.4685256705,-77.2596127075,6.0,Charles,Maryland,United States,tree-of-heaven
+157598359,2023-04-29,38.4683609661,-77.2596219276,5.0,Charles,Maryland,United States,tree-of-heaven
+157646061,2023-04-29,39.4893960049,-76.5878777672,5.0,Baltimore,Maryland,United States,tree-of-heaven
+157671649,2023-04-29,39.2304582782,-77.1855036815,40.0,Howard,Maryland,United States,tree-of-heaven
+157723281,2023-04-29,39.4495821325,-76.6482003964,7.0,Baltimore,Maryland,United States,tree-of-heaven
+157731189,2023-04-29,39.5712531265,-77.0323570167,5.0,Carroll,Maryland,United States,Götterbaum
+157800821,2023-04-29,38.4454055,-76.4652877,190.0,Calvert,Maryland,United States,tree-of-heaven
+157800823,2023-04-29,38.4454055,-76.4652877,190.0,Calvert,Maryland,United States,tree-of-heaven
+157810742,2023-04-29,38.7851466766,-76.700559942,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+157833992,2023-04-29,38.46793,-77.261095,5.0,Charles,Maryland,United States,tree-of-heaven
+157844325,2023-04-29,39.2714304542,-76.9626278041,12.0,Howard,Maryland,United States,tree-of-heaven
+157866769,2023-04-29,38.48534206,-76.58377904,15.0,Calvert,Maryland,United States,tree-of-heaven
+158042617,2023-04-29,38.4900439,-76.591759,214.0,Calvert,Maryland,United States,tree-of-heaven
+158110896,2023-04-29,38.4860412,-76.5846054,211.0,Calvert,Maryland,United States,tree-of-heaven
+158127162,2023-04-28,39.2333127667,-76.7432785034,2478.0,Howard,Maryland,United States,tree-of-heaven
+158140356,2023-04-29,39.2426829728,-76.7534263904,1976.0,Howard,Maryland,United States,Götterbaum
+158220844,2023-04-30,39.2636151646,-76.5825290587,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+158277433,2023-04-29,38.4860412,-76.5846054,211.0,Calvert,Maryland,United States,Götterbaum
+158291491,2023-04-30,39.4947604649,-76.6867517029,7.0,Baltimore,Maryland,United States,Götterbaum
+158694821,2023-05-01,38.999275,-76.6860416667,4.0,Anne Arundel,Maryland,United States,Tree-of-Heaven
+158718879,2023-05-01,38.6883163367,-76.9779315972,4.0,Prince George's,Maryland,United States,tree-of-heaven
+158745629,2023-05-01,39.2880966667,-76.5585866667,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+158747036,2023-05-01,39.289045,-76.5585166667,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+158814137,2023-05-01,39.1292433674,-77.1554530271,9.0,Montgomery,Maryland,United States,tree-of-heaven
+158859298,2023-04-30,38.4484566,-76.5072754,190.0,Calvert,Maryland,United States,tree-of-heaven
+158859322,2023-04-30,38.4484566,-76.5072754,190.0,Calvert,Maryland,United States,tree-of-heaven
+158882380,2023-04-30,38.399649,-76.5065645,188.0,Calvert,Maryland,United States,tree-of-heaven
+158883045,2023-05-01,39.3921472365,-77.0814071596,5.0,Carroll,Maryland,United States,tree-of-heaven
+158931561,2023-05-01,38.330871582,-76.4135284424,45.0,Calvert,Maryland,United States,tree-of-heaven
+158931679,2023-05-01,38.3309936523,-76.4135894775,36.0,Calvert,Maryland,United States,tree-of-heaven
+159017208,2023-05-01,39.0364298147,-77.2579312521,681.0,Montgomery,Maryland,United States,Götterbaum
+159030002,2023-05-01,39.43875,-77.407525,3.0,Frederick,Maryland,United States,Götterbaum
+159140192,2023-04-30,38.5514851,-76.5424685,190.0,Calvert,Maryland,United States,Tree-of-Heaven
+159150973,2023-04-30,39.0233695,-77.1594778333,8.0,Montgomery,Maryland,United States,tree-of-heaven
+159170197,2023-05-01,39.289475,-76.589225,15.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+159246784,2023-05-01,39.29338,-76.5848833333,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+159248209,2023-05-01,39.29437,-76.5852966667,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+159254386,2023-05-01,39.2941966667,-76.5859383333,14.0,"Baltimore City, MD",Maryland,United States,Götterbaum
+159257152,2023-04-30,38.399649,-76.5065645,188.0,Calvert,Maryland,United States,tree-of-heaven
+159264615,2023-05-02,39.71373296,-78.64571212,7.0,Allegany,Maryland,United States,tree-of-heaven
+159297036,2023-04-29,39.294195,-76.5879133333,35.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+159426238,2023-05-01,39.3071259952,-76.6954691336,178.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+160148510,2023-05-06,39.3808549,-76.5545681,64.0,Baltimore,Maryland,United States,tree-of-heaven
+160435139,2023-05-05,39.2272033333,-75.9843133333,14.0,Queen Anne's,Maryland,United States,tree-of-heaven
+160667897,2023-05-07,39.1251333333,-76.5929633333,4.0,Anne Arundel,Maryland,United States,
+160678400,2023-05-07,39.13255,-76.583445,15.0,Anne Arundel,Maryland,United States,tree-of-heaven
+160718077,2023-05-09,39.2819595337,-76.6295471191,11.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+160974067,2023-05-10,39.1452234099,-77.2546786164,5.0,Montgomery,Maryland,United States,tree-of-heaven
+161637173,2023-05-13,39.52778247,-77.46871435,9.0,Frederick,Maryland,United States,
+161647165,2023-05-14,39.1865588073,-77.3137831037,5.0,Montgomery,Maryland,United States,Götterbaum
+161662963,2023-05-14,39.41603276,-77.00242998,8.0,Carroll,Maryland,United States,tree-of-heaven
+161663299,2023-05-13,39.5511303538,-76.3348964818,152.0,Harford,Maryland,United States,tree-of-heaven
+161681376,2023-05-14,39.3928633333,-76.675125,35.0,Baltimore,Maryland,United States,
+161865332,2023-05-15,39.3043416667,-76.7901166667,255.0,Baltimore,Maryland,United States,tree-of-heaven
+162339524,2023-04-23,39.0318050282,-76.6175817233,8.0,Anne Arundel,Maryland,United States,
+162545454,2023-05-19,39.33895,-77.3717333333,5.0,Frederick,Maryland,United States,tree-of-heaven
+162661898,2023-05-20,39.3447512,-77.09840249,4.0,Howard,Maryland,United States,tree-of-heaven
+163392656,2023-05-20,38.5666540581,-77.0771264701,64.0,Charles,Maryland,United States,tree-of-heaven
+163556002,2023-05-23,38.4940283,-76.5364037,177.0,Calvert,Maryland,United States,tree-of-heaven
+163860310,2023-05-26,39.15642406,-76.48927545,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+163892643,2023-05-26,38.622575,-77.1150583333,12.0,Charles,Maryland,United States,tree-of-heaven
+164135190,2023-05-27,38.8836699231,-77.1982449695,3.0,Prince George's,Maryland,United States,tree-of-heaven
+164233970,2023-05-28,39.31948,-77.4309783333,4.0,Frederick,Maryland,United States,tree-of-heaven
+164402755,2023-05-29,39.3961486816,-76.4507751465,102.0,Baltimore,Maryland,United States,tree-of-heaven
+164406529,2023-05-29,39.3942108154,-76.4483184814,337.0,Baltimore,Maryland,United States,tree-of-heaven
+164459467,2023-05-27,39.4096366667,-77.6453083333,35.0,Washington,Maryland,United States,tree-of-heaven
+164500417,2023-05-29,39.3632794897,-76.519629592,12.0,Baltimore,Maryland,United States,tree-of-heaven
+164723352,2023-05-30,38.9454473918,-77.1240772402,9.0,Montgomery,Maryland,United States,tree-of-heaven
+164837756,2023-05-31,39.07667506,-76.55962517,8.0,Anne Arundel,Maryland,United States,tree-of-heaven
+165021992,2023-06-01,38.9696529,-77.00453176,8.0,Montgomery,Maryland,United States,tree-of-heaven
+165166047,2023-06-02,39.7000232572,-76.4637791645,252.0,Harford,Maryland,United States,tree-of-heaven
+165283290,2023-06-03,39.1908333333,-76.69407,8.0,Anne Arundel,Maryland,United States,tree-of-heaven
+165304280,2023-06-03,39.3402191316,-76.5986090432,7.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+165601149,2023-06-04,39.16131485,-77.51597278,4.0,Montgomery,Maryland,United States,tree-of-heaven
+165601212,2023-06-04,39.17252884,-77.5019672,3.0,Montgomery,Maryland,United States,tree-of-heaven
+165711119,2023-06-05,39.2808104887,-77.2087888889,9.0,Montgomery,Maryland,United States,tree-of-heaven
+165722086,2023-06-05,39.3424348645,-76.6262482633,22.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+165746709,2023-06-05,39.1874389648,-76.6781768799,52.0,Anne Arundel,Maryland,United States,tree-of-heaven
+165748058,2023-06-05,38.484954834,-76.583366394,4.0,Calvert,Maryland,United States,tree-of-heaven
+165818700,2023-06-05,39.3732529859,-76.8156104012,16.0,Howard,Maryland,United States,tree-of-heaven
+165893847,2023-06-06,39.3626098633,-76.6477050781,35.0,"Baltimore City, MD",Maryland,United States,
+165968326,2023-06-06,39.0070315,-76.87073935,7.0,Prince George's,Maryland,United States,tree-of-heaven
+166411900,2023-06-09,39.3455641055,-76.5733863786,1270.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+166712016,2023-06-10,39.0406445,-77.2639833333,4.0,Montgomery,Maryland,United States,tree-of-heaven
+166789819,2023-06-09,39.3869216667,-77.4099966667,4.0,Frederick,Maryland,United States,tree-of-heaven
+166803967,2023-06-11,39.1466971667,-77.3126966667,1414.0,Montgomery,Maryland,United States,Götterbaum
+166857582,2023-06-11,39.0149536133,-77.0506210327,4.0,Montgomery,Maryland,United States,Götterbaum
+166890716,2023-06-09,39.3869283333,-77.40998,4.0,Frederick,Maryland,United States,Götterbaum
+166908903,2023-06-11,39.3759765625,-76.6477508545,4.0,Baltimore,Maryland,United States,tree-of-heaven
+167000944,2023-06-10,39.5942883333,-77.825395,3.0,Washington,Maryland,United States,tree-of-heaven
+167012801,2023-06-10,39.2857335425,-76.5941741643,2.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+167016451,2023-05-30,39.4162998454,-76.5307141095,93.0,Baltimore,Maryland,United States,tree-of-heaven
+167042760,2023-06-12,39.3765563965,-76.6489028931,3.0,Baltimore,Maryland,United States,tree-of-heaven
+167132211,2023-06-11,39.7029601313,-78.2135513149,7.0,Allegany,Maryland,United States,Götterbaum
+167133850,2023-06-12,39.3918582312,-76.6085209057,5.0,Baltimore,Maryland,United States,tree-of-heaven
+167177338,2023-06-13,39.608795166,-77.952835083,21.0,Washington,Maryland,United States,tree-of-heaven
+167384850,2023-06-14,39.0432888333,-77.0350195,8.0,Montgomery,Maryland,United States,tree-of-heaven
+167415634,2023-06-14,39.2810033333,-76.5579133333,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+167430443,2023-06-10,39.6906666667,-78.0421666667,4.0,Washington,Maryland,United States,tree-of-heaven
+167438614,2023-06-14,39.6429465234,-75.9529563396,4.0,Cecil,Maryland,United States,tree-of-heaven
+167508112,2023-06-14,39.3243866667,-76.646775,8.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+167695455,2023-06-13,39.3102367148,-76.6197391977,20.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+167703633,2023-06-13,39.310168883,-76.6192311965,10.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+167718969,2023-06-16,39.3936231804,-76.5969451394,4.0,Baltimore,Maryland,United States,tree-of-heaven
+167738351,2023-06-14,39.264565,-76.582581,8.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+167785364,2023-06-16,39.3702383333,-76.6113416667,20.0,"Baltimore City, MD",Maryland,United States,
+167830444,2023-06-09,38.98637,-77.24565,10.0,Montgomery,Maryland,United States,tree-of-heaven
+167884942,2023-06-17,39.3315582275,-76.5680465698,18.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+167902168,2023-06-10,39.67773,-78.8069833333,6.0,Allegany,Maryland,United States,tree-of-heaven
+168127549,2023-06-18,39.2257916667,-76.5962133333,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+168524186,2023-06-19,39.2247177833,-77.3934995089,15.0,Montgomery,Maryland,United States,tree-of-heaven
+168711070,2023-06-19,39.0536942328,-77.2887409164,10.0,Montgomery,Maryland,United States,tree-of-heaven
+168732641,2023-06-20,38.8071633333,-77.0131833333,28.0,Prince George's,Maryland,United States,tree-of-heaven
+168840577,2023-06-22,39.28015,-76.5884866667,21.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+168874746,2023-06-22,39.2919808853,-76.5861110513,18.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+168899748,2023-06-22,39.2869937966,-76.6446057075,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+169254082,2023-06-24,39.1753563937,-77.4073594251,4.0,Montgomery,Maryland,United States,tree-of-heaven
+169425739,2011-07-07,38.9773988843,-77.2144868535,76.0,Montgomery,Maryland,United States,tree-of-heaven
+169451867,2023-06-20,39.22901763,-76.72632873,8.0,Baltimore,Maryland,United States,tree-of-heaven
+169459657,2023-06-25,39.5717260132,-77.0096005643,35.0,Carroll,Maryland,United States,tree-of-heaven
+169460843,2023-06-25,39.5718499836,-77.0101791805,35.0,Carroll,Maryland,United States,tree-of-heaven
+169579277,2023-06-26,38.9907226563,-76.9281692505,71.0,Prince George's,Maryland,United States,tree-of-heaven
+169642653,2023-06-26,39.0801391602,-76.9733505249,40.0,Montgomery,Maryland,United States,tree-of-heaven
+169766507,2023-06-27,39.3781666667,-76.58097,4.0,Baltimore,Maryland,United States,tree-of-heaven
+169813871,2023-06-27,39.384375866,-76.6590111242,4.0,Baltimore,Maryland,United States,tree-of-heaven
+169889275,2023-06-27,39.4641926563,-77.5449755152,800.0,Frederick,Maryland,United States,Tree-of-Heaven
+169975151,2023-06-28,39.1807670593,-77.2743759155,11.0,Montgomery,Maryland,United States,tree-of-heaven
+170048679,2023-06-23,39.3863833333,-77.4184116667,9.0,Frederick,Maryland,United States,
+170124000,2023-06-29,39.377955,-76.58107,4.0,Baltimore,Maryland,United States,tree-of-heaven
+170313354,2023-06-30,39.3309846906,-76.6123259003,11.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+170322966,2023-06-30,39.3151133333,-77.2782833333,4.0,Frederick,Maryland,United States,tree-of-heaven
+170540259,2023-07-01,39.2983283352,-76.6165620614,1.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+170579414,2023-07-01,39.2947485702,-76.6145815972,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+170658018,2023-07-02,39.3422366667,-76.7841866667,4.0,Baltimore,Maryland,United States,tree-of-heaven
+170671218,2023-06-25,39.2022061517,-77.3115505357,15.0,Montgomery,Maryland,United States,tree-of-heaven
+170740692,2023-07-02,39.4300531514,-77.0476820692,8.0,Carroll,Maryland,United States,tree-of-heaven
+171012186,2023-07-04,39.4165166667,-77.3267833333,4.0,Frederick,Maryland,United States,tree-of-heaven
+171198691,2023-07-05,38.7876586914,-76.994430542,5.0,Prince George's,Maryland,United States,tree-of-heaven
+171433562,2023-07-05,39.2806278983,-76.5872915783,18.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+171458336,2023-07-05,39.2832807856,-76.587264454,18.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+171757872,2023-07-08,39.09909489,-77.12684682,3.0,Montgomery,Maryland,United States,tree-of-heaven
+171791111,2023-07-08,39.0854187012,-77.325088501,42.0,Montgomery,Maryland,United States,tree-of-heaven
+172008712,2023-07-09,39.487701416,-76.6680908203,1414.0,Baltimore,Maryland,United States,tree-of-heaven
+172020297,2023-07-09,38.5146968812,-76.5126367752,3.0,Calvert,Maryland,United States,tree-of-heaven
+172337667,2023-07-11,38.9764109036,-76.4917292073,7.0,Anne Arundel,Maryland,United States,tree-of-heaven
+172435772,2023-07-02,39.31278433,-77.28488889,9.0,Frederick,Maryland,United States,tree-of-heaven
+172767764,2023-07-13,39.3309891637,-76.6123174815,13.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+173034222,2023-07-14,39.3238866667,-76.6504366667,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+173246095,2023-07-16,38.992772433,-77.0052088705,5.0,Montgomery,Maryland,United States,tree-of-heaven
+173321357,2023-07-16,39.2664526266,-77.0255514979,20.0,Howard,Maryland,United States,tree-of-heaven
+173389131,2023-05-25,38.7462966328,-76.6192809662,16.0,Anne Arundel,Maryland,United States,tree-of-heaven
+173501737,2023-07-17,39.0307668876,-77.0060663392,7.0,Montgomery,Maryland,United States,tree-of-heaven
+173650497,2023-07-18,38.5345515071,-76.7021408268,4.0,Charles,Maryland,United States,tree-of-heaven
+173859435,2023-07-19,38.2999290358,-76.4175791461,6.0,Saint Mary's,Maryland,United States,tree-of-heaven
+174076873,2023-07-21,38.3771599,-76.78630665,9.0,Saint Mary's,Maryland,United States,tree-of-heaven
+174295125,2023-07-22,39.179891171,-77.3145157658,4.0,Montgomery,Maryland,United States,tree-of-heaven
+174295629,2023-07-22,39.1847456831,-77.3119367282,259.0,Montgomery,Maryland,United States,tree-of-heaven
+174349833,2023-07-22,39.1242998816,-77.2448422226,11.0,Montgomery,Maryland,United States,tree-of-heaven
+174381106,2023-07-22,39.3547204044,-76.6263532174,6.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+174383364,2023-07-22,39.3821918387,-76.6081592908,7.0,Baltimore,Maryland,United States,tree-of-heaven
+174468589,2023-07-23,39.1535782364,-76.9711406586,9.0,Montgomery,Maryland,United States,tree-of-heaven
+174584625,2023-07-23,39.3064473869,-76.4933588097,25.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+174733407,2023-07-24,39.02142093,-77.17201676,23.0,Montgomery,Maryland,United States,tree-of-heaven
+174775814,2023-07-24,39.0961914063,-76.866104126,35.0,Prince George's,Maryland,United States,tree-of-heaven
+175142705,2023-07-26,39.287975,-76.558495,9.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+175404349,2023-07-28,39.1430519089,-77.2579703187,4.0,Montgomery,Maryland,United States,tree-of-heaven
+175407287,2023-07-28,39.1451303525,-77.2542573625,378.0,Montgomery,Maryland,United States,tree-of-heaven
+175560390,2023-07-29,39.15389581,-77.31513035,3.0,Montgomery,Maryland,United States,tree-of-heaven
+175560806,2023-07-29,39.14767747,-77.30919988,3.0,Montgomery,Maryland,United States,tree-of-heaven
+175562120,2023-07-29,39.15497832,-77.30383176,3.0,Montgomery,Maryland,United States,tree-of-heaven
+175751952,2023-07-30,39.1305338312,-77.1086428129,4.0,Montgomery,Maryland,United States,tree-of-heaven
+175761250,2023-07-30,39.5118309651,-76.9831974898,65.0,Carroll,Maryland,United States,tree-of-heaven
+176012209,2023-07-31,38.7973661079,-76.7022115365,171.0,Anne Arundel,Maryland,United States,tree-of-heaven
+176012700,2023-07-31,39.0460179281,-77.087836247,8.0,Montgomery,Maryland,United States,tree-of-heaven
+176029813,2023-07-31,39.4625628124,-76.8312137201,9.0,Baltimore,Maryland,United States,tree-of-heaven
+176120062,2023-08-01,39.4099785,-77.44026991,8.0,Frederick,Maryland,United States,tree-of-heaven
+176348167,2023-08-02,39.0847550612,-77.0404700284,3.0,Montgomery,Maryland,United States,tree-of-heaven
+176348179,2023-08-02,39.0847015009,-77.0408607089,9.0,Montgomery,Maryland,United States,tree-of-heaven
+176348239,2023-08-02,39.0843590163,-77.0415740927,4.0,Montgomery,Maryland,United States,tree-of-heaven
+176437495,2023-08-03,39.32458453,-76.64456815,8.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+176465875,2023-08-02,39.1323356353,-76.6560346261,189.0,Anne Arundel,Maryland,United States,
+176486503,2023-08-03,39.43298,-77.793495,4.0,Washington,Maryland,United States,tree-of-heaven
+176494920,2023-07-31,39.6113383333,-77.750245,4.0,Washington,Maryland,United States,tree-of-heaven
+176510464,2023-08-03,39.0238100337,-76.9967961219,7.0,Montgomery,Maryland,United States,tree-of-heaven
+176511289,2023-08-03,39.0302609979,-77.0043894556,3.0,Montgomery,Maryland,United States,tree-of-heaven
+176654244,2023-08-04,39.3237,-76.65193,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+176755315,2023-08-05,39.0003700596,-77.0240451023,6.0,Montgomery,Maryland,United States,tree-of-heaven
+176864095,2023-08-05,39.16615189,-76.8408768211,4.0,Howard,Maryland,United States,tree-of-heaven
+176891929,2023-08-05,39.3252604772,-77.7253280953,22.0,Washington,Maryland,United States,tree-of-heaven
+176958472,2023-08-04,39.5751833171,-77.0158577432,7.0,Carroll,Maryland,United States,tree-of-heaven
+177425984,2023-08-08,39.1118519521,-77.2118273099,8.0,Montgomery,Maryland,United States,tree-of-heaven
+177842165,2023-08-11,39.60454039,-76.62846425,7.0,Baltimore,Maryland,United States,tree-of-heaven
+177926064,2023-08-10,39.6637489752,-78.6474849019,8.0,Allegany,Maryland,United States,tree-of-heaven
+178129456,2023-08-11,39.415951513,-79.0091177394,58.0,Garrett,Maryland,United States,tree-of-heaven
+178244403,2023-08-13,39.3630698869,-76.4457181876,426.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+178301058,2023-08-13,39.7448437933,-78.9805574106,16.0,Allegany,Maryland,United States,
+178354607,2023-08-11,39.0015111117,-77.0993638333,9.0,Montgomery,Maryland,United States,tree-of-heaven
+178580577,2023-08-14,39.5821116667,-77.1463083333,12.0,Carroll,Maryland,United States,tree-of-heaven
+178683519,2023-08-16,38.976263,-77.0120601,3300.0,Montgomery,Maryland,United States,tree-of-heaven
+178977745,2023-08-18,39.2844769744,-76.7656310275,193.0,Baltimore,Maryland,United States,tree-of-heaven
+178991352,2023-08-18,39.6583570947,-77.9026054125,35.0,Washington,Maryland,United States,
+179001780,2023-08-18,39.3311666707,-76.6121495422,9.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+179234476,2023-08-19,38.9393,-76.507675,10.0,Anne Arundel,Maryland,United States,tree-of-heaven
+179365545,2023-08-20,39.3497566667,-77.390165,1.0,Frederick,Maryland,United States,tree-of-heaven
+179400072,2023-08-20,38.801905,-76.90023,4.0,Prince George's,Maryland,United States,tree-of-heaven
+179505535,2023-08-21,39.4494628906,-76.6483154297,47.0,Baltimore,Maryland,United States,tree-of-heaven
+179539931,2023-08-21,39.0139272725,-77.0293636672,78.0,Montgomery,Maryland,United States,tree-of-heaven
+179594698,2023-08-21,38.944705,-76.6985383333,34.0,Prince George's,Maryland,United States,tree-of-heaven
+179712211,2023-08-22,39.4191366667,-77.4268583333,11.0,Frederick,Maryland,United States,tree-of-heaven
+179712328,2023-08-22,39.4191033333,-77.4269333333,4.0,Frederick,Maryland,United States,tree-of-heaven
+179712826,2023-08-22,39.4158283333,-77.4231333333,4.0,Frederick,Maryland,United States,tree-of-heaven
+179713139,2023-08-22,39.4149083333,-77.4218,7.0,Frederick,Maryland,United States,tree-of-heaven
+179714359,2023-08-22,39.4149083333,-77.4218,7.0,Frederick,Maryland,United States,tree-of-heaven
+179714430,2023-08-22,39.41498,-77.4214783333,4.0,Frederick,Maryland,United States,tree-of-heaven
+179714483,2023-08-22,39.4149583333,-77.42112,4.0,Frederick,Maryland,United States,tree-of-heaven
+179714624,2023-08-22,39.4149166667,-77.4209833333,4.0,Frederick,Maryland,United States,tree-of-heaven
+179714698,2023-08-22,39.4150166667,-77.420355,4.0,Frederick,Maryland,United States,tree-of-heaven
+179714779,2023-08-22,39.4150616667,-77.4200883333,4.0,Frederick,Maryland,United States,tree-of-heaven
+179714858,2023-08-22,39.4150966667,-77.419525,15.0,Frederick,Maryland,United States,tree-of-heaven
+179863496,2023-08-23,39.45387,-77.751595,3133.0,Washington,Maryland,United States,tree-of-heaven
+180053630,2023-08-24,39.3523966667,-76.6561883333,13.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+180490373,2023-08-27,39.4193390105,-77.4062306342,4.0,Frederick,Maryland,United States,tree-of-heaven
+180492238,2023-08-27,39.3702718104,-77.7441368346,4.0,Washington,Maryland,United States,tree-of-heaven
+180604658,2023-07-31,39.03035,-77.0040361167,20.0,Montgomery,Maryland,United States,tree-of-heaven
+180629227,2023-08-28,39.0002027777,-76.8945458924,4.0,Prince George's,Maryland,United States,tree-of-heaven
+180914588,2023-08-30,39.28513,-76.5506133333,7.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+181206762,2023-09-01,38.9668916726,-77.1970883333,20.0,Montgomery,Maryland,United States,tree-of-heaven
+181231335,2023-09-01,38.7458059646,-76.7353213951,5.0,Prince George's,Maryland,United States,tree-of-heaven
+181332709,2014-06-05,38.986379198,-76.9281101914,118.0,Prince George's,Maryland,United States,tree-of-heaven
+181375926,2023-09-02,39.0267168433,-77.0674459632,17.0,Montgomery,Maryland,United States,tree-of-heaven
+181386125,2023-09-02,39.6378041804,-78.8498172351,7.0,Allegany,Maryland,United States,tree-of-heaven
+181418427,2023-09-02,39.2825454188,-77.5486747006,122.0,Frederick,Maryland,United States,tree-of-heaven
+181426576,2023-09-02,38.5403996,-76.5844017,3048.0,Calvert,Maryland,United States,tree-of-heaven
+181426612,2023-09-02,38.5403996,-76.5844017,3048.0,Calvert,Maryland,United States,tree-of-heaven
+181791347,2023-09-04,39.34932,-76.533675,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+181892367,2023-09-05,39.035857,-77.1806881,1100.0,Montgomery,Maryland,United States,tree-of-heaven
+182040796,2023-09-06,39.5001897059,-77.6681306586,192.0,Washington,Maryland,United States,tree-of-heaven
+182225512,2023-09-07,39.2284527766,-76.0181652778,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+182226327,2023-09-07,39.228421993,-76.0181979135,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+182381710,2023-09-08,39.0331105,-77.1614972,63.0,Montgomery,Maryland,United States,tree-of-heaven
+182468814,2023-09-09,38.46892786,-77.26329308,9.0,Charles,Maryland,United States,tree-of-heaven
+182471665,2023-09-09,39.4034902006,-76.89228829,34.0,Carroll,Maryland,United States,tree-of-heaven
+182474189,2023-09-09,38.7994399198,-76.6949645051,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+182482603,2023-09-09,38.9296264648,-76.6678619385,1611.0,Anne Arundel,Maryland,United States,tree-of-heaven
+182700035,2023-09-10,39.0552001862,-77.2915450076,4.0,Montgomery,Maryland,United States,tree-of-heaven
+182724949,2023-09-10,39.2877884735,-76.8129113317,33.0,Howard,Maryland,United States,tree-of-heaven
+182808606,2023-09-11,38.7118530273,-76.6893463135,2890.0,Calvert,Maryland,United States,tree-of-heaven
+182979157,2023-09-06,39.6222555556,-76.1626277778,10.0,Harford,Maryland,United States,Tree-of-Heaven
+183070583,2023-09-13,39.3140284016,-76.6365681589,26.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+183215499,2023-09-14,39.0683445,-77.3477333333,30.0,Montgomery,Maryland,United States,tree-of-heaven
+183304338,2023-09-14,38.9876488,-76.9220875,495.0,Prince George's,Maryland,United States,tree-of-heaven
+183304339,2023-09-14,38.9876488,-76.9220875,495.0,Prince George's,Maryland,United States,tree-of-heaven
+183524316,2023-09-16,39.6805419922,-77.3544464111,51.0,Frederick,Maryland,United States,tree-of-heaven
+183572109,2023-09-14,38.9876488,-76.9220875,495.0,Prince George's,Maryland,United States,tree-of-heaven
+183845103,2023-09-18,38.0135460338,-75.5116950442,6.0,Worcester,Maryland,United States,tree-of-heaven
+184182207,2023-09-20,38.8054199219,-75.7272109985,120.0,Caroline,Maryland,United States,tree-of-heaven
+184299586,2023-09-21,39.3629743997,-76.6284635291,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+184301886,2023-09-21,39.0251242,-77.1816094,57.0,Montgomery,Maryland,United States,tree-of-heaven
+184432106,2023-09-22,38.5403996,-76.5844017,3048.0,Calvert,Maryland,United States,tree-of-heaven
+185127084,2023-09-27,39.2221918282,-77.2163668903,12.0,Montgomery,Maryland,United States,tree-of-heaven
+185164528,2023-09-27,38.4966625307,-76.5889260918,9.0,Calvert,Maryland,United States,tree-of-heaven
+185515953,2023-09-29,39.3237716667,-76.6479716667,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+185559835,2023-09-30,39.3398086,-76.605612,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+185589929,2023-09-30,39.3247725349,-76.6164569557,17.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+185665148,2023-09-30,39.495025,-77.8195033333,5.0,Washington,Maryland,United States,
+185665779,2023-09-30,39.4957666667,-77.826805,5.0,Washington,Maryland,United States,tree-of-heaven
+185985750,2023-10-02,39.47477,-77.4533166667,4.0,Frederick,Maryland,United States,tree-of-heaven
+186093784,2023-10-03,39.38578082,-77.51038453,8.0,Frederick,Maryland,United States,tree-of-heaven
+186606131,2023-10-07,39.0062416667,-76.6987833333,5.0,Anne Arundel,Maryland,United States,
+186725717,2023-10-08,38.9815134788,-76.487060587,8.0,Anne Arundel,Maryland,United States,
+186749964,2023-07-25,39.2752813611,-76.617873,25.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+186909788,2023-07-26,39.3591140589,-76.5258668152,5.0,Baltimore,Maryland,United States,tree-of-heaven
+186940201,2023-07-27,39.2745064424,-76.6043802905,28.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+187001488,2023-10-10,39.282055,-76.5696866667,24.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+187166231,2023-10-11,39.4304021169,-76.7741130945,266.0,Baltimore,Maryland,United States,
+187725544,2023-10-15,38.38057,-75.1629861667,4.0,Worcester,Maryland,United States,tree-of-heaven
+187906267,2023-10-17,39.2846,-76.5581583333,35.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+187906330,2023-10-17,39.2844883333,-76.5583116667,21.0,"Baltimore City, MD",Maryland,United States,
+188338320,2023-09-21,39.7103903722,-76.4785917477,14.0,Harford,Maryland,United States,tree-of-heaven
+188339025,2023-10-12,39.7158883333,-78.6462333333,3.0,Allegany,Maryland,United States,tree-of-heaven
+188365541,2023-10-20,39.32048,-76.6336366667,4.0,"Baltimore City, MD",Maryland,United States,
+189039985,2023-10-26,39.3629726814,-76.6278254987,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+190418326,2023-10-26,38.9789722222,-76.4884555556,4.0,Anne Arundel,Maryland,United States,Айлант высочайший
+191000026,2023-11-09,39.0383861667,-77.0664833333,4.0,Montgomery,Maryland,United States,
+192880426,2023-12-02,39.088275,-76.1293805,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+193807385,2023-12-12,39.0765142145,-77.3179438935,9.0,Montgomery,Maryland,United States,tree-of-heaven
+194130289,2023-12-16,39.6491717175,-76.6992775352,4.0,Baltimore,Maryland,United States,
+194243844,2023-12-16,38.9744805556,-77.0109111111,12.0,Montgomery,Maryland,United States,tree-of-heaven
+195199312,2023-12-29,39.65808332,-76.97884788,8.0,Carroll,Maryland,United States,tree-of-heaven
+195985773,2023-02-20,39.25217493,-77.4554829222,418.0,Frederick,Maryland,United States,tree-of-heaven
+196160507,2024-01-07,39.1365916667,-76.0597695,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+196439076,2024-01-12,38.9360859571,-76.9200152066,3.0,Prince George's,Maryland,United States,
+198325837,2024-02-03,39.3556719702,-76.345494166,20.0,Baltimore,Maryland,United States,tree-of-heaven
+198395627,2024-02-03,39.7421583376,-78.9027370433,4.0,Allegany,Maryland,United States,tree-of-heaven
+198946904,2024-02-10,39.0317678,-77.2447487,194.0,Montgomery,Maryland,United States,tree-of-heaven
+199248348,2023-09-28,39.6509484044,-79.4066110556,453.0,Garrett,Maryland,United States,tree-of-heaven
+201171179,2024-03-03,39.452048171,-79.0211680862,4.0,Garrett,Maryland,United States,tree-of-heaven
+202989866,2024-03-18,39.29017747,-77.30873955,4.0,Frederick,Maryland,United States,tree-of-heaven
+203372475,2016-09-05,39.5362443,-76.505631,199.0,Harford,Maryland,United States,tree-of-heaven
+203611418,2024-03-23,39.699305,-78.246795,11.0,Washington,Maryland,United States,tree-of-heaven
+204817598,2024-03-31,39.261445,-77.3960633333,4.0,Frederick,Maryland,United States,
+205016336,2024-03-25,39.6478466667,-76.1659388333,4.0,Harford,Maryland,United States,
+205437172,2024-04-04,39.3045267,-76.6320385,27.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+206100068,2024-04-07,39.6540570629,-76.1718453408,388.0,Harford,Maryland,United States,tree-of-heaven
+206161030,2024-04-07,38.694295,-77.0648111667,4.0,Prince George's,Maryland,United States,tree-of-heaven
+207177634,2024-04-14,38.3468660688,-75.642362066,4.0,Wicomico,Maryland,United States,
+207270992,2024-04-14,38.9836383333,-77.2321616667,4.0,Montgomery,Maryland,United States,tree-of-heaven
+207644584,2024-04-14,38.9822366667,-77.23027,4.0,Montgomery,Maryland,United States,
+207921201,2024-04-18,39.03358684,-77.00917987,8.0,Montgomery,Maryland,United States,tree-of-heaven
+208167134,2024-04-19,39.2276267121,-77.1779714123,6.0,Montgomery,Maryland,United States,
+208285173,2024-04-20,38.5018763684,-77.022080667,4.0,Charles,Maryland,United States,
+208381482,2024-04-20,39.1433473362,-77.213076949,8.0,Montgomery,Maryland,United States,tree-of-heaven
+208579287,2024-04-21,38.6394958496,-76.6666030884,289.0,Calvert,Maryland,United States,tree-of-heaven
+208605051,2024-04-19,38.3621533333,-75.587455,16.0,Wicomico,Maryland,United States,tree-of-heaven
+208757544,2024-04-22,38.9769092117,-76.5416318815,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+208813903,2024-04-22,39.2357883333,-76.607375,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+208814006,2024-04-22,39.2357716667,-76.6073616667,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+209080862,2024-04-24,38.6044991102,-76.9334932174,11.0,Charles,Maryland,United States,tree-of-heaven
+209249257,2024-04-25,39.0617416667,-77.1904,4.0,Montgomery,Maryland,United States,
+209254953,2024-04-25,39.3479312651,-76.6226705443,7.0,"Baltimore City, MD",Maryland,United States,
+209281335,2024-04-25,39.2880060298,-77.2398521497,7.0,Montgomery,Maryland,United States,
+209569906,2024-04-26,39.4947633237,-76.6867613563,4.0,Baltimore,Maryland,United States,
+209572033,2024-04-26,39.4948231196,-76.6867791955,8.0,Baltimore,Maryland,United States,
+209595011,2024-04-26,39.26297,-76.5850366667,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+209610674,2024-04-26,39.27668332,-76.5694565009,5.0,"Baltimore City, MD",Maryland,United States,
+209619261,2024-04-26,39.49492,-76.6868283333,14.0,Baltimore,Maryland,United States,
+209706747,2024-04-26,39.4865522,-76.6920699,1851.0,Baltimore,Maryland,United States,Tree-of-Heaven
+209736496,2024-04-26,39.37643629,-76.58780333,7.0,Baltimore,Maryland,United States,tree-of-heaven
+209766140,2024-04-26,39.0619611161,-77.2989233732,325.0,Montgomery,Maryland,United States,tree-of-heaven
+209780083,2024-04-26,39.0264888333,-77.1600555,1303.0,Montgomery,Maryland,United States,tree-of-heaven
+209897147,2024-04-26,39.2809633333,-76.55787,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+210177522,2024-04-27,38.9821258234,-77.0128483046,8.0,Montgomery,Maryland,United States,tree-of-heaven
+210254035,2024-04-27,39.4949621335,-76.6909340211,4.0,Baltimore,Maryland,United States,tree-of-heaven
+210475280,2024-04-27,39.3577674526,-76.6126609734,4.0,"Baltimore City, MD",Maryland,United States,
+210498353,2024-04-26,38.5851203,-76.7249652,190.0,Prince George's,Maryland,United States,tree-of-heaven
+210596687,2024-04-27,39.3495966667,-76.5342166667,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+210732539,2024-04-26,38.5149684,-76.6910152,188.0,Charles,Maryland,United States,tree-of-heaven
+210782712,2024-04-28,39.1043948616,-76.9069411639,9.0,Prince George's,Maryland,United States,tree-of-heaven
+210807485,2024-04-28,39.2793416667,-76.5874033333,4.0,"Baltimore City, MD",Maryland,United States,
+210920041,2024-04-28,38.9773037768,-76.5083834979,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+210938790,2024-04-28,39.4947960583,-76.688196169,4.0,Baltimore,Maryland,United States,
+211188014,2024-04-27,38.4211502,-76.4866271,196.0,Calvert,Maryland,United States,Tree-of-Heaven
+211249909,2024-04-28,38.4855366667,-76.583695,4.0,Calvert,Maryland,United States,tree-of-heaven
+211288102,2024-04-28,38.9923466667,-76.327255,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+211615228,2024-04-29,39.3957481225,-76.4506836073,143.0,Baltimore,Maryland,United States,tree-of-heaven
+211615484,2024-04-29,39.3943139381,-76.4491489782,98.0,Baltimore,Maryland,United States,tree-of-heaven
+211698789,2024-04-29,39.1789158,-77.0577849,29.0,Montgomery,Maryland,United States,tree-of-heaven
+211703293,2024-04-29,39.277385173,-76.5736814047,171.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+211703718,2024-04-28,39.2908033333,-76.5891416667,32.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+211771186,2024-04-28,39.2866833333,-76.609245,35.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+211862722,2024-04-27,38.4181795,-76.5441218,190.0,Calvert,Maryland,United States,tree-of-heaven
+211903534,2024-04-29,39.0116169914,-77.0898860391,17.0,Montgomery,Maryland,United States,tree-of-heaven
+211917828,2024-04-27,38.9377957,-76.939375,195.0,Prince George's,Maryland,United States,tree-of-heaven
+212260758,2024-04-30,39.3084121945,-76.6162957094,3.0,"Baltimore City, MD",Maryland,United States,
+212272525,2024-04-30,39.319015361,-76.616972192,20.0,"Baltimore City, MD",Maryland,United States,
+212381680,2024-04-29,38.9876488,-76.9220875,495.0,Prince George's,Maryland,United States,tree-of-heaven
+212402036,2024-04-30,39.1121166667,-77.186705,1486.0,Montgomery,Maryland,United States,
+212583115,2024-04-29,38.39564,-76.429346,241.0,Calvert,Maryland,United States,tree-of-heaven
+212603016,2024-05-01,38.9928994602,-76.9363013029,55.0,Prince George's,Maryland,United States,tree-of-heaven
+212703648,2024-04-30,39.3190616667,-76.61695,13.0,"Baltimore City, MD",Maryland,United States,Albero del paradiso
+212703732,2024-04-30,39.30838,-76.6162033333,15.0,"Baltimore City, MD",Maryland,United States,Albero del paradiso
+213034918,2024-05-02,38.39655,-76.43618,4.0,Calvert,Maryland,United States,tree-of-heaven
+213177399,2024-05-03,39.6665336658,-77.7153519386,4.0,Washington,Maryland,United States,tree-of-heaven
+213241355,2024-05-03,39.0178391306,-77.0501639619,52.0,Montgomery,Maryland,United States,
+213972711,2024-05-06,39.5527688237,-78.466367013,40.0,Allegany,Maryland,United States,tree-of-heaven
+214072266,2024-05-06,38.87424163,-76.36464927,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+214091765,2024-05-05,39.6840466667,-78.1033861667,4.0,Washington,Maryland,United States,tree-of-heaven
+214182441,2024-05-07,38.9150186722,-76.9088417944,7.0,Prince George's,Maryland,United States,tree-of-heaven
+214200202,2024-05-07,39.3194525624,-76.6493831719,52.0,"Baltimore City, MD",Maryland,United States,
+214201875,2024-05-07,39.3298034979,-76.6540838942,41.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+214426737,2024-05-08,38.5961976881,-77.0017727093,5.0,Charles,Maryland,United States,tree-of-heaven
+214497281,2024-05-08,38.9744533333,-77.170625,5.0,Montgomery,Maryland,United States,tree-of-heaven
+214832160,2024-05-10,39.2214144525,-77.4518085992,5.0,Montgomery,Maryland,United States,tree-of-heaven
+214912243,2024-05-09,39.1637166667,-76.8775783333,4.0,Howard,Maryland,United States,tree-of-heaven
+215007736,2024-05-11,39.3447450685,-77.0984258091,14.0,Howard,Maryland,United States,
+215011712,2024-05-11,39.3447472807,-77.0985653345,5.0,Howard,Maryland,United States,tree-of-heaven
+215011800,2024-05-11,39.34472305,-77.09832414,9.0,Howard,Maryland,United States,tree-of-heaven
+215021590,2024-05-11,39.38577763,-77.51031482,8.0,Frederick,Maryland,United States,tree-of-heaven
+215071180,2024-05-11,39.1852828721,-76.8450286054,8.0,Howard,Maryland,United States,tree-of-heaven
+215113784,2024-05-11,39.30818,-76.6265716667,18.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+215396557,2024-05-12,39.30402,-75.78913,9.0,Kent,Maryland,United States,tree-of-heaven
+215564373,2024-05-13,39.4462283333,-76.643495,60.0,Baltimore,Maryland,United States,tree-of-heaven
+215571370,2024-05-13,38.93761549,-76.55916854,6.0,Anne Arundel,Maryland,United States,tree-of-heaven
+215745510,2024-05-14,39.493907732,-76.6906596814,4.0,Baltimore,Maryland,United States,tree-of-heaven
+215760737,2024-05-14,39.335645,-75.7781616667,4.0,Kent,Maryland,United States,tree-of-heaven
+215813094,2024-05-14,39.5782165527,-76.1458282471,8.0,Harford,Maryland,United States,tree-of-heaven
+215928650,2024-05-15,39.1029273626,-77.0459834766,9.0,Montgomery,Maryland,United States,tree-of-heaven
+216033480,2024-05-05,39.29847,-76.6189333333,14.0,"Baltimore City, MD",Maryland,United States,
+216126907,2024-05-16,39.1623001965,-76.6674792767,3.0,Anne Arundel,Maryland,United States,tree-of-heaven
+216294235,2024-05-16,39.1540861667,-76.6792533333,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+216374373,2024-05-17,39.2932574727,-76.6534415581,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+216442454,2024-05-17,39.2752388889,-76.6835555556,5.0,"Baltimore City, MD",Maryland,United States,Albero del paradiso
+216882949,2024-05-19,39.1441583333,-77.25805,4.0,Montgomery,Maryland,United States,tree-of-heaven
+217402560,2024-05-21,39.023075,-76.8784166667,5.0,Prince George's,Maryland,United States,tree-of-heaven
+217404276,2024-05-21,38.8880617428,-76.5569528192,189.0,Anne Arundel,Maryland,United States,tree-of-heaven
+217564707,2024-05-22,39.1584762119,-76.5145974197,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+217631249,2024-05-22,39.5233828148,-76.8421303378,86.0,Baltimore,Maryland,United States,tree-of-heaven
+217761704,2024-05-23,39.2735333333,-77.541445,4.0,Frederick,Maryland,United States,tree-of-heaven
+217999479,2023-05-20,38.3978290798,-76.4219455889,1367.0,Calvert,Maryland,United States,tree-of-heaven
+218195969,2024-05-25,39.5514764451,-76.1000511703,3.0,Harford,Maryland,United States,
+218198595,2024-05-25,39.5523716667,-76.1003111667,4.0,Harford,Maryland,United States,tree-of-heaven
+218419832,2024-05-26,39.2315182164,-76.7380224671,470.0,Howard,Maryland,United States,tree-of-heaven
+218453532,2024-05-26,39.1317148,-76.65504616,7.0,Anne Arundel,Maryland,United States,tree-of-heaven
+218460646,2024-05-26,39.2828314879,-76.6330787738,1.0,"Baltimore City, MD",Maryland,United States,Albero del paradiso
+218646924,2024-05-27,38.91411822,-75.85002133,4.0,Caroline,Maryland,United States,Ailanthus altissima
+218709626,2024-05-27,38.5100944444,-76.5086527778,4.0,Calvert,Maryland,United States,tree-of-heaven
+218870512,2024-05-27,38.3628283333,-75.5874866667,5.0,Wicomico,Maryland,United States,tree-of-heaven
+218910330,2024-05-28,38.9949416667,-76.9345116667,3.0,Prince George's,Maryland,United States,tree-of-heaven
+218921628,2024-05-28,39.716964011,-78.2809360299,16.0,Washington,Maryland,United States,tree-of-heaven
+219009455,2024-05-28,39.16330269,-76.63436204,7.0,Anne Arundel,Maryland,United States,tree-of-heaven
+219227978,2024-05-29,39.367405,-77.277345,4.0,Frederick,Maryland,United States,tree-of-heaven
+219518921,2024-05-31,39.3072248002,-76.6955349927,5.0,"Baltimore City, MD",Maryland,United States,
+219651629,2024-05-31,38.9779366667,-76.2492833333,7.0,Queen Anne's,Maryland,United States,tree-of-heaven
+219716723,2024-06-01,39.26267,-76.6141283333,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+219748699,2024-05-08,38.9913619325,-76.3249323748,211.0,Queen Anne's,Maryland,United States,tree-of-heaven
+219794864,2024-06-01,39.3457183838,-76.8789291382,766.0,Baltimore,Maryland,United States,tree-of-heaven
+219823397,2024-06-01,39.3669776917,-76.9525680542,4.0,Carroll,Maryland,United States,tree-of-heaven
+219834103,2024-06-01,39.3783345535,-76.5889821381,7.0,Baltimore,Maryland,United States,tree-of-heaven
+220718197,2024-06-05,38.4403,-77.1357195,4.0,Charles,Maryland,United States,tree-of-heaven
+220721468,2024-06-04,39.4429857843,-76.8019166217,19.0,Baltimore,Maryland,United States,tree-of-heaven
+220879555,2024-06-05,39.1044583333,-76.9455116667,6.0,Montgomery,Maryland,United States,tree-of-heaven
+220980602,2024-06-06,39.1525453795,-77.1849394217,9.0,Montgomery,Maryland,United States,tree-of-heaven
+220986967,2024-06-06,39.3630304328,-77.1631179751,3.0,Carroll,Maryland,United States,tree-of-heaven
+221109986,2024-06-07,38.9778829879,-76.5430113674,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+221280289,2024-06-08,39.3557052612,-77.3845825195,100.0,Frederick,Maryland,United States,tree-of-heaven
+221317063,2024-06-08,39.0767211914,-76.5503616333,35.0,Anne Arundel,Maryland,United States,tree-of-heaven
+222044356,2024-06-11,39.6083180872,-76.1423169585,9.0,Harford,Maryland,United States,tree-of-heaven
+222129853,2024-06-10,39.4843477394,-77.2504504027,4.0,Frederick,Maryland,United States,tree-of-heaven
+222539824,2024-06-12,38.6683585,-76.709484,659.0,Prince George's,Maryland,United States,tree-of-heaven
+222539834,2024-06-12,38.6683585,-76.709484,659.0,Prince George's,Maryland,United States,tree-of-heaven
+223102172,2024-06-16,39.1167445,-77.1935883333,4.0,Montgomery,Maryland,United States,tree-of-heaven
+223171717,2024-06-16,39.0241661259,-76.4699805155,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+223234667,2024-06-16,39.0478528333,-76.0738528333,4.0,Queen Anne's,Maryland,United States,tree-of-heaven
+223563663,2024-06-18,38.4824829102,-76.5860671997,4.0,Calvert,Maryland,United States,tree-of-heaven
+223575941,2024-06-18,39.493795954,-76.691957503,37.0,Baltimore,Maryland,United States,tree-of-heaven
+223840162,2024-06-19,38.4332564837,-76.9301597978,76.0,Charles,Maryland,United States,tree-of-heaven
+223842764,2024-06-19,39.2443550472,-76.504412368,4.0,Baltimore,Maryland,United States,tree-of-heaven
+223960395,2024-06-19,38.9801133333,-77.2151116667,1414.0,Montgomery,Maryland,United States,tree-of-heaven
+224125476,2024-06-20,39.500275,-76.6548916667,12.0,Baltimore,Maryland,United States,tree-of-heaven
+224301976,2024-06-21,39.0951507852,-76.547672244,15.0,Anne Arundel,Maryland,United States,tree-of-heaven
+224400377,2024-06-22,39.32079146,-76.61989714,6.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+224609196,2024-06-23,39.4090118408,-76.5952987671,35.0,Baltimore,Maryland,United States,tree-of-heaven
+224708497,2024-06-22,39.49227,-76.6524633333,4.0,Baltimore,Maryland,United States,tree-of-heaven
+224888364,2024-06-24,38.5964583333,-76.9719466667,4.0,Charles,Maryland,United States,tree-of-heaven
+224912605,2024-06-24,39.27242,-75.7813716667,16.0,Kent,Maryland,United States,tree-of-heaven
+225083465,2024-05-31,39.6282416667,-78.7735055556,20.0,Allegany,Maryland,United States,tree-of-heaven
+225305794,2024-06-25,38.6683585,-76.709484,659.0,Prince George's,Maryland,United States,tree-of-heaven
+225516249,2024-06-27,39.3320388794,-76.5704345703,65.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+225579583,2024-06-27,39.57825,-76.1457666667,33.0,Harford,Maryland,United States,tree-of-heaven
+225588018,2024-06-24,39.2473912546,-76.7923365113,207.0,Howard,Maryland,United States,tree-of-heaven
+225602696,2023-09-01,39.5254302123,-77.0452872948,8.0,Carroll,Maryland,United States,tree-of-heaven
+225737444,2024-06-28,39.3798440897,-76.9640028461,39.0,Carroll,Maryland,United States,tree-of-heaven
+225955245,2024-06-29,39.1393377151,-76.8337484771,34.0,Howard,Maryland,United States,tree-of-heaven
+225955957,2024-06-10,39.0883361667,-77.35347,8.0,Montgomery,Maryland,United States,tree-of-heaven
+226307224,2024-06-30,39.3100427578,-77.0762043662,40.0,Montgomery,Maryland,United States,tree-of-heaven
+226460739,2024-07-01,39.3732299805,-77.1397705078,4.0,Carroll,Maryland,United States,tree-of-heaven
+226702712,2024-07-02,39.0693206787,-77.3407669067,122.0,Montgomery,Maryland,United States,tree-of-heaven
+226714254,2024-06-30,39.4496083333,-77.7321783333,4.0,Washington,Maryland,United States,tree-of-heaven
+226796785,2024-07-02,39.6549003711,-78.76819334,3.0,Allegany,Maryland,United States,tree-of-heaven
+226936344,2024-07-03,38.5589616667,-77.187905,4.0,Charles,Maryland,United States,tree-of-heaven
+226937748,2024-07-03,39.2517166667,-76.92153,7.0,Howard,Maryland,United States,tree-of-heaven
+227363504,2024-07-05,38.7490466569,-76.6272570706,12.0,Calvert,Maryland,United States,tree-of-heaven
+227370754,2024-07-05,39.4938449967,-76.6917875092,91.0,Baltimore,Maryland,United States,tree-of-heaven
+227521670,2024-07-06,39.3575474498,-76.6127502819,35.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+227588893,2023-08-04,39.4753616667,-76.8195416667,35.0,Baltimore,Maryland,United States,tree-of-heaven
+228012963,2024-07-08,38.959955,-77.1037361667,6.0,Montgomery,Maryland,United States,tree-of-heaven
+228226869,2024-07-09,39.2428666667,-76.5941916667,14.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+228321170,2024-07-09,39.7876924658,-78.267065721,8.0,Washington,Maryland,United States,tree-of-heaven
+228731805,2024-07-11,39.2800292969,-76.6345291138,40.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+229084720,2024-07-13,39.451595,-76.6452633333,4.0,Baltimore,Maryland,United States,tree-of-heaven
+229157996,2024-06-29,39.1283057956,-77.3359606136,3.0,Montgomery,Maryland,United States,tree-of-heaven
+229279089,2024-07-14,38.91120003,-76.93252122,7.0,Prince George's,Maryland,United States,tree-of-heaven
+229280135,2024-07-14,39.254125,-76.919875,72.0,Howard,Maryland,United States,tree-of-heaven
+229360344,2024-07-13,39.2434966667,-75.9949283333,4.0,Kent,Maryland,United States,tree-of-heaven
+229408738,2024-07-04,39.3167633333,-75.8424083333,3.0,Kent,Maryland,United States,tree-of-heaven
+230118757,2024-07-16,39.150740906,-77.2467560962,1414.0,Montgomery,Maryland,United States,tree-of-heaven
+230317485,2024-07-19,39.0649445,-76.5411216667,5.0,Anne Arundel,Maryland,United States,tree-of-heaven
+230352027,2024-07-19,39.2277964703,-76.6105589,41.0,Anne Arundel,Maryland,United States,tree-of-heaven
+230400428,2024-07-19,39.1854277778,-77.2842638889,60.0,Montgomery,Maryland,United States,tree-of-heaven
+230520511,2024-07-20,39.7348780098,-78.985453785,7.0,Allegany,Maryland,United States,tree-of-heaven
+230561740,2024-07-20,39.6733783333,-77.6053383333,269.0,Washington,Maryland,United States,tree-of-heaven
+230622394,2024-07-20,39.2840833333,-76.5514833333,40.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+230729316,2024-07-19,38.9594938379,-76.7456881595,31.0,Prince George's,Maryland,United States,tree-of-heaven
+230840382,2024-07-21,39.426853846,-77.2446588386,119.0,Frederick,Maryland,United States,tree-of-heaven
+231005741,2024-07-22,38.9893493652,-76.6794586182,123.0,Anne Arundel,Maryland,United States,tree-of-heaven
+231041604,2024-07-22,39.0429166667,-76.4969416667,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+231107924,2019-08-09,39.69715,-78.173775,6.0,Washington,Maryland,United States,tree-of-heaven
+231410334,2022-07-24,38.4255616667,-75.0538805,1.0,Worcester,Maryland,United States,
+231718908,2024-07-25,39.3465382839,-76.5886507463,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+231902651,2024-07-26,39.3462639237,-76.5875829885,22.0,"Baltimore City, MD",Maryland,United States,
+232115908,2024-07-27,39.7042664613,-78.1282050353,6.0,Washington,Maryland,United States,tree-of-heaven
+232241287,2024-07-27,39.6411383333,-77.7594966667,3.0,Washington,Maryland,United States,tree-of-heaven
+232289116,2024-07-28,39.2367553711,-76.4006652832,126.0,Baltimore,Maryland,United States,tree-of-heaven
+232511370,2024-07-28,39.1722185677,-77.0692069387,9.0,Montgomery,Maryland,United States,tree-of-heaven
+232539839,2024-07-29,39.261173535,-77.3559497631,2.0,Montgomery,Maryland,United States,tree-of-heaven
+232749174,2024-07-30,39.0037965803,-76.6070437904,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+232749915,2024-07-30,39.0038643487,-76.6067103549,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+232750173,2024-07-30,39.0039588874,-76.6063403625,4.0,Anne Arundel,Maryland,United States,tree-of-heaven
+233079167,2024-07-31,38.6683585,-76.709484,659.0,Prince George's,Maryland,United States,Tree-of-Heaven
+233354266,2024-08-01,38.5037986,-76.5489813,176.0,Calvert,Maryland,United States,tree-of-heaven
+233518852,2024-08-03,38.564495,-76.7986883333,4.0,Charles,Maryland,United States,tree-of-heaven
+233535984,2024-08-03,39.20882,-76.8457633333,7.0,Howard,Maryland,United States,
+233583526,2024-08-03,39.0691916667,-77.3407133333,75.0,Montgomery,Maryland,United States,tree-of-heaven
+233599000,2019-08-09,39.69715,-78.173775,6.0,Washington,Maryland,United States,tree-of-heaven
+233620400,2024-08-03,39.70045,-78.01573055,22.0,Washington,Maryland,United States,tree-of-heaven
+234183681,2024-08-05,39.5604410735,-78.852545545,395.0,Allegany,Maryland,United States,tree-of-heaven
+234372678,2024-08-07,39.6588759692,-76.9908675861,4.0,Carroll,Maryland,United States,
+234592454,2024-08-08,38.4648742676,-76.4727478027,35.0,Calvert,Maryland,United States,
+234975674,2024-07-08,39.6831444444,-78.8081444444,6.0,Allegany,Maryland,United States,tree-of-heaven
+235511220,2024-08-08,39.4579230914,-79.4526874647,158.0,Garrett,Maryland,United States,tree-of-heaven
+235723823,2024-08-14,39.3322638187,-76.5733227513,9.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+235806829,2024-08-14,39.1021528333,-76.5732033333,4.0,Anne Arundel,Maryland,United States,
+236077126,2024-08-16,39.7088317871,-78.6466751099,90.0,Allegany,Maryland,United States,tree-of-heaven
+236078423,2024-08-16,39.7085075378,-78.6470184326,10.0,Allegany,Maryland,United States,tree-of-heaven
+236107849,2024-08-16,39.6488792096,-76.6991278767,35.0,Baltimore,Maryland,United States,
+236438301,2024-08-14,39.5819591446,-76.8648081487,194.0,Baltimore,Maryland,United States,tree-of-heaven
+236439046,2024-08-14,39.5080590978,-76.894542233,194.0,Baltimore,Maryland,United States,tree-of-heaven
+236439056,2024-08-14,39.562517151,-76.8444522974,194.0,Baltimore,Maryland,United States,tree-of-heaven
+236439061,2024-08-14,39.5225062538,-76.8555276526,194.0,Baltimore,Maryland,United States,tree-of-heaven
+236439104,2024-08-14,39.4688592095,-76.8877055837,194.0,Baltimore,Maryland,United States,tree-of-heaven
+236439117,2024-08-14,39.5203850158,-76.8181193962,194.0,Baltimore,Maryland,United States,tree-of-heaven
+236525221,2024-08-18,39.145487869,-77.3022061362,1.0,Montgomery,Maryland,United States,tree-of-heaven
+236694271,2024-08-19,39.2927767989,-77.2308962234,4.0,Montgomery,Maryland,United States,tree-of-heaven
+236976973,2024-08-20,39.6553591965,-78.7626376469,4.0,Allegany,Maryland,United States,tree-of-heaven
+237003357,2024-08-20,38.9672400459,-77.1005627913,45.0,Montgomery,Maryland,United States,tree-of-heaven
+237261330,2024-08-22,39.3318912015,-76.5723576677,9.0,"Baltimore City, MD",Maryland,United States,
+237262583,2024-08-22,39.3320394773,-76.5732852091,4.0,"Baltimore City, MD",Maryland,United States,
+237295124,2024-08-21,39.5379327291,-76.839354533,194.0,Baltimore,Maryland,United States,tree-of-heaven
+237295188,2024-08-21,39.587508785,-76.8023754594,194.0,Baltimore,Maryland,United States,tree-of-heaven
+237295343,2024-08-21,39.5091977894,-76.9735962105,193.0,Baltimore,Maryland,United States,tree-of-heaven
+237295401,2024-08-21,39.4151950452,-76.8880159168,194.0,Baltimore,Maryland,United States,tree-of-heaven
+237381338,2024-08-22,39.6488079699,-76.6991297451,35.0,Baltimore,Maryland,United States,
+237528607,2024-08-23,39.2756885876,-76.7295844969,5.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+237714752,2024-08-24,38.9971230111,-77.0122070456,35.0,Montgomery,Maryland,United States,tree-of-heaven
+237900089,2024-08-25,39.6924033333,-76.7872466667,4.0,Baltimore,Maryland,United States,tree-of-heaven
+238161124,2024-08-26,39.2592302678,-76.7281764054,4.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+238617898,2024-08-28,38.643903,-76.704577,1052.0,Prince George's,Maryland,United States,Tree-of-Heaven
+238964670,2024-08-31,38.9838980511,-76.5248953924,3.0,Anne Arundel,Maryland,United States,tree-of-heaven
+239071600,2024-08-31,39.6890966667,-76.780495,15.0,Baltimore,Maryland,United States,tree-of-heaven
+239269589,2024-09-01,39.3465382839,-76.5911659878,12.0,"Baltimore City, MD",Maryland,United States,
+239600543,2024-09-03,39.3245083333,-76.6475533333,4.0,"Baltimore City, MD",Maryland,United States,
+239649724,2024-09-03,39.3985783775,-76.5943460819,5.0,Baltimore,Maryland,United States,tree-of-heaven
+239656983,2024-09-03,39.4756312673,-77.2831387818,4.0,Frederick,Maryland,United States,tree-of-heaven
+239844340,2024-09-04,39.1453423447,-77.2546472434,40.0,Montgomery,Maryland,United States,tree-of-heaven
+239871880,2024-09-04,39.2192976823,-77.4496107854,1953.0,Montgomery,Maryland,United States,Tree-of-Heaven
+239875613,2024-09-04,39.1100292234,-77.169754766,3.0,Montgomery,Maryland,United States,
+239974889,2024-09-05,38.9755506814,-76.9544237573,6.0,Prince George's,Maryland,United States,tree-of-heaven
+240119160,2024-09-06,38.4995779605,-77.0184570515,89.0,Charles,Maryland,United States,tree-of-heaven
+240209056,2024-09-06,38.5373698,-76.5836462,371.0,Calvert,Maryland,United States,Tree-of-Heaven
+240210440,2024-09-06,38.5514242109,-76.560084025,3048.0,Calvert,Maryland,United States,Tree-of-Heaven
+240393514,2024-09-07,39.2661783333,-77.2809666667,4.0,Montgomery,Maryland,United States,tree-of-heaven
+240409106,2024-09-07,39.5163916667,-77.40747,4.0,Frederick,Maryland,United States,
+240454831,2024-09-06,38.9876488,-76.9220875,495.0,Prince George's,Maryland,United States,tree-of-heaven
+240479087,2024-09-07,38.9251833333,-76.2634716667,35.0,Queen Anne's,Maryland,United States,
+240541964,2024-09-08,39.3468092056,-76.6140198053,884.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+240611885,2024-09-08,39.0629278333,-76.950905,4.0,Montgomery,Maryland,United States,tree-of-heaven
+240920754,2024-09-10,39.0273215901,-77.042199215,4.0,Montgomery,Maryland,United States,tree-of-heaven
+240952457,2024-09-10,39.1579723415,-77.2509811667,8.0,Montgomery,Maryland,United States,tree-of-heaven
+241262121,2024-09-06,38.8872612409,-76.559594007,656.0,Anne Arundel,Maryland,United States,
+241737350,2024-09-14,39.2122383333,-76.4277633333,4.0,Baltimore,Maryland,United States,tree-of-heaven
+241926051,2024-09-15,39.0607671,-77.1665835,27.0,Montgomery,Maryland,United States,tree-of-heaven
+241940173,2024-09-15,38.98082368,-76.95645436,3.0,Prince George's,Maryland,United States,tree-of-heaven
+241981217,2024-09-15,38.9583752554,-77.1320804267,15.0,Montgomery,Maryland,United States,tree-of-heaven
+242160569,2024-09-16,38.5262475666,-76.9929563134,26.0,Charles,Maryland,United States,tree-of-heaven
+242179533,2024-09-16,39.29322,-76.6532216667,3.0,"Baltimore City, MD",Maryland,United States,tree-of-heaven
+242210616,2024-09-16,38.1895055556,-76.4282444444,5.0,Saint Mary's,Maryland,United States,tree-of-heaven
+242394046,2024-09-15,38.2046466667,-75.4711533333,4.0,Worcester,Maryland,United States,tree-of-heaven
+242701170,2024-09-19,39.3794638136,-77.4442140765,12.0,Frederick,Maryland,United States,
+242857897,2024-09-20,38.70689,-76.8700366667,7.0,Prince George's,Maryland,United States,tree-of-heaven
+243386021,2024-09-22,39.6503216667,-79.40705,20.0,Garrett,Maryland,United States,tree-of-heaven
+243421604,2024-09-22,39.6618653136,-78.7547395472,3.0,Allegany,Maryland,United States,tree-of-heaven
+243438222,2024-09-21,39.0242195,-77.1581583333,4.0,Montgomery,Maryland,United States,tree-of-heaven
+243784508,2024-09-20,38.9902981228,-76.9355531467,1.0,Prince George's,Maryland,United States,tree-of-heaven
+244022658,2024-09-25,39.657455497,-78.9287806302,94.0,Allegany,Maryland,United States,tree-of-heaven
+245476496,2024-10-03,39.0538176661,-77.0416602585,9.0,Montgomery,Maryland,United States,tree-of-heaven
+245484992,2024-10-03,39.6661012719,-78.7814664872,22.0,Allegany,Maryland,United States,
