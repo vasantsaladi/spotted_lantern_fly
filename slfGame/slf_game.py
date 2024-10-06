@@ -45,7 +45,7 @@ class SpottedLanFly(pygame.sprite.Sprite):
 
         # Load the image, preserve alpha channel for transparency
         self.surf = pygame.image.load(slf_image).convert_alpha()
-        sizeMod = randint(0, 400) # Variable to modify the size of the Image
+        sizeMod = randint(-50, 200) # Variable to modify the size of the Image
         self.surf = pygame.transform.scale(self.surf, (self.surf.get_width() - sizeMod, self.surf.get_height() - sizeMod))
 
         # Save the rect so you can move it
@@ -108,9 +108,9 @@ def paused():
         TextSurf, TextRect = text_objects("PAUSED", largetext) 
         TextRect.center = ( (SCREEN_WIDTH/2), (SCREEN_HEIGHT/2) ) 
         screen.blit(TextSurf, TextRect) 
-        button("CONTINUE", 150, 450, 150, 50, (36, 113, 20), "white", "unpause") 
-        button("RESTART", 350, 450, 150, 50, "blue", "white", "play") 
-        button("MAIN MENU", 550, 450, 200, 50, (226,61,28), "white", "menu") 
+        button("CONTINUE", 150, 450, 150, 50, (36, 113, 20), (144,238,144), "unpause") 
+        button("RESTART", 350, 450, 150, 50, "blue", (135,206,235), "play") 
+        button("MAIN MENU", 550, 450, 200, 50, (226,61,28), (240,128,128), "menu") 
         pygame.display.update() 
         clock.tick(30) 
 
@@ -153,7 +153,7 @@ def message_display(text):
   
 def text_objects(text, font): 
     # Render the given text with the given font and color black 
-    textsurface = font.render(text, True, "black") 
+    textsurface = font.render(text, True, "white") 
     return textsurface, textsurface.get_rect() 
 
 # Set up Sound effects
@@ -180,8 +180,8 @@ def intro_loop():
         TextSurf2, TextRect2 = text_objects("SQUASH!", largetext) 
         TextRect2.center = (SCREEN_WIDTH/2, 220)
         screen.blit(TextSurf2, TextRect2)
-        button("START", 150, 520, 300, 50, (36, 113, 20), "white", "play") 
-        button("QUIT", 550, 520, 300, 50, (226,61,28), "white", "quit")
+        button("START", 150, 520, 300, 50, (36, 113, 20), (144,238,144), "play") 
+        button("QUIT", 550, 520, 300, 50, (226,61,28), (240,128,128), "quit")
         #button("INSTRUCTION", 300, 520, 200, 50, "blue", "white", "intro") 
         pygame.display.update() 
         clock.tick(50) 
