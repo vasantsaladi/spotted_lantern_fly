@@ -63,15 +63,32 @@ class PlayerHand(pygame.sprite.Sprite):
     def __init__(self):
         super(PlayerHand, self).__init__()
 
-        player_image =  str(Path.cwd() / "slfGame" / "resources" / "images" / "handopen.png")
+        #player_image = str(Path.cwd() / "slfGame" / "resources" / "images" / "handopen.png")
+        self.images = [str(Path.cwd() / "slfGame" / "resources" / "images" / "handopen.png"), str(Path.cwd() / "slfGame" / "resources" / "images" / "handclosed.png")]
         
-        self.surf = pygame.image.load(player_image).convert_alpha()
-        self.surf = pygame.transform.scale(self.surf, (self.surf.get_width()/20, self.surf.get_height()/20)) #resize image
+        self.surf_open = pygame.image.load(self.images[0]).convert_alpha()
+        self.surf_open = pygame.transform.scale(self.surf_open, (self.surf_open.get_width()/20, self.surf_open.get_height()/20)) #resize image
+
+        self.surf_closed = pygame.image.load(self.images[1]).convert_alpha()
+        self.surf_closed = pygame.transform.scale(self.surf_closed, (self.surf_closed.get_width()/20, self.surf_closed.get_height()/20)) #resize image
+
+        self.surf = self.surf_open
         self.rect = self.surf.get_rect()
 
     # Update player position. pos{Tuple} -- X,Y position to move player to
     def update(self, pos: Tuple):
         self.rect.center = pos
+    
+    # Update player sprite. open{bool} -- true if opening image
+    def update_sprite_open(self, open: bool):
+        if open:
+            self.surf = self.surf_open
+            #self.rect = self.surf.get_rect()
+        else:
+            self.surf = self.surf_closed
+            #self.rect = self.surf.get_rect()
+
+
 
 
 
@@ -161,14 +178,16 @@ while running:
     # RENDER YOUR GAME HERE
     player.update(pygame.mouse.get_pos())
 
-    
-    slf_killed = pygame.sprite.spritecollide(sprite=player, group=slf_list, dokill=True)
-    for slf in slf_killed:
-        score += 1
-
-        # Play bug squish sound
-        moth_pop_sound.play()
+    if pygame.mouse.get_pressed()[0]:
+        player.update_sprite_open(False)
+        slf_killed = pygame.sprite.spritecollide(sprite=player, group=slf_list, dokill=True)
+        for slf in slf_killed:
+            score += 1
+            moth_pop_sound.play()
+    else:
+        player.update_sprite_open(True)
         
+    
 
 
     # Are there too many coins on the screen?
@@ -187,7 +206,7 @@ while running:
 
     # Finally, draw the score at the bottom left
     score_font = pygame.font.SysFont("any_font", 36)
-    score_block = score_font.render(f"Score: {score}", False, (0, 0, 0))
+    score_block = score_font.render(f"Score: {score}", False, (83, 205, 255))
     screen.blit(score_block, (50, SCREEN_HEIGHT - 50))
 
     ## User's will click on a little moth, and be able to drag it around! Then they can like, idk do something to dispose of it
