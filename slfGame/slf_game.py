@@ -162,6 +162,9 @@ moth_pop_sound = pygame.mixer.Sound(str(Path.cwd() / "slfGame" / "resources" / "
 
 
 def intro_loop():
+    pygame.mixer.init()
+    pygame.mixer.music.load(str(Path.cwd() / "slfGame" / "resources" / "sounds" / "funk-lead-loop-71557.mp3"))
+    pygame.mixer.music.play(-1,0.0)
     intro = True
     while intro:
         for event in pygame.event.get():
