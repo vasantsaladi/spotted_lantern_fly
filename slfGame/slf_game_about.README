@@ -1,0 +1,24 @@
+*SPOTTED LANTERNFLY GAME*
+
+A edutainment game built to complement the spotted lantern fly map and data we have presented.
+
+This game is built in Python using Pygame. To install pygame and the other needed libraries on Windows, use the following commands:
+
+```
+pip install pygame
+pip install pygame_menu
+```
+
+To run the game, in your terminal execute this command: `python pygame/slf_game.py`.
+
+
+** CREDITS **
+Sound effects from Pixabay.
+
+Spotted Lanternfly by slgckgc at Flicker: https://www.flickr.com/photos/slgc/51411229539/in/photolist-2mjr8hr-2mk2Zpi-2mCfTPL-2mg7we8-2mA2Fcd-2mA2Fau-2mAhw7a-2mArovP-2mAmLTR
+
+Tree with leaves forest nature by Jamisonll: https://pixabay.com/photos/tree-tree-with-leaves-forest-nature-3707718/
+
+Hand: Photo by Elena
+
+Background image: Lily B.
