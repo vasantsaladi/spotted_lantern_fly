@@ -1,5 +1,6 @@
 import pygame
 import pygame_menu
+import time
 from random import randint
 from pathlib import Path
 from typing import Tuple
@@ -27,12 +28,12 @@ pygame.init()
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
 
-# interval to generate coins, time in MS
-slf_countdown = 2500
-slf_interval = 100
+pygame.display.set_caption("Spotted Lanternfly Squash")
+clock = pygame.time.Clock()
+pause = False
+background_img = pygame.image.load(str(Path.cwd() / "slfGame" / "resources" / "images" / "grassScene.jpg"))
+background_img = pygame.transform.scale(background_img, (SCREEN_WIDTH, SCREEN_HEIGHT))
 
-# Amount of SLFs allowed on screen
-SLF_COUNT = 20
 
 # Spotted Lanternfly class
 class SpottedLanFly(pygame.sprite.Sprite):
@@ -89,7 +90,8 @@ class PlayerHand(pygame.sprite.Sprite):
             #self.rect = self.surf.get_rect()
 
 
-
+# Create the screen object
+screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
 
 # Render background for the Squash Level
@@ -112,113 +114,191 @@ def render_squash_background():
     screen.blit(tree_img, (SCREEN_WIDTH - tree_img.get_width(), SCREEN_HEIGHT - tree_img.get_height()))
 
 
-# Create the screen object
-screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Spotted Lanternfly Squash")
-clock = pygame.time.Clock()
-
-'''
-def start_game():
-    mainmenu._open(level)
-
-mainmenu = pygame_menu.Menu('Welcome', 600, 400, theme= pygame_menu.themes.THEME_SOLARIZED)
-mainmenu.add.text_input('Name: ', default='username', maxchar=20)
-mainmenu.add.button('Play', start_game)
-#mainmenu.add.button('Levels', level_menu)
-mainmenu.add.button('Quit', pygame_menu.events.EXIT)
-
-level = pygame_menu.Menu('Select a Difficulty', 600, 400, theme=pygame_menu.themes.THEME_BLUE)
-level.add.selector('Difficulty :', [('Hard', 1), ('Easy', 2)], onchange=set_difficulty)
-'''
-# a custom event to add a new SLF
-ADDSLF = pygame.USEREVENT + 1
-pygame.time.set_timer(ADDSLF, slf_countdown)
-
-slf_list = pygame.sprite.Group()
-
-score = 0
-pygame.mouse.set_visible(False)
-
-# Create player sprite and set start position
-player = PlayerHand()
-player.update(pygame.mouse.get_pos())
-
+def message_display(text): 
+    # Create a font object with size 80 
+    largetext = pygame.font.Font("freesansbold.ttf", 80) 
+    # Render the given text with the created font 
+    textsurf, textrect = text_objects(text, largetext) 
+    textrect.center = ((SCREEN_WIDTH/2), (SCREEN_HEIGHT/2)) 
+    # Draw the rendered text on the game display at the center of the 
+    # screen 
+    screen.blit(textsurf, textrect) 
+    pygame.display.update() 
+    time.sleep(3) 
+    game_loop() 
+  
+def text_objects(text, font): 
+    # Render the given text with the given font and color black 
+    textsurface = font.render(text, True, "black") 
+    return textsurface, textsurface.get_rect() 
 
 # Set up Sound effects
 moth_flapping_sound = pygame.mixer.Sound(str(Path.cwd() / "slfGame" / "resources" / "sounds" / "light-wing-flap-6143.mp3"))
-
 moth_pop_sound = pygame.mixer.Sound(str(Path.cwd() / "slfGame" / "resources" / "sounds" / "pick-92276.mp3"))
 
-running = True
-while running:
-    # poll for events
-    events = pygame.event.get()
-    for event in events:
-        # Player closed the game
-        if event.type == pygame.QUIT:
-            running = False
-        elif event.type == KEYDOWN:
-            # quit game on escape
-            if event.key == K_ESCAPE:
-                running = False
+
+def intro_loop():
+    intro = True
+    while intro:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+                quit()
+                sys.exit()
+        screen.blit(background_img, (0, 0))
+        largetext = pygame.font.Font('freesansbold.ttf', 100) 
+        TextSurf, TextRect = text_objects("SPOTTED LANTERNFLY", largetext) 
+        TextRect.center = (SCREEN_WIDTH/2, 100)
+        screen.blit(TextSurf, TextRect)
+        TextSurf2, TextRect2 = text_objects("SQUASH!", largetext) 
+        TextRect2.center = (SCREEN_WIDTH/2, 220)
+        screen.blit(TextSurf2, TextRect2)
+        button("START", 150, 520, 100, 50, "green", "white", "play") 
+        button("QUIT", 550, 520, 100, 50, "red", "white", "quit")
+        #button("INSTRUCTION", 300, 520, 200, 50, "blue", "white", "intro") 
+        pygame.display.update() 
+        clock.tick(50) 
 
 
-        elif event.type == ADDSLF:
-            # Create a new moth and add it to the slf list
-            new_slf = SpottedLanFly()
-            slf_list.add(new_slf)
-            moth_flapping_sound.play()
+def game_loop():
+    # interval to generate coins, time in MS
+    slf_countdown = 2500
+    slf_interval = 100
 
-            if len(slf_list) < 3:
-                slf_countdown -= slf_interval
+    # a custom event to add a new SLF
+    ADDSLF = pygame.USEREVENT + 1
+    pygame.time.set_timer(ADDSLF, slf_countdown)
+    slf_list = pygame.sprite.Group()
 
-            if slf_countdown < 100:
-                slf_countdown = 100
+    # Amount of SLFs allowed on screen
+    SLF_COUNT = 20
 
-            pygame.time.set_timer(ADDSLF, 0)
-            pygame.time.set_timer(ADDSLF, slf_countdown)
+    global pause
+    score = 0
+    pygame.mouse.set_visible(False)
 
-
-    # RENDER YOUR GAME HERE
+    # Create player sprite and set start position
+    player = PlayerHand()
     player.update(pygame.mouse.get_pos())
+    running = True
+    while running:
+        # poll for events
+        events = pygame.event.get()
+        for event in events:
+            # Player closed the game
+            if event.type == pygame.QUIT:
+                running = False
+            elif event.type == KEYDOWN:
+                # quit game on escape
+                if event.key == K_ESCAPE:
+                    running = False
 
-    if pygame.mouse.get_pressed()[0]:
-        player.update_sprite_open(False)
-        slf_killed = pygame.sprite.spritecollide(sprite=player, group=slf_list, dokill=True)
-        for slf in slf_killed:
-            score += 1
-            moth_pop_sound.play()
-    else:
-        player.update_sprite_open(True)
-        
-    
+            elif event.type == ADDSLF:
+                # Create a new moth and add it to the slf list
+                new_slf = SpottedLanFly()
+                slf_list.add(new_slf)
+                moth_flapping_sound.play()
+
+                if len(slf_list) < 3:
+                    slf_countdown -= slf_interval
+
+                if slf_countdown < 100:
+                    slf_countdown = 100
+
+                pygame.time.set_timer(ADDSLF, 0)
+                pygame.time.set_timer(ADDSLF, slf_countdown)
+
+        player.update(pygame.mouse.get_pos())
+
+        if pygame.mouse.get_pressed()[0]:
+            player.update_sprite_open(False)
+            slf_killed = pygame.sprite.spritecollide(sprite=player, group=slf_list, dokill=True)
+            for slf in slf_killed:
+                score += 1
+                moth_pop_sound.play()
+        else:
+            player.update_sprite_open(True)
+
+        # Are there too many moths? If so ends games
+        if len(slf_list) >= SLF_COUNT:
+            running = False
+
+        render_squash_background()
+
+        # Draw the slf
+        for slf in slf_list:
+            screen.blit(slf.surf, slf.rect)
+
+        # Draw Player
+        screen.blit(player.surf, player.rect)
+
+        # Finally, draw the score at the bottom left
+        score_font = pygame.font.SysFont("any_font", 36)
+        score_block = score_font.render(f"Score: {score}", False, (83, 205, 255))
+        screen.blit(score_block, (50, SCREEN_HEIGHT - 50))
+
+        button("Pause", 650, 0, 150, 50, "blue", "white", "pause") 
+        # flip() the display to put your work on screen
+        pygame.display.flip()
+
+        clock.tick(60)  # limits FPS to 60
+    pygame.mouse.set_visible(True)
+    pause = True
+
+def button(msg, x, y, w, h, ic, ac, action=None): 
+    mouse = pygame.mouse.get_pos() 
+    click = pygame.mouse.get_pressed() 
+    if x+w > mouse[0] > x and y+h > mouse[1] > y: 
+        pygame.draw.rect(screen, ac, (x, y, w, h)) 
+        if click[0] == 1 and action != None: 
+            if action == "play": 
+                game_loop() 
+            elif action == "quit": 
+                pygame.quit() 
+                quit() 
+                sys.exit() 
+            elif action == "intro": 
+                intro_loop() 
+            elif action == "menu": 
+                intro_loop() 
+            elif action == "pause": 
+                paused() 
+            elif action == "unpause": 
+                unpaused() 
+  
+    else: 
+        pygame.draw.rect(screen, ic, (x, y, w, h)) 
+    smalltext = pygame.font.Font("freesansbold.ttf", 20) 
+    textsurf, textrect = text_objects(msg, smalltext) 
+    textrect.center = ((x+(w/2)), (y+(h/2))) 
+    screen.blit(textsurf, textrect) 
 
 
-    # Are there too many coins on the screen?
-    if len(slf_list) >= SLF_COUNT:
-        # This counts as an end condition, so you end your game loop. It shuts down the game
-        running = False
+def paused():
+    global pause
 
-    render_squash_background()
+    while pause:
+        for event in pygame.event.get(): 
+            if event.type == pygame.QUIT: 
+                pygame.quit() 
+                quit() 
+                sys.exit() 
+        screen.blit(background_img, (0, 0)) 
+        largetext = pygame.font.Font('freesansbold.ttf', 115) 
+        TextSurf, TextRect = text_objects("PAUSED", largetext) 
+        TextRect.center = ( (SCREEN_WIDTH/2), (SCREEN_HEIGHT/2) ) 
+        screen.blit(TextSurf, TextRect) 
+        button("CONTINUE", 150, 450, 150, 50, "green", "white", "unpause") 
+        button("RESTART", 350, 450, 150, 50, "blue", "white", "play") 
+        button("MAIN MENU", 550, 450, 200, 50, "red", "white", "menu") 
+        pygame.display.update() 
+        clock.tick(30) 
 
-    # Draw the slf
-    for slf in slf_list:
-        screen.blit(slf.surf, slf.rect)
+def unpaused(): 
+    global pause 
+    pause = False
 
-    # Draw Player
-    screen.blit(player.surf, player.rect)
 
-    # Finally, draw the score at the bottom left
-    score_font = pygame.font.SysFont("any_font", 36)
-    score_block = score_font.render(f"Score: {score}", False, (83, 205, 255))
-    screen.blit(score_block, (50, SCREEN_HEIGHT - 50))
-
-    ## User's will click on a little moth, and be able to drag it around! Then they can like, idk do something to dispose of it
-
-    # flip() the display to put your work on screen
-    pygame.display.flip()
-
-    clock.tick(60)  # limits FPS to 60
-
-pygame.mouse.set_visible(True)
+intro_loop()
+game_loop()
 pygame.quit()
