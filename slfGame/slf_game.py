@@ -45,7 +45,7 @@ class SpottedLanFly(pygame.sprite.Sprite):
 
         # Load the image, preserve alpha channel for transparency
         self.surf = pygame.image.load(slf_image).convert_alpha()
-        sizeMod = randint(-50, 200) # Variable to modify the size of the Image
+        sizeMod = randint(-50, 220) # Variable to modify the size of the Image
         self.surf = pygame.transform.scale(self.surf, (self.surf.get_width() - sizeMod, self.surf.get_height() - sizeMod))
 
         # Save the rect so you can move it
@@ -110,6 +110,25 @@ def paused():
         screen.blit(TextSurf, TextRect) 
         button("CONTINUE", 150, 450, 150, 50, (36, 113, 20), (144,238,144), "unpause") 
         button("RESTART", 350, 450, 150, 50, "blue", (135,206,235), "play") 
+        button("MAIN MENU", 550, 450, 200, 50, (226,61,28), (240,128,128), "menu") 
+        pygame.display.update() 
+        clock.tick(30) 
+
+def gameover():
+    over = True
+
+    while over:
+        for event in pygame.event.get(): 
+            if event.type == pygame.QUIT: 
+                pygame.quit() 
+                quit() 
+                sys.exit() 
+        screen.blit(background_img, (0, 0)) 
+        largetext = pygame.font.Font('freesansbold.ttf', 115) 
+        TextSurf, TextRect = text_objects("GAME OVER", largetext) 
+        TextRect.center = ( (SCREEN_WIDTH/2), (SCREEN_HEIGHT/2) ) 
+        screen.blit(TextSurf, TextRect) 
+        button("TRY AGAIN", 350, 450, 150, 50, "blue", (135,206,235), "play") 
         button("MAIN MENU", 550, 450, 200, 50, (226,61,28), (240,128,128), "menu") 
         pygame.display.update() 
         clock.tick(30) 
@@ -198,7 +217,7 @@ def game_loop():
     slf_list = pygame.sprite.Group()
 
     # Amount of SLFs allowed on screen
-    SLF_COUNT = 20
+    SLF_COUNT = 5
 
     global pause
     score = 0
@@ -208,6 +227,7 @@ def game_loop():
     player = PlayerHand()
     player.update(pygame.mouse.get_pos())
     running = True
+    gameover = False
     while running:
         # poll for events
         events = pygame.event.get()
@@ -246,10 +266,6 @@ def game_loop():
         else:
             player.update_sprite_open(True)
 
-        # Are there too many moths? If so ends games
-        if len(slf_list) >= SLF_COUNT:
-            running = False
-
         render_squash_background()
 
         # Draw the slf
@@ -264,13 +280,24 @@ def game_loop():
         score_block = score_font.render(f"Score: {score}", False, "white")
         screen.blit(score_block, (50, SCREEN_HEIGHT - 50))
 
+                # Are there too many moths? If so ends games
+        if len(slf_list) >= SLF_COUNT:
+            message_display("TOO MANY! GAME OVER")
+            running = False
+            gameover = True
+
         #button("Pause", 650, 0, 150, 50, "blue", "white", "pause") 
         # flip() the display to put your work on screen
         pygame.display.flip()
 
         clock.tick(60)  # limits FPS to 60
     pygame.mouse.set_visible(True)
-    pause = True
+    
+    if gameover:
+        gameover()
+    else:
+        pause = True
+        paused()
 
 def button(msg, x, y, w, h, ic, ac, action=None): 
     mouse = pygame.mouse.get_pos() 
