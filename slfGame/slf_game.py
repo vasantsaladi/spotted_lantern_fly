@@ -97,7 +97,11 @@ def render_squash_background():
     screen.fill((83, 205, 255))
 
     #draw the ground
-    pygame.draw.rect(screen, (36, 113, 20), pygame.Rect(0, SCREEN_HEIGHT/2, SCREEN_WIDTH, SCREEN_HEIGHT/2))
+    #pygame.draw.rect(screen, (36, 113, 20), pygame.Rect(0, SCREEN_HEIGHT/2, SCREEN_WIDTH, SCREEN_HEIGHT/2))
+    background_img = pygame.image.load(str(Path.cwd() / "slfGame" / "resources" / "images" / "grassScene.jpg"))
+    background_img = pygame.transform.scale(background_img, (SCREEN_WIDTH, SCREEN_HEIGHT))
+
+    screen.blit(background_img, (0, 0))
 
     # set up tree images
     tree_img = pygame.image.load(str(Path.cwd() / "slfGame" / "resources" / "images" / "tree-3707718_1280.png")).convert_alpha()
