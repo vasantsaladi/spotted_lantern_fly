@@ -45,7 +45,7 @@ class SpottedLanFly(pygame.sprite.Sprite):
 
         # Load the image, preserve alpha channel for transparency
         self.surf = pygame.image.load(slf_image).convert_alpha()
-        sizeMod = randint(-100, 400) # Variable to modify the size of the Image
+        sizeMod = randint(0, 400) # Variable to modify the size of the Image
         self.surf = pygame.transform.scale(self.surf, (self.surf.get_width() - sizeMod, self.surf.get_height() - sizeMod))
 
         # Save the rect so you can move it
@@ -93,6 +93,30 @@ class PlayerHand(pygame.sprite.Sprite):
 # Create the screen object
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
+
+def paused():
+    global pause
+
+    while pause:
+        for event in pygame.event.get(): 
+            if event.type == pygame.QUIT: 
+                pygame.quit() 
+                quit() 
+                sys.exit() 
+        screen.blit(background_img, (0, 0)) 
+        largetext = pygame.font.Font('freesansbold.ttf', 115) 
+        TextSurf, TextRect = text_objects("PAUSED", largetext) 
+        TextRect.center = ( (SCREEN_WIDTH/2), (SCREEN_HEIGHT/2) ) 
+        screen.blit(TextSurf, TextRect) 
+        button("CONTINUE", 150, 450, 150, 50, (36, 113, 20), "white", "unpause") 
+        button("RESTART", 350, 450, 150, 50, "blue", "white", "play") 
+        button("MAIN MENU", 550, 450, 200, 50, (226,61,28), "white", "menu") 
+        pygame.display.update() 
+        clock.tick(30) 
+
+def unpaused(): 
+    global pause 
+    pause = False
 
 # Render background for the Squash Level
 def render_squash_background():
@@ -153,8 +177,8 @@ def intro_loop():
         TextSurf2, TextRect2 = text_objects("SQUASH!", largetext) 
         TextRect2.center = (SCREEN_WIDTH/2, 220)
         screen.blit(TextSurf2, TextRect2)
-        button("START", 150, 520, 100, 50, "green", "white", "play") 
-        button("QUIT", 550, 520, 100, 50, "red", "white", "quit")
+        button("START", 150, 520, 300, 50, (36, 113, 20), "white", "play") 
+        button("QUIT", 550, 520, 300, 50, (226,61,28), "white", "quit")
         #button("INSTRUCTION", 300, 520, 200, 50, "blue", "white", "intro") 
         pygame.display.update() 
         clock.tick(50) 
@@ -234,10 +258,10 @@ def game_loop():
 
         # Finally, draw the score at the bottom left
         score_font = pygame.font.SysFont("any_font", 36)
-        score_block = score_font.render(f"Score: {score}", False, (83, 205, 255))
+        score_block = score_font.render(f"Score: {score}", False, "white")
         screen.blit(score_block, (50, SCREEN_HEIGHT - 50))
 
-        button("Pause", 650, 0, 150, 50, "blue", "white", "pause") 
+        #button("Pause", 650, 0, 150, 50, "blue", "white", "pause") 
         # flip() the display to put your work on screen
         pygame.display.flip()
 
@@ -272,31 +296,6 @@ def button(msg, x, y, w, h, ic, ac, action=None):
     textsurf, textrect = text_objects(msg, smalltext) 
     textrect.center = ((x+(w/2)), (y+(h/2))) 
     screen.blit(textsurf, textrect) 
-
-
-def paused():
-    global pause
-
-    while pause:
-        for event in pygame.event.get(): 
-            if event.type == pygame.QUIT: 
-                pygame.quit() 
-                quit() 
-                sys.exit() 
-        screen.blit(background_img, (0, 0)) 
-        largetext = pygame.font.Font('freesansbold.ttf', 115) 
-        TextSurf, TextRect = text_objects("PAUSED", largetext) 
-        TextRect.center = ( (SCREEN_WIDTH/2), (SCREEN_HEIGHT/2) ) 
-        screen.blit(TextSurf, TextRect) 
-        button("CONTINUE", 150, 450, 150, 50, "green", "white", "unpause") 
-        button("RESTART", 350, 450, 150, 50, "blue", "white", "play") 
-        button("MAIN MENU", 550, 450, 200, 50, "red", "white", "menu") 
-        pygame.display.update() 
-        clock.tick(30) 
-
-def unpaused(): 
-    global pause 
-    pause = False
 
 
 intro_loop()
