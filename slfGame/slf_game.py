@@ -44,7 +44,7 @@ class SpottedLanFly(pygame.sprite.Sprite):
 
         # Load the image, preserve alpha channel for transparency
         self.surf = pygame.image.load(slf_image).convert_alpha()
-        sizeMod = randint(-100, 500) # Variable to modify the size of the Image
+        sizeMod = randint(-100, 400) # Variable to modify the size of the Image
         self.surf = pygame.transform.scale(self.surf, (self.surf.get_width() - sizeMod, self.surf.get_height() - sizeMod))
 
         # Save the rect so you can move it
@@ -58,6 +58,22 @@ class SpottedLanFly(pygame.sprite.Sprite):
             )
         )
         
+# Player Class for Squash Game
+class PlayerHand(pygame.sprite.Sprite):
+    def __init__(self):
+        super(PlayerHand, self).__init__()
+
+        player_image =  str(Path.cwd() / "slfGame" / "resources" / "images" / "handopen.png")
+        
+        self.surf = pygame.image.load(player_image).convert_alpha()
+        self.surf = pygame.transform.scale(self.surf, (self.surf.get_width()/20, self.surf.get_height()/20)) #resize image
+        self.rect = self.surf.get_rect()
+
+    # Update player position. pos{Tuple} -- X,Y position to move player to
+    def update(self, pos: Tuple):
+        self.rect.center = pos
+
+
 
 # Render background for the Squash Level
 def render_squash_background():
@@ -66,15 +82,12 @@ def render_squash_background():
     #draw the ground
     pygame.draw.rect(screen, (36, 113, 20), pygame.Rect(0, SCREEN_HEIGHT/2, SCREEN_WIDTH, SCREEN_HEIGHT/2))
 
-    #insert the trees
+    # set up tree images
     tree_img = pygame.image.load(str(Path.cwd() / "slfGame" / "resources" / "images" / "tree-3707718_1280.png")).convert_alpha()
-
     tree_img = pygame.transform.scale(tree_img, (tree_img.get_width()/2, tree_img.get_height()/2))
 
-    #place first tree
+    # place trees
     screen.blit(tree_img, (0, SCREEN_HEIGHT - tree_img.get_height()))
-
-    #place second tree
     screen.blit(tree_img, (SCREEN_WIDTH - tree_img.get_width(), SCREEN_HEIGHT - tree_img.get_height()))
 
 
@@ -103,6 +116,17 @@ pygame.time.set_timer(ADDSLF, slf_countdown)
 slf_list = pygame.sprite.Group()
 
 score = 0
+pygame.mouse.set_visible(False)
+
+# Create player sprite and set start position
+player = PlayerHand()
+player.update(pygame.mouse.get_pos())
+
+
+# Set up Sound effects
+moth_flapping_sound = pygame.mixer.Sound(str(Path.cwd() / "slfGame" / "resources" / "sounds" / "light-wing-flap-6143.mp3"))
+
+moth_pop_sound = pygame.mixer.Sound(str(Path.cwd() / "slfGame" / "resources" / "sounds" / "pick-92276.mp3"))
 
 running = True
 while running:
@@ -112,12 +136,17 @@ while running:
         # Player closed the game
         if event.type == pygame.QUIT:
             running = False
+        elif event.type == KEYDOWN:
+            # quit game on escape
+            if event.key == K_ESCAPE:
+                running = False
 
 
         elif event.type == ADDSLF:
-            # Create a new moth and add it to the coin list
+            # Create a new moth and add it to the slf list
             new_slf = SpottedLanFly()
             slf_list.add(new_slf)
+            moth_flapping_sound.play()
 
             if len(slf_list) < 3:
                 slf_countdown -= slf_interval
@@ -130,6 +159,17 @@ while running:
 
 
     # RENDER YOUR GAME HERE
+    player.update(pygame.mouse.get_pos())
+
+    
+    slf_killed = pygame.sprite.spritecollide(sprite=player, group=slf_list, dokill=True)
+    for slf in slf_killed:
+        score += 1
+
+        # Play bug squish sound
+        moth_pop_sound.play()
+        
+
 
     # Are there too many coins on the screen?
     if len(slf_list) >= SLF_COUNT:
@@ -138,17 +178,17 @@ while running:
 
     render_squash_background()
 
-    # Draw the slf next
+    # Draw the slf
     for slf in slf_list:
         screen.blit(slf.surf, slf.rect)
 
+    # Draw Player
+    screen.blit(player.surf, player.rect)
 
     # Finally, draw the score at the bottom left
     score_font = pygame.font.SysFont("any_font", 36)
     score_block = score_font.render(f"Score: {score}", False, (0, 0, 0))
     screen.blit(score_block, (50, SCREEN_HEIGHT - 50))
-
-    ## Track the user's mouse position, and have it show up on screen.
 
     ## User's will click on a little moth, and be able to drag it around! Then they can like, idk do something to dispose of it
 
@@ -157,4 +197,5 @@ while running:
 
     clock.tick(60)  # limits FPS to 60
 
+pygame.mouse.set_visible(True)
 pygame.quit()
